@@ -4342,7 +4342,7 @@
   "ALFAMASH 30 E.C. TABS.": {
     "search_name": "ALFAMASH 30 E.C. TABS.",
     "name": "ALFAMASH 30 E.C. TABS.",
-    "price": "165L.E",
+    "price": "195L.E",
     "information": "about chymotrypsin^a proteolytic enzyme antiinflammatory^mechanism of action of chymotrypsin^chymotrypsin is a serine endopeptidase that preferentially cleaves peptide bonds on the carboxyl side of amino acids with bulky hydrophobic residues particularly tyrosine tryptophan phenylalanine and leucine^indications for chymotrypsin^1.enzymatic zonulysis for intracapsular lens extraction ^2.edema ^3.inflammation",
     "category": "enzyme replacement therapy"
   },
@@ -9788,30 +9788,30 @@
   "APTAMIL 1 ADVANCE PREMIUM+ MILK 400 GM": {
     "search_name": "APTAMIL 1 ADVANCE PREMIUM+ MILK 400 GM",
     "name": "APTAMIL 1 ADVANCE PREMIUM+ MILK 400 GM",
-    "price": "419L.E",
+    "price": "440L.E",
     "information": "not to replace mother s milk.^for infants from 0-6 months age.^to be used within one month from opening.",
     "category": "milk products.first stage (age 0-6 months)"
   },
   "APTAMIL 2 ADVANCE PREMIUM+ MILK 400 GM": {
     "search_name": "APTAMIL 2 ADVANCE PREMIUM+ MILK 400 GM",
     "name": "APTAMIL 2 ADVANCE PREMIUM+ MILK 400 GM",
-    "price": "419L.E",
+    "price": "440L.E",
     "information": "not to replace mother s milk.^for infants from 0-6 months age.^to be used within one month from opening.",
     "category": "milk products.first stage (age 0-6 months)"
   },
   "APTAMIL 3 ADVANCE JUNIOR PREMIUM+ MILK 400 GM": {
     "search_name": "APTAMIL 3 ADVANCE JUNIOR PREMIUM+ MILK 400 GM",
     "name": "APTAMIL 3 ADVANCE JUNIOR PREMIUM+ MILK 400 GM",
-    "price": "419L.E",
+    "price": "440L.E",
     "information": "This is third stage milk of APTAMIL.^Not to replace mother s milk.^For Infants from 1-3 years age.^To be used within one month from opening.",
     "category": "milk products.third stage (age 1-3 years)"
   },
   "APTAMIL COMFORT MILK 400 GM": {
     "search_name": "APTAMIL COMFORT MILK 400 GM",
-    "name": "APTAMIL COMFORT MILK 400 GM",
-    "price": "473L.E",
-    "information": "from birth onwards.^it provides complete care for babies experiencing colic flatulence or. general digestive discomfort. it has low level of lactose.^to be used within 4 weeks of opening.",
-    "category": "extra care milk"
+    "name": "",
+    "price": "",
+    "information": "",
+    "category": ""
   },
   "APTAMIL HA1 MILK 400 GM (N/A)": {
     "search_name": "APTAMIL HA1 MILK 400 GM (N/A)",
@@ -9837,7 +9837,7 @@
   "APTAMIL NUTRIPREM PDF MILK 400 GM": {
     "search_name": "APTAMIL NUTRIPREM PDF MILK 400 GM",
     "name": "APTAMIL NUTRIPREM PDF MILK 400 GM",
-    "price": "452L.E",
+    "price": "475L.E",
     "information": "For Pre-mature Infants from birth onwards.^To be used within one month from opening.^^It is a whey dominant pre-term infant formula designed to provide complete nutrient-enriched nutrition for pre-term and low birth weight infants following hospital discharge.^^It is specially formulated to help ensure infants receive a balanced high quality combination of ingredients to help support healthy growth and development in the following key areas:^^ Brain & Eye Development: Helps support development of the infant’s central nervous system and eyes^ Physical Growth: Helps support bone growth and tissue growth and Maintenance^ Digestion: Helps support healthy gastrointestinal development^ Immunity: Helps support a healthy immune system.",
     "category": "milk products.prematue milk formula"
   },
@@ -9851,7 +9851,7 @@
   "APTAMIL PROSYNEO MILK 400 GM": {
     "search_name": "APTAMIL PROSYNEO MILK 400 GM",
     "name": "APTAMIL PROSYNEO MILK 400 GM",
-    "price": "485L.E",
+    "price": "497L.E",
     "information": "for infants with milk allergy. made from pure amino acids without milk.^not to replace mother s milk.^for infants from 0-6 months age.^to be used within one month from opening.",
     "category": "hypo-allergenic milk"
   },
@@ -16116,14 +16116,14 @@
   "BEBELAC 1 MILK 400 GM": {
     "search_name": "BEBELAC 1 MILK 400 GM",
     "name": "BEBELAC 1 MILK 400 GM",
-    "price": "345L.E",
+    "price": "363L.E",
     "information": "not to replace mother s milk.^for infants from birth to 6 months age.^to be used within one month from opening.",
     "category": "milk products.first stage (age 0-6 months)"
   },
   "BEBELAC 2 MILK 400 GM": {
     "search_name": "BEBELAC 2 MILK 400 GM",
     "name": "BEBELAC 2 MILK 400 GM",
-    "price": "345L.E",
+    "price": "363L.E",
     "information": "not to replace mother s milk.^for infants from 6 months to 1 year age.^to be used within one month from opening.",
     "category": "milk products.second stage (age 6-12 months)"
   },
@@ -16137,35 +16137,35 @@
   "BEBELAC 3 JUNIOR MILK 400 GM": {
     "search_name": "BEBELAC 3 JUNIOR MILK 400 GM",
     "name": "BEBELAC 3 JUNIOR MILK 400 GM",
-    "price": "345L.E",
+    "price": "363L.E",
     "information": "not to replace mother s milk.^for infants from 1 year age onward.^to be used within one month from opening.",
     "category": "milk products.third stage (age 1-3 years)"
   },
   "BEBELAC AR MILK 400 GM": {
     "search_name": "BEBELAC AR MILK 400 GM",
     "name": "BEBELAC AR MILK 400 GM",
-    "price": "430L.E",
+    "price": "441L.E",
     "information": "from birth onwards.^it provides complete care for babies experiencing colic flatulence or. general digestive discomfort. it has low level of lactose.^to be used within 4 weeks of opening.",
     "category": "milk products.anti-regurgitation milk"
   },
   "BEBELAC EC MILK 400 GM": {
     "search_name": "BEBELAC EC MILK 400 GM",
     "name": "BEBELAC EC MILK 400 GM",
-    "price": "375L.E",
+    "price": "394L.E",
     "information": "from birth onwards.^it provides complete care for babies experiencing colic flatulence or. general digestive discomfort. it has low level of lactose.^to be used within 4 weeks of opening.",
     "category": "extra care milk"
   },
   "BEBELAC LF MILK 400 GM": {
     "search_name": "BEBELAC LF MILK 400 GM",
     "name": "BEBELAC LF MILK 400 GM",
-    "price": "390L.E",
+    "price": "399L.E",
     "information": "used mainly for diarrhea.^from birth onwards.^use milk within 4 weeks of opening.",
     "category": "lactose free milk"
   },
   "BEBELAC PREMATURE MILK 400 GM": {
     "search_name": "BEBELAC PREMATURE MILK 400 GM",
     "name": "BEBELAC PREMATURE MILK 400 GM",
-    "price": "395L.E",
+    "price": "415L.E",
     "information": "specially formulated for preterm and low birth weight infants.^it could be discontinued under medical advice after a weight of 3 kgm has been reached or. until 2 months corrected age.^to be used within one month from opening.",
     "category": "milk products.prematue milk formula"
   },
@@ -22038,7 +22038,7 @@
   "BRONCHOTEC SYRUP 120ML": {
     "search_name": "BRONCHOTEC SYRUP 120ML",
     "name": "BRONCHOTEC SYRUP 120ML",
-    "price": "13L.E",
+    "price": "33L.E",
     "information": "INDICATIONS 1- COUGH CAUSED BY MINOR THROAT & BRONCHIAL IRRITATION DUE TO COLD. 2- AS EXPECTORANT TO HELP LOOSEN PHLEGM & BRONCHIAL SECRETIONS TO MAKE COUGH MORE PRODUCTIVE. DOSAGE & ADMINISTRATION ADULTS & CHILDREN OVER 12 YEARS OF AGE: 10 ML TO BE TAKEN THREE TO FOUR TIMES DAILY. CHILDREN FROM 6 TO 12 YEARS OF AGE: 5 ML TO BE TAKEN THREE TO FOUR TIMES DAILY. CHILDREN FROM 2 TO 6 YEARS OF AGE: 2.5 ML TO BE TAKEN THREE TO FOUR TIMES DAILY UNDER THE DOCTOR’S SUPERVISION.",
     "category": "cough products"
   },
@@ -26315,7 +26315,7 @@
   "CAVENTOL SYRUP 120 ML": {
     "search_name": "CAVENTOL SYRUP 120 ML",
     "name": "CAVENTOL SYRUP 120 ML",
-    "price": "49L.E",
+    "price": "55L.E",
     "information": "HERBAL SYRUP THAT HELP TO RELIEVE THE COUGH AND SORE THROAT. DIETARY SUPPLEMENT. DIRECTIONS FOR USE: ONE SMALL SPOON 5ML, 3-4 TIMES DAILY.",
     "category": "anti-cough.antitussive and expectorant"
   },
@@ -37242,7 +37242,7 @@
   "DABOCASE 20 CAPS.": {
     "search_name": "DABOCASE 20 CAPS.",
     "name": "DABOCASE 20 CAPS.",
-    "price": "60L.E",
+    "price": "100L.E",
     "information": "Therapeutic use:^Helps in cleansing colon and constipation relief.^^Administration:^2 capsules on an empty stomach 1 to 4 times per day.^Follow with a glass of grapefruit juice orange juice or. freshly-squeezed lemon juice in water (or just water). or. as directed by a healthcare professional.",
     "category": "laxative"
   },
@@ -50703,7 +50703,7 @@
   "EPIMAG 12 EFF. GR. IN SACHETS": {
     "search_name": "EPIMAG 12 EFF. GR. IN SACHETS",
     "name": "EPIMAG 12 EFF. GR. IN SACHETS",
-    "price": "26L.E",
+    "price": "36L.E",
     "information": "About Magnesium Citrate^Osmotic laxative^Mechanism of Action of Magnesium Citrate^Magnesium citrate works by attracting water through the tissues by a process known as osmosis. Once in the intestine it can attract enough water into the intestine to induce defecation. The additional water helps to create more feces which naturally stimulates bowel motility. This means it can also be used to treat rectal and colon problems. Magnesium citrate functions best on an empty stomach.^^Indications for Magnesium Citrate^1.To clean stool from the intestines before surgery or. certain bowel procedures (e.g. colonoscopy radiography) ^2.Dietary Supplement ^3.Laxative ^4.Antacid",
     "category": "hyper-oxaluria"
   },
@@ -73873,28 +73873,28 @@
   "HYPOTHYRONOR 100 MCG 100 TABS.": {
     "search_name": "HYPOTHYRONOR 100 MCG 100 TABS.",
     "name": "HYPOTHYRONOR 100 MCG 100 TABS.",
-    "price": "45L.E",
+    "price": "75L.E",
     "information": "Indication ^For use alone or. in combination with antithyroid agents to treat hypothyroidism goiter chronic lymphocytic thyroiditis myxedema coma and stupor.^^Mechanism of action ^Levothyroxine acts like the endogenous thyroid hormone thyroxine (T4 a tetra-iodinated tyrosine derivative). In the liver and kidney T4 is converted to T3 the active metabolite. In order to increase solubility the thyroid hormones attach to thyroid hormone binding proteins thyroxin-binding globulin and thyroxin-binding prealbumin (transthyretin). Transport and binding to thyroid hormone receptors in the cytoplasm and nucleus then takes place. Thus by acting as a replacement for natural thyroxine symptoms of thyroxine deficiency are relieved.",
     "category": "thyroid.hormanal therapy"
   },
   "HYPOTHYRONOR 150 MCG 100 TABS.": {
     "search_name": "HYPOTHYRONOR 150 MCG 100 TABS.",
     "name": "HYPOTHYRONOR 150 MCG 100 TABS.",
-    "price": "54L.E",
+    "price": "96L.E",
     "information": "Indication ^For use alone or. in combination with antithyroid agents to treat hypothyroidism goiter chronic lymphocytic thyroiditis myxedema coma and stupor.^^Mechanism of action ^Levothyroxine acts like the endogenous thyroid hormone thyroxine (T4 a tetra-iodinated tyrosine derivative). In the liver and kidney T4 is converted to T3 the active metabolite. In order to increase solubility the thyroid hormones attach to thyroid hormone binding proteins thyroxin-binding globulin and thyroxin-binding prealbumin (transthyretin). Transport and binding to thyroid hormone receptors in the cytoplasm and nucleus then takes place. Thus by acting as a replacement for natural thyroxine symptoms of thyroxine deficiency are relieved.",
     "category": "thyroid.hormanal therapy"
   },
   "HYPOTHYRONOR 25 MCG 100 TABS.": {
     "search_name": "HYPOTHYRONOR 25 MCG 100 TABS.",
     "name": "HYPOTHYRONOR 25 MCG 100 TABS.",
-    "price": "32L.E",
+    "price": "39L.E",
     "information": "Indication ^For use alone or. in combination with antithyroid agents to treat hypothyroidism goiter chronic lymphocytic thyroiditis myxedema coma and stupor.^^Mechanism of action ^Levothyroxine acts like the endogenous thyroid hormone thyroxine (T4 a tetra-iodinated tyrosine derivative). In the liver and kidney T4 is converted to T3 the active metabolite. In order to increase solubility the thyroid hormones attach to thyroid hormone binding proteins thyroxin-binding globulin and thyroxin-binding prealbumin (transthyretin). Transport and binding to thyroid hormone receptors in the cytoplasm and nucleus then takes place. Thus by acting as a replacement for natural thyroxine symptoms of thyroxine deficiency are relieved.",
     "category": "thyroid.hormanal therapy"
   },
   "HYPOTHYRONOR 50 MCG 100 TABS.": {
     "search_name": "HYPOTHYRONOR 50 MCG 100 TABS.",
     "name": "HYPOTHYRONOR 50 MCG 100 TABS.",
-    "price": "39L.E",
+    "price": "53L.E",
     "information": "Indication ^For use alone or. in combination with antithyroid agents to treat hypothyroidism goiter chronic lymphocytic thyroiditis myxedema coma and stupor.^^Mechanism of action ^Levothyroxine acts like the endogenous thyroid hormone thyroxine (T4 a tetra-iodinated tyrosine derivative). In the liver and kidney T4 is converted to T3 the active metabolite. In order to increase solubility the thyroid hormones attach to thyroid hormone binding proteins thyroxin-binding globulin and thyroxin-binding prealbumin (transthyretin). Transport and binding to thyroid hormone receptors in the cytoplasm and nucleus then takes place. Thus by acting as a replacement for natural thyroxine symptoms of thyroxine deficiency are relieved.",
     "category": "thyroid.hormanal therapy"
   },
@@ -79340,7 +79340,7 @@
   "IVYNTOL SYRUP 120 ML": {
     "search_name": "IVYNTOL SYRUP 120 ML",
     "name": "IVYNTOL SYRUP 120 ML",
-    "price": "42L.E",
+    "price": "49L.E",
     "information": "Due to their broncholytic and secretolic properties ivy leaf dried extract has long provided its worth in practice. Their efficacy has been demonstrated in numerous scientific studies. According to a pharmacological investigation its constituent appears to be responsible for the improvement in lung function observed in clinical studies.",
     "category": "anti-cough.antitussive and expectorant"
   },
@@ -91890,10 +91890,10 @@
   },
   "MAGICPICLONE 2 MG 20 F.C.TABS.": {
     "search_name": "MAGICPICLONE 2 MG 20 F.C.TABS.",
-    "name": "MAGICPICLONE 2 MG 20 F.C.TABS.",
-    "price": "27L.E",
-    "information": "About Eszopiclone Benzodiazepine agonist, sedative and hypnotics. Mechanism of Action of Eszopiclone Eszopiclone acts on benzodiazepine binding site situated on GABAA neurons as an agonist, increases the conduction of chloride ions across the neuronal cell membrane .This increased conductance raises the membrane potential of the neuron, resulting in inhibition of neuronal firing. Indications for Eszopiclone 1. Insomnia 2. Behavioral therapies Typical Dosage for Eszopiclone Adult: 2 mg to 3 mg before bed time Older patient: 2 mg before bed time",
-    "category": "psychiatric.anxiolytics-hypnotics"
+    "name": "",
+    "price": "",
+    "information": "",
+    "category": ""
   },
   "MAGICRELIDE 0.5 MG 10 CAPS.": {
     "search_name": "MAGICRELIDE 0.5 MG 10 CAPS.",
@@ -92541,10 +92541,10 @@
   },
   "MANNCRAN 30 CAPS": {
     "search_name": "MANNCRAN 30 CAPS",
-    "name": "MANNCRAN 30 CAPS",
-    "price": "235L.E",
-    "information": "Cranberry is an Anti- Adhesin Agent which^^reduces the incidence of recurrent Urinary tract infection.^^Pharmacological Action: ^Cranberry extract have been proven effective for treatment of urinary tract infections in a number of clinical trials due to its content of proanthcyanidins Hippuric acid and plant acids. Cranberry irreversibly inhibits P-fimbriae of E-coli by attachment of the fimbria to the uroepithelium. Furthermore the presence of plant acids like benzonic maleic quinic & hippuric minimize the bacterial growth in the urinary tract. Cranberry help reduce the recurrence of UTI by preventing the adherence of uropathogens on uroepithelium & their colonization.^^Indications/ Uses:^^-Cranberry is indicated to help in Uncomplicated UTI including acute cases of cystitis and urethritis and pyelonephritis alone or. in combination with proper antibiotic.^-Cranberry is helpful for patients highly susceptible to frequent & recurrent UTI.",
-    "category": "uti"
+    "name": "",
+    "price": "",
+    "information": "",
+    "category": ""
   },
   "MANNITOL 10% (ALLMED) I.V. INF. 500 ML": {
     "search_name": "MANNITOL 10% (ALLMED) I.V. INF. 500 ML",
@@ -93389,7 +93389,7 @@
   "MARNYS ROYAL PROVITE 5000 - 10 ORAL BOTTLES 11 ML": {
     "search_name": "MARNYS ROYAL PROVITE 5000 - 10 ORAL BOTTLES 11 ML",
     "name": "MARNYS ROYAL PROVITE 5000 - 10 ORAL BOTTLES 11 ML",
-    "price": "550L.E",
+    "price": "575L.E",
     "information": "Dose:^Drink 1 vial once daily before breakfast.^Shake well before use.",
     "category": "multivitamins"
   },
@@ -96420,7 +96420,7 @@
   "MEMPHIS PANTHENOL 5% CREAM 30 GM": {
     "search_name": "MEMPHIS PANTHENOL 5% CREAM 30 GM",
     "name": "MEMPHIS PANTHENOL 5% CREAM 30 GM",
-    "price": "25L.E",
+    "price": "30L.E",
     "information": "About Panthenol Alcohol analog of pantothenic acid (vitamin B5), and is thus a provitamin of B5. Mechanism of Action of Panthenol Skin:It binds to the hair shaft readily and It coats the hair and seals its surface, lubricating the hair shaft and making strands appear shiny.Panthenol has good skin penetration. It improves hydration, reduces itching and inflammation of the skin and accelerates and improves healing of epidermal wounds. Oral:If ingested, panthenol is metabolized to pantothenic acid.. Panthenol comes in two enantiomers, D and L. Only D-panthenol (dexpanthenol) is biologically active, however both forms have moisturizing properties. For cosmetic use, panthenol comes either in D form, or as a racemic mixture of D and L (DL-panthenol).",
     "category": "skin care.moisturizing"
   },
@@ -109909,7 +109909,7 @@
   "NT 300 20 FILM-COATED TABLET": {
     "search_name": "NT 300 20 FILM-COATED TABLET",
     "name": "NT 300 20 FILM-COATED TABLET",
-    "price": "192L.E",
+    "price": "195L.E",
     "information": "Film-coated tablet containing Alpha Lipoic Acid with neurotropic B-vitamins (Benfotiamine, Pyridoxine HCl, Methylcobalamin) and Cholecalciferol. Provides antioxidant support and helps maintain normal nerve structure and function.",
     "category": "neurotropic vitamin supplement / antioxidant"
   },
@@ -118848,14 +118848,14 @@
   "PEDIAMIL 1 MILK 400 GM": {
     "search_name": "PEDIAMIL 1 MILK 400 GM",
     "name": "PEDIAMIL 1 MILK 400 GM",
-    "price": "375L.E",
+    "price": "385L.E",
     "information": "not to replace mother s milk.^for infants from 0-6 months age.^to be used within one month from opening.^^liptomil plus contains^1. prebiotics.^2.nucleotides.^3.antioxidants.^4.essential fatty acids.^5. choline & taurine.^6. vitamins minerals and trace elements.^7. inositol.^8. l-carnitines.",
     "category": "milk products.first stage (age 0-6 months)"
   },
   "PEDIAMIL 2 MILK 400 GM": {
     "search_name": "PEDIAMIL 2 MILK 400 GM",
     "name": "PEDIAMIL 2 MILK 400 GM",
-    "price": "375L.E",
+    "price": "385L.E",
     "information": "not to replace mother s milk.^for infants from 6 months to 1 year age.^to be used within one month from opening.^^it contains^1. prebiotics.^2.nucleotides.^3.antioxidants.^4.essential fatty acids.^5. choline & taurine.^6. vitamins minerals and trace elements.^7. inositol.^8. l-carnitines.",
     "category": "milk products.second stage (age 6-12 months)"
   },
@@ -122964,7 +122964,7 @@
   "POLYTAR SOAP 100 GM": {
     "search_name": "POLYTAR SOAP 100 GM",
     "name": "POLYTAR SOAP 100 GM",
-    "price": "50L.E",
+    "price": "55L.E",
     "information": "*Medicated soap for prophylaxes & helping in managing all types of acne with extra sebum absorbing power.^*Decreases severity of acne in adults & teenagers.^*Controls excessive sebum secretion in oily & sensitive skin.^^USE:^Lather soap on face or. skin leave it as a mask for one minute then rinse with warm water.^- For best results TRITECT ACNE Soap is used (2-3) times daily.",
     "category": "skin care.acne"
   },
@@ -130293,7 +130293,7 @@
   "REFLUXALIN 20 TABS": {
     "search_name": "REFLUXALIN 20 TABS",
     "name": "REFLUXALIN 20 TABS",
-    "price": "110L.E",
+    "price": "130L.E",
     "information": "Tablets supports digestive system health work as antacid",
     "category": "antacid"
   },
@@ -137594,7 +137594,7 @@
   "SAFWA VIT 30 TABS": {
     "search_name": "SAFWA VIT 30 TABS",
     "name": "SAFWA VIT 30 TABS",
-    "price": "150L.E",
+    "price": "185L.E",
     "information": "safwa vit contains :^ RDA multi vitamins minerals and bio elements.^Dose : one tablet daily.",
     "category": "multivitamins"
   },
@@ -138182,7 +138182,7 @@
   "SANDRILL 600 MG 30 CAPSULES": {
     "search_name": "SANDRILL 600 MG 30 CAPSULES",
     "name": "SANDRILL 600 MG 30 CAPSULES",
-    "price": "348L.E",
+    "price": "375L.E",
     "information": "ANTIOXIDANT,MULTIVITAMINES,ANTI NEUROITIS",
     "category": "antioxidant,multivitamines"
   },
@@ -139813,7 +139813,7 @@
   "SEAM-LITE SCAR GEL 50 GM": {
     "search_name": "SEAM-LITE SCAR GEL 50 GM",
     "name": "SEAM-LITE SCAR GEL 50 GM",
-    "price": "550L.E",
+    "price": "590L.E",
     "information": "Seam Lite Scar Gel is your best choice for treat All kind of scars All post surgical scars Caesarean section scars Traumatic scars and After laser sessions.",
     "category": "scar therapy"
   },
@@ -139862,14 +139862,14 @@
   "SEBACOVI 30 TABS.": {
     "search_name": "SEBACOVI 30 TABS.",
     "name": "SEBACOVI 30 TABS.",
-    "price": "180L.E",
+    "price": "210L.E",
     "information": "*composition:-^-vitamin c ... 500 mg^-vitamin d3 ... 5000 iu^-zinc ... 30 mg^-ginger extract ... 75 mg^-curcumin ... 50 mg^-l-lysine ... 100 mg^-citrus bioflavonoids ... 25 mg^^good formula for supporting immunity and supports bones and muscles health and good antioxidants",
     "category": "multivitamins"
   },
   "SEBAFERRO 20 TABS.": {
     "search_name": "SEBAFERRO 20 TABS.",
     "name": "SEBAFERRO 20 TABS.",
-    "price": "250L.E",
+    "price": "275L.E",
     "information": "composition^iron 18 mg^vitamin c 120 mg^vitamen e 13.5 mg^vitamin d3 600 iu^vitamin b1 1.4 mg^vitamin b2 1.4 mg^vitamin b3 18 mg^vitamin b6 5 mg^vitamin b12 2.6 mcg^beta-carotene 1.5 mg ^pantothenic acid 6 mg^biotin 30 mcg^folic acid 1 mg^zinc 7.5 mg^magnesium 50 mg^manganese 2 mg^iodine 220 mcg^chromium 30 mcg^copper 0.9 mg^selenium 60 mcg^molybdenum 50 mcg^^^sebaferro is multivitamin with iron you can take during all stages of your pregnancy^sebaferro supports all types of ida ^dose^one tablet per day with or. without meal",
     "category": "multivitamin with iron"
   },
@@ -139890,7 +139890,7 @@
   "SEBASLEEP 30 ML DROPS": {
     "search_name": "SEBASLEEP 30 ML DROPS",
     "name": "SEBASLEEP 30 ML DROPS",
-    "price": "125L.E",
+    "price": "150L.E",
     "information": "Support healthy sleep",
     "category": "multivitamins"
   },
@@ -140961,7 +140961,7 @@
   "SEMABOT TAB 20 TABLETS": {
     "search_name": "SEMABOT TAB 20 TABLETS",
     "name": "SEMABOT TAB 20 TABLETS",
-    "price": "110L.E",
+    "price": "130L.E",
     "information": "Multivitamin with calcium Magnesium and Vit D3",
     "category": "multivitamin"
   },
@@ -142039,7 +142039,7 @@
   "SERVECT HAIR OIL WITH SERUM 200 ML": {
     "search_name": "SERVECT HAIR OIL WITH SERUM 200 ML",
     "name": "SERVECT HAIR OIL WITH SERUM 200 ML",
-    "price": "130L.E",
+    "price": "250L.E",
     "information": "hair care",
     "category": ""
   },
@@ -142312,7 +142312,7 @@
   "SHAAN SOOTHING GEL 120 GM": {
     "search_name": "SHAAN SOOTHING GEL 120 GM",
     "name": "SHAAN SOOTHING GEL 120 GM",
-    "price": "170L.E",
+    "price": "190L.E",
     "information": "non-greasy moisturizing gel with high absorption provides immediate soothing action moisturizes hydrates restore dry skin barrier and prevents itching and inflammation symptoms.^^used post-laser^^apply 2-3 times daily.",
     "category": "skin care.soothing"
   },
@@ -142592,7 +142592,7 @@
   "SHOMA CREAM 60 GM": {
     "search_name": "SHOMA CREAM 60 GM",
     "name": "SHOMA CREAM 60 GM",
-    "price": "130L.E",
+    "price": "140L.E",
     "information": "Cream for cracked heels",
     "category": "moisturizing topical"
   },
@@ -144258,7 +144258,7 @@
   "SKINORICH CREAM 35 GM": {
     "search_name": "SKINORICH CREAM 35 GM",
     "name": "SKINORICH CREAM 35 GM",
-    "price": "120L.E",
+    "price": "140L.E",
     "information": "-Azelaic acid ... 14%^-Salicylic acid ... 2%^-Panthenol ... 2%",
     "category": "skin care.anti-acne"
   },
@@ -144699,7 +144699,7 @@
   "SLIMMER SWEETENER 50 SACHETS": {
     "search_name": "SLIMMER SWEETENER 50 SACHETS",
     "name": "SLIMMER SWEETENER 50 SACHETS",
-    "price": "85L.E",
+    "price": "95L.E",
     "information": "1 Sachet = 2 teaspoonful of normal sugar",
     "category": "sweetener"
   },
@@ -146911,7 +146911,7 @@
   "SOO CARTY 30 TABS": {
     "search_name": "SOO CARTY 30 TABS",
     "name": "SOO CARTY 30 TABS",
-    "price": "175L.E",
+    "price": "185L.E",
     "information": "Contributes to the maintenance of normal bones and muscles",
     "category": "calcium supplement"
   },
@@ -146925,7 +146925,7 @@
   "SOOCAL 120 ML SYP": {
     "search_name": "SOOCAL 120 ML SYP",
     "name": "SOOCAL 120 ML SYP",
-    "price": "65L.E",
+    "price": "75L.E",
     "information": "Calcium for bone support",
     "category": "multivitamin"
   },
@@ -147338,7 +147338,7 @@
   "SPARKPHI 10 ML ORAL DROPS": {
     "search_name": "SPARKPHI 10 ML ORAL DROPS",
     "name": "SPARKPHI 10 ML ORAL DROPS",
-    "price": "119L.E",
+    "price": "159L.E",
     "information": "Sparkphi is a Unique formula of Lactobacillus Sccharomyces ^plus Zinc to support intestinal health",
     "category": "supports intestinal health"
   },
@@ -147520,7 +147520,7 @@
   "SPASMOPINAVER 100 MG 30 F.C.TABS.": {
     "search_name": "SPASMOPINAVER 100 MG 30 F.C.TABS.",
     "name": "SPASMOPINAVER 100 MG 30 F.C.TABS.",
-    "price": "48L.E",
+    "price": "52L.E",
     "information": "About Pinaverium BromideSA calcium channel blocker, For functional gastrointestinal disorder.SMechanism of Action of Pinaverium BromideSPinaverium is a calcium channel blocker. It inhibits the calcium influx through voltage-dependent calcium channel in the intestinal smooth muscle and produces relaxation of smooth muscle.SIndications for Pinaverium BromideS1.Irritable bowel syndrome S2.Abdominal pain S3.Bowel disturbances STypical Dosage for Pinaverium BromideSAdult: SOral:150mg/day in 3 divided doses. Dose can be increased to 300mg/day if sufficient response is not obtained.",
     "category": "smooth muscle relaxant"
   },
@@ -147912,7 +147912,7 @@
   "SPIDER CARE 60 GM MASSAGE CREAM": {
     "search_name": "SPIDER CARE 60 GM MASSAGE CREAM",
     "name": "SPIDER CARE 60 GM MASSAGE CREAM",
-    "price": "65L.E",
+    "price": "74L.E",
     "information": "Apply athin layer of SPIDER CARE MASSAGE on the skin when needed",
     "category": "massage cream"
   },
@@ -147933,7 +147933,7 @@
   "SPIKA 100MG 12 F.C. TAB.": {
     "search_name": "SPIKA 100MG 12 F.C. TAB.",
     "name": "SPIKA 100MG 12 F.C. TAB.",
-    "price": "45L.E",
+    "price": "69L.E",
     "information": "About Sildenafil Citrate Phosphodiesterase-5 Enzyme Inhibitor, Anti-erectile dysfunction agent. Mechanism of Action of Sildenafil Citrate Sildenafil is a phosphodiesterase enzyme (PDE5) inhibitor. This enzyme is responsible for the degradation cyclic guanosine monophosphate (cGMP) produced in reaction to sexual stimulation. The more cGMP is available, the more durable the erection. Sildenafil inhibits the PDE5 enzyme, preserving cGMP levels, therefore aiding erection viability and durability Erection of the penis is caused by the filling of the penis with blood. Filling occurs because the blood vessels that bring blood to the penis increase in size and deliver more blood to the penis and at the same time, the blood vessels that take blood away from the penis decrease in size and remove less blood from the penis. Sexual stimulation that leads to an erection causes the production and release of nitric oxide in the corpora cavernosa of the penis.",
     "category": "sexual tonic"
   },
@@ -148388,7 +148388,7 @@
   "SPUNKY MASSAGE GEL 50 GM": {
     "search_name": "SPUNKY MASSAGE GEL 50 GM",
     "name": "SPUNKY MASSAGE GEL 50 GM",
-    "price": "100L.E",
+    "price": "120L.E",
     "information": "massage cream",
     "category": ""
   },
@@ -148402,7 +148402,7 @@
   "SQUIBASH 30 CAPSULES": {
     "search_name": "SQUIBASH 30 CAPSULES",
     "name": "SQUIBASH 30 CAPSULES",
-    "price": "119L.E",
+    "price": "124L.E",
     "information": "Treatment For Iron deficiency anemia",
     "category": "multivitamin"
   },
@@ -149060,7 +149060,7 @@
   "STEFANO EMULGEL 30GM": {
     "search_name": "STEFANO EMULGEL 30GM",
     "name": "STEFANO EMULGEL 30GM",
-    "price": "195L.E",
+    "price": "230L.E",
     "information": "Specialized emulgel for management of Keloids& Hypertrophic Scars. *Helps in softening, smoothing and flattening new and old hypertrophic scars and keloids resulting after surgeries or burns. *Helps in improving scars appearance, height, texture and color How to use - Stefano emulgel should not be used on open or ulcerated wounds (approximately used after 7-10 days from the wound occurrence). - Apply a suitable amount of stefano emulgel on the scars site twice daily for 2-6 months or until the scar has almost disappeared. -stefano emulgel can be used as dressing on closed scar site.",
     "category": "scar therapy"
   },
@@ -149109,7 +149109,7 @@
   "STEM ACNE PRONE SKIN LOTION 50 GM": {
     "search_name": "STEM ACNE PRONE SKIN LOTION 50 GM",
     "name": "STEM ACNE PRONE SKIN LOTION 50 GM",
-    "price": "65L.E",
+    "price": "155L.E",
     "information": "anti-acne",
     "category": ""
   },
@@ -149130,7 +149130,7 @@
   "STEM HAIR LOTION 200 ML": {
     "search_name": "STEM HAIR LOTION 200 ML",
     "name": "STEM HAIR LOTION 200 ML",
-    "price": "240L.E",
+    "price": "260L.E",
     "information": "hair care",
     "category": ""
   },
@@ -149172,7 +149172,7 @@
   "STEREOVENT SPRAY30ML": {
     "search_name": "STEREOVENT SPRAY30ML",
     "name": "STEREOVENT SPRAY30ML",
-    "price": "75L.E",
+    "price": "85L.E",
     "information": "Moisturizing spray",
     "category": "moisturizing spray"
   },
@@ -151251,7 +151251,7 @@
   "SUPER FORMULA 200 GRAM POWDER": {
     "search_name": "SUPER FORMULA 200 GRAM POWDER",
     "name": "SUPER FORMULA 200 GRAM POWDER",
-    "price": "125L.E",
+    "price": "147L.E",
     "information": "recommended for:^^-people with increased nutrient requirements (fever convalescence hospitalized surgical patient burns trauma and fractures)^-during pregnancy and lactation^-decreased oral intake: (anorexia nausea depression and old geriatrics)^-hair skin and nail troubles.^-fatigue and general weakness^-sport and mental activities.^-weight gain.^^use:^add two table spoonfuls to 200 ml of water or. milk or. as directed by the physician.",
     "category": "dietary supplement"
   },
@@ -151517,7 +151517,7 @@
   "SUPOLACK HAIR SHAMPOO 200 ML": {
     "search_name": "SUPOLACK HAIR SHAMPOO 200 ML",
     "name": "SUPOLACK HAIR SHAMPOO 200 ML",
-    "price": "150L.E",
+    "price": "245L.E",
     "information": "anti-dandruff",
     "category": "hair care"
   },
@@ -152224,7 +152224,7 @@
   "SWIVESINE 10 ML ORAL DROPS": {
     "search_name": "SWIVESINE 10 ML ORAL DROPS",
     "name": "SWIVESINE 10 ML ORAL DROPS",
-    "price": "140L.E",
+    "price": "165L.E",
     "information": "Probiotic Vit D3",
     "category": "probiotic vit d3"
   },
@@ -152329,7 +152329,7 @@
   "SYLINA 5 GM 10 SACHETS": {
     "search_name": "SYLINA 5 GM 10 SACHETS",
     "name": "SYLINA 5 GM 10 SACHETS",
-    "price": "100L.E",
+    "price": "120L.E",
     "information": "Rich with Psyllium & Chromium ^Help in weight control with diet regimen",
     "category": "food supplement source of fiber"
   },
@@ -152483,7 +152483,7 @@
   "SYMMEBACT-ORS 5 SACHET": {
     "search_name": "SYMMEBACT-ORS 5 SACHET",
     "name": "SYMMEBACT-ORS 5 SACHET",
-    "price": "75L.E",
+    "price": "90L.E",
     "information": "oral rehydration solution (ors) is recommended in infants and children with acute diarrhea for the treatment or. the prevention of dehydration . ^zinc supplementation is beneficial in infants and children with acute diarrhea. furthermore lactobacillus reuteri (l. reuteri) was reported to have a beneficial effect in reducing the duration and severity of acute gastroenteritis of both bacterial and viral (rotavirus) origin in infants and toddlers aged 6–36 months .^ for treatment of ^diarrhea diseas",
     "category": "anti-diarrhea"
   },
@@ -153225,7 +153225,7 @@
   "TALINOROSE 250 ML INTIMATE FEMININE WASH": {
     "search_name": "TALINOROSE 250 ML INTIMATE FEMININE WASH",
     "name": "TALINOROSE 250 ML INTIMATE FEMININE WASH",
-    "price": "75L.E",
+    "price": "80L.E",
     "information": "The most potent antiseptic antibacterial and antifungal vaginal cleanser",
     "category": "intimate feminine wash"
   },
@@ -153750,7 +153750,7 @@
   "TARION SHAMPOO ANTI DANDRUFF 200 ML": {
     "search_name": "TARION SHAMPOO ANTI DANDRUFF 200 ML",
     "name": "TARION SHAMPOO ANTI DANDRUFF 200 ML",
-    "price": "230L.E",
+    "price": "245L.E",
     "information": "tarion shampoo anti dandruff 200 ml",
     "category": "tarion shampoo anti dandruff 200 ml"
   },
@@ -153953,7 +153953,7 @@
   "TAVON MASSAGE SPRAY 100ML": {
     "search_name": "TAVON MASSAGE SPRAY 100ML",
     "name": "TAVON MASSAGE SPRAY 100ML",
-    "price": "150L.E",
+    "price": "165L.E",
     "information": "Tavon is analgesic anti-inflammatory spray, 100 ml, 95 LE",
     "category": "massage"
   },
@@ -154170,7 +154170,7 @@
   "TECAFO 30 TAB.": {
     "search_name": "TECAFO 30 TAB.",
     "name": "TECAFO 30 TAB.",
-    "price": "75L.E",
+    "price": "90L.E",
     "information": "Folic acid with vit.B12 and Vit.B6",
     "category": "folic acid with vit.b12 and vit.b6"
   },
@@ -154548,7 +154548,7 @@
   "TELZINO CREAM 40 GM": {
     "search_name": "TELZINO CREAM 40 GM",
     "name": "TELZINO CREAM 40 GM",
-    "price": "115L.E",
+    "price": "130L.E",
     "information": "- Telzino is specialized for external and internal anal hemorrhoids control anal fissures relieve pain itching discomfort and swelling ^- Effective in enhancing healing of external and internal anal hemorrhoids during pregnancy postnatal period ^- Act with a demonstrated activity against both gram-positive and gram-negative bacteria ^- Provide better asepsis with significant reduction in infection ^- Possess a strong anti-inflammatory properties that can reduce inflammation and swelling due to piles^- Contain ingredients which have a topical analgesic and anesthetic effect to relieve pain and itching ^- Effective against internal bleeding and prevent the formation of blood clots ^- Help to soften the stool and make it easier to pass through the rectum",
     "category": "hemorrhoids"
   },
@@ -154576,7 +154576,7 @@
   "TEMOVY 120 ML SYRUP": {
     "search_name": "TEMOVY 120 ML SYRUP",
     "name": "TEMOVY 120 ML SYRUP",
-    "price": "49L.E",
+    "price": "68L.E",
     "information": "Cough syrup^With orange flavour",
     "category": "multivitamin"
   },
@@ -155185,7 +155185,7 @@
   "TERNA 30 TABS": {
     "search_name": "TERNA 30 TABS",
     "name": "TERNA 30 TABS",
-    "price": "150L.E",
+    "price": "170L.E",
     "information": "Ternary is a comprehensive supplement targeting oxidative stress and its consequences boasts a powerful blend of essential vitamins and minerals",
     "category": "multivitamin"
   },
@@ -155276,7 +155276,7 @@
   "TESLAGLOBIN 20 CAP": {
     "search_name": "TESLAGLOBIN 20 CAP",
     "name": "TESLAGLOBIN 20 CAP",
-    "price": "140L.E",
+    "price": "160L.E",
     "information": "Comprehensive protocol to address iron deficiency",
     "category": "multivitamin"
   },
@@ -155332,7 +155332,7 @@
   "TETRA CARE HAIR SHAMPOO 200 ML": {
     "search_name": "TETRA CARE HAIR SHAMPOO 200 ML",
     "name": "TETRA CARE HAIR SHAMPOO 200 ML",
-    "price": "210L.E",
+    "price": "240L.E",
     "information": "Anti hair fall Shampoo (zero sulphate)^With caffeine and biotin and collagen and jojoba extract and Rosemary extraxt and other active ingredients",
     "category": "hair care"
   },
@@ -156193,7 +156193,7 @@
   "TIAPAIR 20 TABS": {
     "search_name": "TIAPAIR 20 TABS",
     "name": "TIAPAIR 20 TABS",
-    "price": "140L.E",
+    "price": "150L.E",
     "information": "Trypsin Bromelain papain are proteolytic enzymes act as anti-edematous Anti-inflammatory^Rutin and Quercitin act as anti-inflammatory^Rutin and Quercitin and Oligomeric proanthocyanidin are veintonic^Vitamin C and Vitamin E and Grape Extract are Antioxidants",
     "category": "anti-edematous anti-inflammatory veintonic"
   },
@@ -157411,7 +157411,7 @@
   "TOP RELAX MASSAGE CR": {
     "search_name": "TOP RELAX MASSAGE CR",
     "name": "TOP RELAX MASSAGE CR",
-    "price": "89L.E",
+    "price": "100L.E",
     "information": "Top relax massage cr anti flomatory Analgesic Anti edamates Top Relax Massage Cream is rich in natural elements and ingredients that help reduce inflammation, pain and swelling",
     "category": "massage cr"
   },
@@ -158013,7 +158013,7 @@
   "TOROTUS 20 TAB": {
     "search_name": "TOROTUS 20 TAB",
     "name": "TOROTUS 20 TAB",
-    "price": "70L.E",
+    "price": "95L.E",
     "information": "Folic acid",
     "category": "folic acid vit b6"
   },
@@ -158216,7 +158216,7 @@
   "TOVIRO 30 TABLETS": {
     "search_name": "TOVIRO 30 TABLETS",
     "name": "TOVIRO 30 TABLETS",
-    "price": "150L.E",
+    "price": "175L.E",
     "information": "Selenium + vitamin C + vitamin E + vitamin Zinc",
     "category": "multivitamin"
   },
@@ -159833,7 +159833,7 @@
   "TRONE 10 SACHETS 100 GM": {
     "search_name": "TRONE 10 SACHETS 100 GM",
     "name": "TRONE 10 SACHETS 100 GM",
-    "price": "130L.E",
+    "price": "140L.E",
     "information": "Chocolate Flavor",
     "category": "iron supplement"
   },
@@ -159847,7 +159847,7 @@
   "TROOK LINE HAIR CREAM 125 GM": {
     "search_name": "TROOK LINE HAIR CREAM 125 GM",
     "name": "TROOK LINE HAIR CREAM 125 GM",
-    "price": "160L.E",
+    "price": "190L.E",
     "information": "HAIR NOURISHING & REPAIRING CREAM - FOR ALL HAIR TYPES",
     "category": "hair care"
   },
@@ -163655,7 +163655,7 @@
   "VALOTEXMAG 150 MG 20 TAB": {
     "search_name": "VALOTEXMAG 150 MG 20 TAB",
     "name": "VALOTEXMAG 150 MG 20 TAB",
-    "price": "120L.E",
+    "price": "130L.E",
     "information": "Reduce risk of preeclampsia Support fetal development Support healthy blood pressure Improves sleep and reduce stress",
     "category": "multivitamin"
   },
@@ -175369,5 +175369,355 @@
     "price": "120L.E",
     "information": "About Linezolid Oxazolidinone derivative, reversible, nonselective monoamine oxidase inhibitor, Antibiotic. Mechanism of Action of Linezolid Linezolid binds to the 23 S fraction of 50 S ribosome and inhibit the formation of 70S initiation complex. Indications for Linezolid 1.Skin and soft tissue infection 2.Pneumonia 3.Wound infection 4.Bactremia 5.Respiratory tract infection 6.Septicaemia 7.Vancomycin resistant enterococcal infection Typical Dosage for Linezolid Adult: 800 - 1200 mg/day in two divided dose for 1 - 2 week",
     "category": "antibiotic.oxazolidinone"
+  },
+  "ACETOIVY 100ML SYRUP": {
+    "search_name": "ACETOIVY 100ML SYRUP",
+    "name": "ACETOIVY 100ML SYRUP",
+    "price": "70L.E",
+    "information": "Acetoivy syrup for all cases of productive cough as it s effect as mucolytic,expectorant And antitussive.",
+    "category": "cough sedatives"
+  },
+  "ACETYLCYSTEINE VITA C MAX 20 HARD GELATIN CAPS": {
+    "search_name": "ACETYLCYSTEINE VITA C MAX 20 HARD GELATIN CAPS",
+    "name": "ACETYLCYSTEINE VITA C MAX 20 HARD GELATIN CAPS",
+    "price": "170L.E",
+    "information": "Dietary supplement",
+    "category": "dietary supplement"
+  },
+  "ACTIVATED BLACK SEED CURCUMIN 30 CAPS": {
+    "search_name": "ACTIVATED BLACK SEED CURCUMIN 30 CAPS",
+    "name": "ACTIVATED BLACK SEED CURCUMIN 30 CAPS",
+    "price": "420L.E",
+    "information": "Dietary supplement",
+    "category": "multivitamin"
+  },
+  "ALVEOMUCIN 120ML SYRUP": {
+    "search_name": "ALVEOMUCIN 120ML SYRUP",
+    "name": "ALVEOMUCIN 120ML SYRUP",
+    "price": "75L.E",
+    "information": "Support respiratory system",
+    "category": "support respiratory system"
+  },
+  "AMYLAMISK 428.6 MG 20 TABS.": {
+    "search_name": "AMYLAMISK 428.6 MG 20 TABS.",
+    "name": "AMYLAMISK 428.6 MG 20 TABS.",
+    "price": "165L.E",
+    "information": "Enteric coated tablet",
+    "category": "digestive enzyme"
+  },
+  "APTAMIL COMFORT 1 MILK 400 GM": {
+    "search_name": "APTAMIL COMFORT 1 MILK 400 GM",
+    "name": "APTAMIL COMFORT 1 MILK 400 GM",
+    "price": "486L.E",
+    "information": "from birth onwards.^it provides complete care for babies experiencing colic flatulence or. general digestive discomfort. it has low level of lactose.^to be used within 4 weeks of opening.",
+    "category": "extra care milk"
+  },
+  "APTAMIL COMFORT 2 MILK 400 GM": {
+    "search_name": "APTAMIL COMFORT 2 MILK 400 GM",
+    "name": "APTAMIL COMFORT 2 MILK 400 GM",
+    "price": "486L.E",
+    "information": "from birth onwards.^it provides complete care for babies experiencing colic flatulence or. general digestive discomfort. it has low level of lactose.^to be used within 4 weeks of opening.",
+    "category": "extra care milk"
+  },
+  "BEE SANATIO 120GM MASSAGE CREAM": {
+    "search_name": "BEE SANATIO 120GM MASSAGE CREAM",
+    "name": "BEE SANATIO 120GM MASSAGE CREAM",
+    "price": "180L.E",
+    "information": "HK BEE SANATIO MASSAGE CREAM with bee venom",
+    "category": "massage cream"
+  },
+  "BIOTIN REVIVE 30 TABLETS": {
+    "search_name": "BIOTIN REVIVE 30 TABLETS",
+    "name": "BIOTIN REVIVE 30 TABLETS",
+    "price": "150L.E",
+    "information": "Supports Skin , hair , nails health",
+    "category": "for skin , hair , nails health"
+  },
+  "BLACK SEED 500MG 30 CAPS": {
+    "search_name": "BLACK SEED 500MG 30 CAPS",
+    "name": "BLACK SEED 500MG 30 CAPS",
+    "price": "170L.E",
+    "information": "ELHAKIM BLACK SEED 500MLG 30 CAPSULES 2 strips",
+    "category": "dietary supplements"
+  },
+  "BLACK SEED 500MG 60 CAPS": {
+    "search_name": "BLACK SEED 500MG 60 CAPS",
+    "name": "BLACK SEED 500MG 60 CAPS",
+    "price": "300L.E",
+    "information": "ELHAKIM BLACK SEED 500MLG CAPSULES",
+    "category": "dietary supplement"
+  },
+  "CALCINAPHA 20 TABS": {
+    "search_name": "CALCINAPHA 20 TABS",
+    "name": "CALCINAPHA 20 TABS",
+    "price": "128L.E",
+    "information": "Diatery suppliment support Musculoskeletal system health",
+    "category": "multivitamin"
+  },
+  "CAPILLAROZ 30 TABS": {
+    "search_name": "CAPILLAROZ 30 TABS",
+    "name": "CAPILLAROZ 30 TABS",
+    "price": "149L.E",
+    "information": "Antioxidant tablets",
+    "category": "antioxidant tablet"
+  },
+  "COMPLISOL 20 FILM COATED TABLETS": {
+    "search_name": "COMPLISOL 20 FILM COATED TABLETS",
+    "name": "COMPLISOL 20 FILM COATED TABLETS",
+    "price": "250L.E",
+    "information": "Complisol tablets for all cases of Diabetic neuropathy and diabeteic retinopathy. Very effective in Neuropathic pains, peripheral neuropathy and sciatica. Prevention and treatment of vitamin B complex deficiency. Spinal neuralgia, cervical syndroms and back pains",
+    "category": "multivitamin"
+  },
+  "DUVACONTRA 50/5MG I.M. AMP.": {
+    "search_name": "DUVACONTRA 50/5MG I.M. AMP.",
+    "name": "DUVACONTRA 50/5MG I.M. AMP.",
+    "price": "31L.E",
+    "information": "indication for the treatment of urogenital symptoms associated with post-menopausal atrophy of the vagina (such as dryness burning pruritus and dyspareunia) and/or the lower urinary tract (urinary urgency and dysuria).^pharmacodynamics estradiol the principal intracellular human estrogen is substantially more active than its metabolites estrone and estriol at the cellular level.^mechanism of action estradiol enters target cells freely (e.g. female organs breasts hypothalamus pituitary) and interacts with a target cell receptor. when the estrogen receptor has bound its ligand it can enter the nucleus of the target cell and regulate gene transcription which leads to formation of messenger rna. the mrna interacts with ribosomes to produce specific proteins that express the effect of estradiol upon the target cell. estrogens increase the hepatic synthesis of sex hormone binding globulin (shbg) thyroid-binding globulin (tbg) and other serum proteins and suppress follicle-stim",
+    "category": "contraception"
+  },
+  "EKOGAIN 20 CAPS": {
+    "search_name": "EKOGAIN 20 CAPS",
+    "name": "EKOGAIN 20 CAPS",
+    "price": "140L.E",
+    "information": "Contains ginkgo biloba extract,vitamins and minerals, constituents of ginko biloba have been studied for their effects on microcirculation oxidative stress and infkammatory pathways .the viramins and minerals provide additional nutritional support",
+    "category": "neurovascular support"
+  },
+  "ELECHEM 10 TABS": {
+    "search_name": "ELECHEM 10 TABS",
+    "name": "ELECHEM 10 TABS",
+    "price": "100L.E",
+    "information": "Anti-inflammatory and anti-edematous",
+    "category": "anti-inflammatory and anti-edematous"
+  },
+  "ENTERODYNE 30 SYNBIOTIC ENTERIC COATED CAPS": {
+    "search_name": "ENTERODYNE 30 SYNBIOTIC ENTERIC COATED CAPS",
+    "name": "ENTERODYNE 30 SYNBIOTIC ENTERIC COATED CAPS",
+    "price": "340L.E",
+    "information": "Dietary supplement",
+    "category": "dietary supplement"
+  },
+  "ENZOHEM 20 CAPS": {
+    "search_name": "ENZOHEM 20 CAPS",
+    "name": "ENZOHEM 20 CAPS",
+    "price": "120L.E",
+    "information": "Support Digestive system health",
+    "category": "digestive enzymes"
+  },
+  "ESZODOR 2MG 20 F.C.TABS": {
+    "search_name": "ESZODOR 2MG 20 F.C.TABS",
+    "name": "ESZODOR 2MG 20 F.C.TABS",
+    "price": "40L.E",
+    "information": "About Eszopiclone Benzodiazepine agonist, sedative and hypnotics. Mechanism of Action of Eszopiclone Eszopiclone acts on benzodiazepine binding site situated on GABAA neurons as an agonist, increases the conduction of chloride ions across the neuronal cell membrane .This increased conductance raises the membrane potential of the neuron, resulting in inhibition of neuronal firing. Indications for Eszopiclone 1. Insomnia 2. Behavioral therapies Typical Dosage for Eszopiclone Adult: 2 mg to 3 mg before bed time Older patient: 2 mg before bed time",
+    "category": "psychiatric.anxiolytics-hypnotics"
+  },
+  "GLOMAG 30 COATED TABS": {
+    "search_name": "GLOMAG 30 COATED TABS",
+    "name": "GLOMAG 30 COATED TABS",
+    "price": "180L.E",
+    "information": "Film coated tablets contain 870 mg Magnesium bisglycinate in Chelated form contributes to the reduction of fatigue supports nervous system and muscle functions.",
+    "category": "vitamin"
+  },
+  "HELIAN ASHAWAGANDHA 600MG 20 CAPS": {
+    "search_name": "HELIAN ASHAWAGANDHA 600MG 20 CAPS",
+    "name": "HELIAN ASHAWAGANDHA 600MG 20 CAPS",
+    "price": "150L.E",
+    "information": "Non sedating stress releiver, normalize cortisol level and increase cognitive functions",
+    "category": "herbal anyxiolytic"
+  },
+  "HEPTA ZINC + OLIVE CREAM 100 GM": {
+    "search_name": "HEPTA ZINC + OLIVE CREAM 100 GM",
+    "name": "HEPTA ZINC + OLIVE CREAM 100 GM",
+    "price": "140L.E",
+    "information": "Hepta Zinc Olive Cream is a baby skincare cream designed to protect your baby’s delicate skin from diaper rash, chafing, redness, and irritation. It contains 10% Zinc Oxide, Olive Oil, and 0.25% B-Sitosterol, which work together to form a protective barrier against moisture, friction, and everyday irritants, while soothing the skin and helping keep it soft and comfortable.",
+    "category": "skin care"
+  },
+  "HEPTA ZINC + OLIVE LOTION 120 ML": {
+    "search_name": "HEPTA ZINC + OLIVE LOTION 120 ML",
+    "name": "HEPTA ZINC + OLIVE LOTION 120 ML",
+    "price": "100L.E",
+    "information": "Hepta Zinc Olive Lotion is a baby skincare lotion designed to protect the skin from diaper rash, chafing, redness, and irritation. It contains 25% Zinc Oxide, Olive Oil, and 0.25% B-Sitosterol, which work together to form a protective barrier against moisture and friction, while soothing the skin and helping keep it soft and comfortable.",
+    "category": "skin care"
+  },
+  "JARDZYME 20 ENTERIK COATED TABLETS": {
+    "search_name": "JARDZYME 20 ENTERIK COATED TABLETS",
+    "name": "JARDZYME 20 ENTERIK COATED TABLETS",
+    "price": "160L.E",
+    "information": "Anti-inflammatory + Anti-oedema",
+    "category": "anti-inflammatory+anti-oedema"
+  },
+  "LEVOVERROES 500 MG 7 F.C. TABS.": {
+    "search_name": "LEVOVERROES 500 MG 7 F.C. TABS.",
+    "name": "LEVOVERROES 500 MG 7 F.C. TABS.",
+    "price": "125L.E",
+    "information": "Third generation fluroquinolone , abroad spectrum antiinfective Levofloxacin is broad spectrum antibacterial agent Indication 1-sinusitis 2-Bronchitis 3-pneumonia 4-UTI 5-traveler diarrhoea",
+    "category": "antibiotic"
+  },
+  "LEVOVERROES 750 MG 7 F.C. TABS.": {
+    "search_name": "LEVOVERROES 750 MG 7 F.C. TABS.",
+    "name": "LEVOVERROES 750 MG 7 F.C. TABS.",
+    "price": "134L.E",
+    "information": "Third generation fluroquinolone , abroad spectrum antiinfective Levofloxacin is broad spectrum antibacterial agent Indication 1-sinusitis 2-Bronchitis 3-pneumonia 4-UTI 5-traveler diarrhoea",
+    "category": "antibiotic"
+  },
+  "MANNCRAN 30 CAPS.": {
+    "search_name": "MANNCRAN 30 CAPS.",
+    "name": "MANNCRAN 30 CAPS.",
+    "price": "260L.E",
+    "information": "Cranberry is an Anti- Adhesin Agent which^^reduces the incidence of recurrent Urinary tract infection.^^Pharmacological Action: ^Cranberry extract have been proven effective for treatment of urinary tract infections in a number of clinical trials due to its content of proanthcyanidins Hippuric acid and plant acids. Cranberry irreversibly inhibits P-fimbriae of E-coli by attachment of the fimbria to the uroepithelium. Furthermore the presence of plant acids like benzonic maleic quinic & hippuric minimize the bacterial growth in the urinary tract. Cranberry help reduce the recurrence of UTI by preventing the adherence of uropathogens on uroepithelium & their colonization.^^Indications/ Uses:^^-Cranberry is indicated to help in Uncomplicated UTI including acute cases of cystitis and urethritis and pyelonephritis alone or. in combination with proper antibiotic.^-Cranberry is helpful for patients highly susceptible to frequent & recurrent UTI.",
+    "category": "uti"
+  },
+  "MASHPARADOL 1 GM 30 SCORED TABS.": {
+    "search_name": "MASHPARADOL 1 GM 30 SCORED TABS.",
+    "name": "MASHPARADOL 1 GM 30 SCORED TABS.",
+    "price": "90L.E",
+    "information": "about paracetamol^acetanilide derivative non narcotic analgesic antipyretic.^mechanism of action of paracetamol^paracetamol has analgesic and antipyretic action. ^it is more active on cyclo-oxygenase enzyme in brain. peripherally it is a poor inhibitor of prostaglandin synthesis. ^analgesic action: paracetamol raises the pain threshold and produces analgesic effect. ^antipyretic action: paracetamol lowers fever by direct action on the thermoregulatory centre in the hypothalamus and block the effects of endogenous pyrogen. ^indications for paracetamol^1. to relieve pain and fever ^2. acute gout ^3. migraine ^interactions for paracetamol^cholestyramine: reduces absorption of paracetamol. ^charcoal: activated administered immediately reduces absorption of paracetamol. ^domperidone and metochlopramide: enhance absorption of paracetamol. ^alcohol: chronic excessive ingestion of alcohol potentiates hepatotoxicity of paracetamol.",
+    "category": "antipyretic"
+  },
+  "MORSO 10 SACHETS": {
+    "search_name": "MORSO 10 SACHETS",
+    "name": "MORSO 10 SACHETS",
+    "price": "200L.E",
+    "information": "Whey protein increase Weight and multivitamin and mulltiminerals",
+    "category": "multivitamin and mullti mineral"
+  },
+  "NESTOGEN COMFORT MILK 380 GM": {
+    "search_name": "NESTOGEN COMFORT MILK 380 GM",
+    "name": "NESTOGEN COMFORT MILK 380 GM",
+    "price": "330L.E",
+    "information": "from birth onwards.^it provides complete care for babies experiencing colic flatulence or. general digestive discomfort. it has low level of lactose.^to be used within 4 weeks of opening.",
+    "category": "extra care milk"
+  },
+  "OBJECLASE 20 TAB": {
+    "search_name": "OBJECLASE 20 TAB",
+    "name": "OBJECLASE 20 TAB",
+    "price": "120L.E",
+    "information": "Analgesic and Anti-inflammatory Reduce pain .",
+    "category": "anti-inflammatory"
+  },
+  "OPTIMELT B12 30 SUBLINGUAL CAPS": {
+    "search_name": "OPTIMELT B12 30 SUBLINGUAL CAPS",
+    "name": "",
+    "price": "",
+    "information": "",
+    "category": ""
+  },
+  "OPTIMELT SLEEP 30 SUBLINGUAL TABS": {
+    "search_name": "OPTIMELT SLEEP 30 SUBLINGUAL TABS",
+    "name": "OPTIMELT SLEEP 30 SUBLINGUAL TABS",
+    "price": "150L.E",
+    "information": "Dietary supplement",
+    "category": "dietary supplement"
+  },
+  "PROBIOTICS 14 VEGAN CAPS. (360 NUTRITION)": {
+    "search_name": "PROBIOTICS 14 VEGAN CAPS. (360 NUTRITION)",
+    "name": "PROBIOTICS 14 VEGAN CAPS. (360 NUTRITION)",
+    "price": "300L.E",
+    "information": "Supports a healthy, digestive and immune systems",
+    "category": "immunity booster"
+  },
+  "PROSTWIN 30 CAPS": {
+    "search_name": "PROSTWIN 30 CAPS",
+    "name": "PROSTWIN 30 CAPS",
+    "price": "220L.E",
+    "information": "Supports men s health",
+    "category": "for prostate health"
+  },
+  "RAWGIT 40MG 14 CAPS": {
+    "search_name": "RAWGIT 40MG 14 CAPS",
+    "name": "RAWGIT 40MG 14 CAPS",
+    "price": "160L.E",
+    "information": "A medication belonging to proton pump inhibitors (PPIs), used for the treatment of peptic ulcer disease, GERD, and conditions causing excess stomach acid.",
+    "category": "peptic ulcer / proton pump inhibitor"
+  },
+  "RAWSMOOTH 12 SACHETS": {
+    "search_name": "RAWSMOOTH 12 SACHETS",
+    "name": "RAWSMOOTH 12 SACHETS",
+    "price": "150L.E",
+    "information": "A laxative formulation designed to relieve constipation and promote regular, healthy bowel movements.",
+    "category": "laxative / regulating bowel"
+  },
+  "REPAION-N SPRAY 150 ML": {
+    "search_name": "REPAION-N SPRAY 150 ML",
+    "name": "REPAION-N SPRAY 150 ML",
+    "price": "170L.E",
+    "information": "massage",
+    "category": ""
+  },
+  "SANI FAST 35MG 30ML ORAL DROPS": {
+    "search_name": "SANI FAST 35MG 30ML ORAL DROPS",
+    "name": "SANI FAST 35MG 30ML ORAL DROPS",
+    "price": "75L.E",
+    "information": "relieves cough and supports easier breathing with herbal ivy extract drops.",
+    "category": "ivy leaf extract"
+  },
+  "SANTOCIRC 60MG 30 TABS": {
+    "search_name": "SANTOCIRC 60MG 30 TABS",
+    "name": "SANTOCIRC 60MG 30 TABS",
+    "price": "150L.E",
+    "information": "Santocirc contains 60 mg of standardized Ginkgo biloba leaf extract (50:1 ethanol extract, NLT 24% flavone glycosides), supporting cognitive function, memory and cerebral circulation. It may also be used as supportive therapy for dizziness and vertigo, tinnitus, and peripheral circulatory insufficiency, with potential adjunctive benefits in selected cognitive and psychiatric conditions.",
+    "category": "ginkgo biloba extract"
+  },
+  "SUNNYMETHASONE 1 AMP. 2ML": {
+    "search_name": "SUNNYMETHASONE 1 AMP. 2ML",
+    "name": "SUNNYMETHASONE 1 AMP. 2ML",
+    "price": "33L.E",
+    "information": "About Betamethasone dipropionate A synthetic glucocorticoid, anti-inflammatory. Indications for Betamethasone dipropionate 1.Eczema 2.Psoriasis 3.Contact dermatitis 4.Anal and vulval Pruritis 5.Inflammation of the skin Contra-indications of Betamethasone dipropionate 1.Hypersensitivity to Betamethasone 2.Untreated bacterial virus or fungal infections 3.Acne vulgaris 4.Peri-oral dermatitis 5.Tuberculosis of the skin 6.Varicose ulcers 7.Skin lesions caused by infections with herpes simplex vaccinia or varicella viruses. fungi (e.g. Candida Tinea) or bacteria (e.g. impetigo) 8.Discoid lupus Erythematosus",
+    "category": "glucocorticoid"
+  },
+  "THIOPEANTIN COMPOUND 30 F.C. TABS.": {
+    "search_name": "THIOPEANTIN COMPOUND 30 F.C. TABS.",
+    "name": "THIOPEANTIN COMPOUND 30 F.C. TABS.",
+    "price": "350L.E",
+    "information": "This product is ideal for: Individuals with diabetic neuropathy. People experiencing nerve pain or tingling sensations. Patients with peripheral nerve damage. Patients experiencing chronic inflammation. Individuals with poor nerve circulation or nerve sensitivity.",
+    "category": "multivitamin"
+  },
+  "THIOPEANTIN ORIGINAL 30 F.C. TABS.": {
+    "search_name": "THIOPEANTIN ORIGINAL 30 F.C. TABS.",
+    "name": "THIOPEANTIN ORIGINAL 30 F.C. TABS.",
+    "price": "300L.E",
+    "information": "multivitamin",
+    "category": ""
+  },
+  "TRANSILIBRUM 120ML SYRUP": {
+    "search_name": "TRANSILIBRUM 120ML SYRUP",
+    "name": "TRANSILIBRUM 120ML SYRUP",
+    "price": "449L.E",
+    "information": "Cognitive function",
+    "category": "syrup"
+  },
+  "TRANSOMNIA 30ML SYRUP": {
+    "search_name": "TRANSOMNIA 30ML SYRUP",
+    "name": "TRANSOMNIA 30ML SYRUP",
+    "price": "200L.E",
+    "information": "Adjust time taken to fall asleep",
+    "category": "drope"
+  },
+  "VANERY JOINT 30 TABS": {
+    "search_name": "VANERY JOINT 30 TABS",
+    "name": "VANERY JOINT 30 TABS",
+    "price": "330L.E",
+    "information": "Diatery suppliment support joints and bones health",
+    "category": "suppliment"
+  },
+  "VARIGUARD 30 TABS": {
+    "search_name": "VARIGUARD 30 TABS",
+    "name": "VARIGUARD 30 TABS",
+    "price": "325L.E",
+    "information": "Dietary supplement",
+    "category": "dietary supplement"
+  },
+  "WIN CYSTINE 30 TABS": {
+    "search_name": "WIN CYSTINE 30 TABS",
+    "name": "WIN CYSTINE 30 TABS",
+    "price": "300L.E",
+    "information": "Contains L-Cystine,L-arginine,zinc and vitamin B6,L-CYSTINE provides a sulfur -containing amino acid found in hair keratin ,L-arginine is involved in nitric oxide synthesis and improving scalp circulation , while zinc and vitamin B6 contribute to normal nutritional and metabolic functions",
+    "category": "hair support"
+  },
+  "WIN CYSTINE 90 TABS": {
+    "search_name": "WIN CYSTINE 90 TABS",
+    "name": "WIN CYSTINE 90 TABS",
+    "price": "850L.E",
+    "information": "Contains L-cystine ,L-arginine,zinc and vitamins B6 L-cystine provides a sulfur-containing amino acids found in hair keratin .L-arginine is involved in nitric oxide synthesisand improving scalp curculation ,while zinc and vitamin B6 contribute to notmal nutritional and metabolic functions",
+    "category": "hair support"
   }
 }

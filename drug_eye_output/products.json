@@ -74685,7 +74685,7 @@
   },
   "RELACOMP MASSAGE SPRAY 100 ML": {
     "name": "RELACOMP MASSAGE SPRAY 100 ML",
-    "price": "120L.E"
+    "price": "140L.E"
   },
   "RELACTAGEL VAG. GEL 7 TUBES": {
     "name": "RELACTAGEL VAG. GEL 7 TUBES",
@@ -94301,7 +94301,7 @@
   },
   "VEGALACAP 20 CAPS": {
     "name": "VEGALACAP 20 CAPS",
-    "price": "280L.E"
+    "price": "300L.E"
   },
   "VEGAPANTIN 50MG/ML SYP. 120 ML": {
     "name": "VEGAPANTIN 50MG/ML SYP. 120 ML",
@@ -94601,7 +94601,7 @@
   },
   "VENTAJ CREAM 50 GM": {
     "name": "VENTAJ CREAM 50 GM",
-    "price": "110L.E"
+    "price": "135L.E"
   },
   "VENTAL 2 MG 20 TABS.": {
     "name": "VENTAL 2 MG 20 TABS.",
@@ -94745,7 +94745,7 @@
   },
   "VENTOSPAN 120 ML SYRUP": {
     "name": "VENTOSPAN 120 ML SYRUP",
-    "price": "65L.E"
+    "price": "75L.E"
   },
   "VENTOTHY SYRUP 100 ML": {
     "name": "VENTOTHY SYRUP 100 ML",
@@ -95473,7 +95473,7 @@
   },
   "VIDOXFLIC 120 ML ORAL SYRUP": {
     "name": "VIDOXFLIC 120 ML ORAL SYRUP",
-    "price": "49L.E"
+    "price": "65L.E"
   },
   "VIDRAL HAIR SERUM 100 ML": {
     "name": "VIDRAL HAIR SERUM 100 ML",
@@ -95565,7 +95565,7 @@
   },
   "VIGOREX 100MG 12 F.C.TABS.": {
     "name": "VIGOREX 100MG 12 F.C.TABS.",
-    "price": "45L.E"
+    "price": "84L.E"
   },
   "VIGOREX 50MG 4 F.C.TABS.": {
     "name": "VIGOREX 50MG 4 F.C.TABS.",
@@ -95909,7 +95909,7 @@
   },
   "VIOCYST 60 F.C. TABS.": {
     "name": "VIOCYST 60 F.C. TABS.",
-    "price": "460L.E"
+    "price": "540L.E"
   },
   "VIOCYST PLUS 30 F.C. TABS.": {
     "name": "VIOCYST PLUS 30 F.C. TABS.",
@@ -95937,7 +95937,7 @@
   },
   "VIOLA HAIR MASK 120 GM": {
     "name": "VIOLA HAIR MASK 120 GM",
-    "price": "225L.E"
+    "price": "245L.E"
   },
   "VIOLA HAIR SERUM 120 ML": {
     "name": "VIOLA HAIR SERUM 120 ML",
@@ -96397,7 +96397,7 @@
   },
   "VITALOCHOC 10 SACHET": {
     "name": "VITALOCHOC 10 SACHET",
-    "price": "90L.E"
+    "price": "100L.E"
   },
   "VITALOCHOC PLUS 10 SACHET": {
     "name": "VITALOCHOC PLUS 10 SACHET",
@@ -96673,7 +96673,7 @@
   },
   "VITATRICTOL 20 TABLET": {
     "name": "VITATRICTOL 20 TABLET",
-    "price": "94L.E"
+    "price": "130L.E"
   },
   "VITATRON 30 CAPS": {
     "name": "VITATRON 30 CAPS",
@@ -96861,7 +96861,7 @@
   },
   "VIVOLAT 10 SACHETS": {
     "name": "VIVOLAT 10 SACHETS",
-    "price": "109L.E"
+    "price": "119L.E"
   },
   "VIVOPAL 500MCG 20 F.C.TAB.": {
     "name": "VIVOPAL 500MCG 20 F.C.TAB.",
@@ -97797,11 +97797,11 @@
   },
   "WHITE MEANS WHITE FACIAL WASH 200 ML": {
     "name": "WHITE MEANS WHITE FACIAL WASH 200 ML",
-    "price": "250L.E"
+    "price": "295L.E"
   },
   "WHITE MEANS WHITE SKIN SERUM 40 ML": {
     "name": "WHITE MEANS WHITE SKIN SERUM 40 ML",
-    "price": "280L.E"
+    "price": "385L.E"
   },
   "WHITE OBJECTIVE CREME MOUSSANT ECLAIRCISSANTE 200ML": {
     "name": "WHITE OBJECTIVE CREME MOUSSANT ECLAIRCISSANTE 200ML",
@@ -97873,7 +97873,7 @@
   },
   "WIFERMENT 10 CAPSULES": {
     "name": "WIFERMENT 10 CAPSULES",
-    "price": "96L.E"
+    "price": "105L.E"
   },
   "WINCEF 1 GM I.M. / I.V. VIAL": {
     "name": "WINCEF 1 GM I.M. / I.V. VIAL",
@@ -100410,5 +100410,53 @@
   "WIN CYSTINE 90 TABS": {
     "name": "WIN CYSTINE 90 TABS",
     "price": "850L.E"
+  },
+  "FERODORATO 20 CAPS": {
+    "name": "FERODORATO 20 CAPS",
+    "price": "120"
+  },
+  "HAMMER HE 30 GELATIN CAPS": {
+    "name": "HAMMER HE 30 GELATIN CAPS",
+    "price": "400"
+  },
+  "HAMMER SHE 30 GELATIN CAPS": {
+    "name": "HAMMER SHE 30 GELATIN CAPS",
+    "price": "400"
+  },
+  "MAFISAL 120ML SYRUP": {
+    "name": "MAFISAL 120ML SYRUP",
+    "price": "70"
+  },
+  "NADOEAST 30 GELATIN CAPS": {
+    "name": "NADOEAST 30 GELATIN CAPS",
+    "price": "680"
+  },
+  "NEOZONE 20 SUBLINGUAL TABS": {
+    "name": "NEOZONE 20 SUBLINGUAL TABS",
+    "price": "100"
+  },
+  "PARISHIASTAR 150GM LEAVE-IN CONDITIONER": {
+    "name": "PARISHIASTAR 150GM LEAVE-IN CONDITIONER",
+    "price": "300"
+  },
+  "PARISHIASTAR 60GM MOISTURIZER WATER GEL": {
+    "name": "PARISHIASTAR 60GM MOISTURIZER WATER GEL",
+    "price": "300"
+  },
+  "PARISHIASTAR 60GM SUN SCREEN GEL": {
+    "name": "PARISHIASTAR 60GM SUN SCREEN GEL",
+    "price": "400"
+  },
+  "PARISHIASTAR 60ML ROLL-ON DEODORANT": {
+    "name": "PARISHIASTAR 60ML ROLL-ON DEODORANT",
+    "price": "250"
+  },
+  "PARISHIASTAR TAMIMA KIDS 150GM HAIR CREAM": {
+    "name": "PARISHIASTAR TAMIMA KIDS 150GM HAIR CREAM",
+    "price": "300"
+  },
+  "PARISHIASTAR TAMIMA KIDS 200ML SHOWER GEL": {
+    "name": "PARISHIASTAR TAMIMA KIDS 200ML SHOWER GEL",
+    "price": "250"
   }
 }

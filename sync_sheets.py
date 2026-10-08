@@ -2,6 +2,7 @@
 import csv
 import json
 import os
+from datetime import datetime, timezone
 
 import gspread
 from google.oauth2.service_account import Credentials
@@ -38,6 +39,8 @@ def main():
         [details[k].get(h, "") for h in HEADER] for k in sorted(details)
     ]
     push(sh, "products", rows)
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    push(sh, "meta", [["key", "value"], ["last_update", now]])
 
     for tab in ("price_history", "new_products", "changed_products"):
         path = f"{OUT}/{tab}.csv"

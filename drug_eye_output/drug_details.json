@@ -6344,7 +6344,7 @@
   "AMINOLEBAN I.V. INFUSION 500 ML": {
     "search_name": "AMINOLEBAN I.V. INFUSION 500 ML",
     "name": "AMINOLEBAN I.V. INFUSION 500 ML",
-    "price": "183L.E",
+    "price": "327L.E",
     "information": "*8% AMINO ACIDS. *CONTAINS ARGININE TO REDUCE BLOOD AMMONIA. MAIN THERAPY FOR FAST AND PERSISTENTLY IMPROVING ALL DEGREES OF HEPATIC ENCEPHALOPATHY. AMINOLEBAN IS INDICATED IN TREATMENT OF HEPATIC ENCEPHALOPATHY IN PATIENTS WITH CHRONIC LIVER DISEASE. CONTRA INDICATIONS : *PATIENTS WITH SEVERE RENAL DISORDER. *PATIENTS WITH ABNORMAL AMINO ACID METABOLISM. *FOR PERIPHERAL AND CENTRAL ADMINISTRATION.",
     "category": "parenteral solutions"
   },
@@ -135144,7 +135144,7 @@
   "RONKIN 1010 MG 20 S.G.CAPS.": {
     "search_name": "RONKIN 1010 MG 20 S.G.CAPS.",
     "name": "RONKIN 1010 MG 20 S.G.CAPS.",
-    "price": "96L.E",
+    "price": "130L.E",
     "information": "Helps in management of benign prostate hyperplasia and prostatitis.",
     "category": "prostate care"
   },
@@ -175838,5 +175838,40 @@
     "price": "250L.E",
     "information": "Anti-dandruff hair shampoo",
     "category": "hair care"
+  },
+  "AMYLOSPIRIT 90ML SYRUP": {
+    "search_name": "AMYLOSPIRIT 90ML SYRUP",
+    "name": "AMYLOSPIRIT 90ML SYRUP",
+    "price": "75L.E",
+    "information": "It is enzymatic preparation of anti-inflammatory and anti-edematous activity. It is used for sore throat, inflammation, edema, ENT & Dental conditions, trauma and bruising. The mode of action of alpha-amylase in inflammatory edema is characterized by: Hydrolysis with polysaccharides inflammatory exudate making it more fluid. Inhibition of abnormal capillary permeability by decreasing the output of liquid from vessels allowing easier esema resorption. Dose: for infants up to 3 years: 1 teaspoon 3 times/ day. For children over 3 years: q tablespoon 3 times/ day For adults: 1 tablespoon 3 times/ day.",
+    "category": "anti-inflammatory enzymes"
+  },
+  "BICARB-SPIRIT 500MG 30 CAPS": {
+    "search_name": "BICARB-SPIRIT 500MG 30 CAPS",
+    "name": "BICARB-SPIRIT 500MG 30 CAPS",
+    "price": "75L.E",
+    "information": "It is used for patients with dyspepsia, metabolic acidosis and also in chronic acidosis as in renal failure,and for urinary alkalinization. It is used to correct thr normal acid-base balance in thr blood.",
+    "category": "alkalinizer"
+  },
+  "GINKOMIRA 120MG 30 CAPS": {
+    "search_name": "GINKOMIRA 120MG 30 CAPS",
+    "name": "GINKOMIRA 120MG 30 CAPS",
+    "price": "150L.E",
+    "information": "Ginkgo Biloba Leaves Extract 120mg",
+    "category": "food supplement"
+  },
+  "GINKOMIRA 80MG 30 CAPS": {
+    "search_name": "GINKOMIRA 80MG 30 CAPS",
+    "name": "GINKOMIRA 80MG 30 CAPS",
+    "price": "130L.E",
+    "information": "Ginkgo Biloba Leaves Extract 80mg",
+    "category": "food supplement"
+  },
+  "OMEGOO 2800MG 10 CAPS": {
+    "search_name": "OMEGOO 2800MG 10 CAPS",
+    "name": "OMEGOO 2800MG 10 CAPS",
+    "price": "120L.E",
+    "information": "2800mg fish oil giving 2000mg Omega 3 for each dose + Vitamin E",
+    "category": "food supplement"
   }
 }

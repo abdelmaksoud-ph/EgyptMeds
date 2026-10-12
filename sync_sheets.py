@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 import gspread
 from google.oauth2.service_account import Credentials
 
-OUT = "drug_eye_output"
+OUT = "eg_drugs_data"
 HEADER = ["search_name", "name", "price", "information", "category"]
 
 

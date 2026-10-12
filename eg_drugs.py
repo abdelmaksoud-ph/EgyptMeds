@@ -27,7 +27,7 @@ DETAIL_URL = (
     "drugeyeapp/android-search/apiforus/gi.aspx"
 )
 
-OUTPUT_DIR = "drug_eye_output"
+OUTPUT_DIR = "eg_drugs_data"
 
 PRODUCTS_FILE = os.path.join(
     OUTPUT_DIR,

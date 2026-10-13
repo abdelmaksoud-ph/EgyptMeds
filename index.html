@@ -29,7 +29,7 @@ mark{background:linear-gradient(transparent 55%,color-mix(in srgb,var(--red) 32%
 .tm{display:flex;align-items:center;gap:14px;font:.75rem var(--mono);color:var(--soft)}
 .tm b{color:var(--ink)}
 .lang{border:1.5px solid var(--ink);background:var(--card);border-radius:99px;padding:2px 14px;font-weight:600}
-.stage{position:sticky;top:0;z-index:20;padding:10px 0 12px;background:linear-gradient(var(--paper) 78%,transparent)}
+.stage{position:sticky;top:0;z-index:20;padding:10px 0 12px;background:linear-gradient(color-mix(in srgb,var(--paper) 90%,transparent) 78%,transparent);backdrop-filter:blur(5px)}
 .idle .stage{position:relative;padding:clamp(24px,8vh,96px) 0 24px}
 .idle .stage::before{content:"";position:absolute;right:2%;top:12%;width:clamp(100px,16vw,200px);height:clamp(40px,6.4vw,80px);border-radius:99px;background:linear-gradient(90deg,var(--green) 50%,var(--red) 50%);box-shadow:inset 0 -10px 0 rgba(0,0,0,.12),0 30px 50px -20px rgba(15,77,60,.45);animation:fl 9s ease-in-out infinite}
 [dir=rtl] .idle .stage::before{right:auto;left:2%}
@@ -60,9 +60,10 @@ h1 em{font-style:italic;color:var(--red);font-weight:400}
 .band{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:6px 14px;background:color-mix(in srgb,var(--k) 14%,var(--card));border-bottom:1.5px solid var(--ink);font:.7rem var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--k)}
 .band i{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--k);margin-inline-end:6px}
 .badge{background:var(--red);color:#fff;border-radius:99px;padding:0 8px;font-size:.66rem}
-.main{flex:1;text-align:start;background:none;border:0;padding:14px 14px 10px}
+.main{flex:1;display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:start;background:none;border:0;padding:14px 14px 10px;min-width:0}
+.main>*{max-width:100%}.main .name{width:100%}
 .name{margin:0 0 6px;font:600 1.12rem/1.25 var(--display);letter-spacing:-.01em;overflow-wrap:anywhere;direction:ltr;text-align:start}
-.ai{display:inline-block;direction:ltr;font:.74rem var(--mono);background:color-mix(in srgb,var(--green) 10%,transparent);color:var(--green);border-radius:6px;padding:1px 8px}
+.ai{display:inline-block;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align:bottom;direction:ltr;font:.74rem var(--mono);background:color-mix(in srgb,var(--green) 10%,transparent);color:var(--green);border-radius:6px;padding:1px 8px}
 .cat{font:.72rem var(--mono);color:var(--soft);margin-top:6px;direction:ltr;text-align:start}
 .pr{display:flex;align-items:baseline;flex-wrap:wrap;gap:4px 10px;margin-top:12px}
 .price{font:600 1.5rem var(--mono);letter-spacing:-.03em}
@@ -181,8 +182,16 @@ async function csv(u){try{const res=await fetch(u);if(!res.ok)return[];const d=p
  return d.slice(1).filter(r=>r.some(x=>x)).map(r=>Object.fromEntries(h.map((k,i)=>[k,r[i]||""])))}catch(e){return[]}}
 async function json(u){try{const res=await fetch(u);if(!res.ok)return null;return Object.values(await res.json())}catch(e){return null}}
 
+function actOf(info){
+ const m=info.match(/^\s*About\s+([\s\S]+)/i);if(!m)return"";
+ const seg=m[1].split(/\^|\n/)[0].trim();
+ if(seg.length<=60)return seg;
+ const w=seg.split(/\s+/),o=[w[0]];
+ let i=1;for(;i<w.length-1&&/^(\+|&|\/|and)$/i.test(w[i]);i+=2)o.push(w[i],w[i+1]);
+ while(i<w.length&&o.length>1&&/^(acid|sodium|potassium|hydrochloride|hcl)$/i.test(w[i]))o.push(w[i++]);
+ return o.join(" ").replace(/[,:;.]+$/,"")}
 function mk(r){
- const info=r.information||"",act=((info.match(/^\s*About\s+([^^]+)/i)||[])[1]||"").trim(),catK=(r.category||"").toLowerCase().trim();
+ const info=r.information||"",act=actOf(info),catK=(r.category||"").toLowerCase().trim();
  const ind=[];for(const x of((info.match(/Indications? for[^^]*\^+([^]*)/i)||[])[1]||"").split("^")){const t=x.trim();if(!t){if(ind.length)break;continue}if(/^\d+[.)]/.test(t))ind.push(t.replace(/^\d+[.)]\s*/,""));else break;if(ind.length>=10)break}
  return{name:r.name,disp:tc(r.name),price:num(r.price),raw:r.price,info,act,ind,cat:(r.category||"").replace(/\./g," / "),catK,cls:catK.split(".")[0],
   actK:act.toLowerCase().replace(/\s+/g," "),nameL:r.name.toLowerCase(),actL:act.toLowerCase(),hay:(r.name+" "+act+" "+r.category+" "+info).toLowerCase()}}

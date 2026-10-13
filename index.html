@@ -2,129 +2,160 @@
 <html lang="en" dir="ltr">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Drug Search</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f3ede1">
+<title>EG Drugs</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&display=swap">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Familjen+Grotesk:wght@400;500;600&family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
 <style>
-:root{--bg:#e8f0f6;--card:#fff;--ink:#0b2540;--mute:#5b7088;--line:#cfdbe6;--g:#00a36c;--gi:#fff;--tag:#ffd84d;--tagi:#3a2f00;--up:#c81e3a;--down:#0a8f4f;--new:#1f5fd6;--alt:#7c3aed}
-@media(prefers-color-scheme:dark){:root{--bg:#0a1626;--card:#11233a;--ink:#e6eef7;--mute:#8aa0b8;--line:#223a56;--g:#2ed3a0;--gi:#062418;--tag:#e9c53a;--tagi:#2b2300;--up:#ff8a9b;--down:#5fe3a1;--new:#8db4ff;--alt:#b69cff}}
+:root{--paper:#f3ede1;--card:#fbf8f1;--ink:#12241e;--soft:#52615a;--green:#0f4d3c;--green2:#1d6b54;--red:#e4553a;--line:rgba(18,36,30,.13);
+--display:'Fraunces',Georgia,serif;--body:'Familjen Grotesk','IBM Plex Sans Arabic',system-ui,sans-serif;--ar:'IBM Plex Sans Arabic','Familjen Grotesk',sans-serif;--mono:'JetBrains Mono',ui-monospace,monospace;--ease:cubic-bezier(.2,.8,.2,1)}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Cairo,"Segoe UI",Tahoma,sans-serif}
-main{max-width:980px;margin:0 auto;padding:18px 16px 70px}
-.bar{display:flex;align-items:center;gap:12px}
-.bar svg{width:42px;height:42px;flex:none}
-h1{font-size:1.5rem;font-weight:800;margin:0;flex:1}
-button{font:inherit;color:inherit}
-.lang{border:2px solid var(--ink);background:none;border-radius:999px;padding:1px 16px;font-weight:600;cursor:pointer}
-.cap{display:flex;margin:20px 0 10px;border:2px solid var(--ink);border-radius:999px;overflow:hidden;background:var(--card);box-shadow:0 4px 0 var(--ink)}
-.cap .ic{background:var(--g);color:var(--gi);display:grid;place-items:center;width:66px;flex:none}
-.cap input{flex:1;min-width:0;border:0;background:none;color:var(--ink);font:inherit;font-size:1.2rem;padding:14px 18px;outline:none}
-.chips{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0;align-items:center}
-.chip{border:1.5px solid var(--line);background:var(--card);border-radius:999px;padding:1px 14px;font-size:.9rem;cursor:pointer}
-.chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
-:is(.chip,.lang,.act):focus-visible{outline:3px solid var(--g);outline-offset:2px}
-.tabs .chip{font-size:1rem;padding:4px 18px;font-weight:600}
-.lbl{color:var(--mute);font-size:.85rem}
-#meta{display:flex;flex-wrap:wrap;gap:4px 18px;color:var(--mute);font-size:.88rem;margin-top:6px}
-#status{margin:12px 2px 8px;color:var(--mute)}
-#list,.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:10px;align-items:start}
-.item{background:var(--card);border:1px solid var(--line);border-inline-start:8px solid var(--g);border-radius:12px;padding:12px 14px;cursor:pointer;min-width:0}
-.item.up{border-inline-start-color:var(--up)}.item.nw{border-inline-start-color:var(--new)}
-.item.open{grid-column:1/-1}
-.top{display:flex;justify-content:space-between;gap:10px;align-items:flex-start}
-.name{font-weight:800;font-size:1.03rem;direction:ltr;unicode-bidi:isolate;overflow-wrap:anywhere}
-.tag{position:relative;background:var(--tag);color:var(--tagi);font-weight:800;padding:0 12px;padding-inline-start:22px;border-radius:6px;white-space:nowrap;text-align:center;line-height:1.3;flex:none}
-.tag::before{content:"";position:absolute;inset-inline-start:7px;top:50%;width:8px;height:8px;margin-top:-4px;border-radius:50%;background:var(--card)}
-.tag s{display:block;font-size:.75rem;font-weight:600;opacity:.75}
-.ai{display:inline-block;direction:ltr;border:1.5px solid var(--g);border-radius:999px;padding:0 10px;font-size:.86rem;font-weight:600;margin:2px 0}
-.cat{color:var(--mute);font-size:.82rem;direction:ltr;text-align:start}
-.bd,.dl{display:block;font-size:.84rem;margin-top:3px;font-weight:600}
-.up{color:var(--up)}.down{color:var(--down)}.nwc{color:var(--new)}
-.item.up,.item.nw{color:inherit}
-.acts{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
-.act{border:1.5px solid var(--g);background:none;border-radius:8px;padding:0 10px;font-size:.84rem;font-weight:600;cursor:pointer}
-.act.alt{border-color:var(--alt)}
-.act.on{background:var(--g);color:var(--gi)}.act.alt.on{background:var(--alt);color:#fff}
-.more{display:none;margin-top:8px;padding-top:8px;border-top:1px dashed var(--line)}
-.item.open .more{display:block}
-.uf{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px;direction:ltr}
-.uf span{background:var(--bg);border-radius:6px;padding:0 8px;font-size:.84rem}
-.hist{font-size:.88rem;margin-bottom:8px}
-.info{white-space:pre-line;color:var(--mute);font-size:.9rem;direction:ltr;text-align:left}
-.pnl{margin-top:10px;padding:10px;background:var(--bg);border-radius:10px;cursor:default}
-.pnl h3{margin:0 0 8px;font-size:.95rem;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
-mark{background:#fde68a;color:#000;border-radius:3px}
-@media(max-width:520px){.cap .ic{width:52px}.cap input{font-size:1.05rem}}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.5 var(--body);-webkit-font-smoothing:antialiased}
+[dir=rtl] body,[dir=rtl] button,[dir=rtl] input{font-family:var(--ar)}
+button{font:inherit;color:inherit;cursor:pointer}
+:is(button,input):focus-visible{outline:2px solid var(--red);outline-offset:2px}
+mark{background:linear-gradient(transparent 55%,color-mix(in srgb,var(--red) 32%,transparent) 55%);color:inherit;padding:0 1px}
+.paper{position:fixed;inset:0;z-index:-1;pointer-events:none;background:repeating-linear-gradient(to bottom,transparent 0 39px,rgba(15,77,60,.07) 39px 40px),radial-gradient(1200px 600px at 85% -10%,rgba(228,85,58,.12),transparent 60%),radial-gradient(900px 600px at -10% 110%,rgba(15,77,60,.12),transparent 60%)}
+.paper::before{content:"";position:absolute;top:0;bottom:0;inset-inline-start:clamp(18px,6vw,88px);width:1px;background:rgba(228,85,58,.35);box-shadow:4px 0 0 rgba(228,85,58,.18)}
+.app{min-height:100dvh;padding:0 clamp(16px,4vw,48px);padding-inline-start:max(clamp(16px,4vw,48px),calc(clamp(18px,6vw,88px) + 22px))}
+.wrap{max-width:1240px;margin:0 auto}
+.top{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:18px 0}
+.brand{display:flex;align-items:center;gap:10px}
+.pill{width:34px;height:15px;border-radius:99px;background:linear-gradient(90deg,var(--green) 50%,var(--red) 50%);transform:rotate(-35deg);box-shadow:inset 0 -3px 0 rgba(0,0,0,.15)}
+.be{font:600 1.45rem var(--display);letter-spacing:-.02em}
+.ba{color:var(--red);font-weight:600}
+.tm{display:flex;align-items:center;gap:14px;font:.75rem var(--mono);color:var(--soft)}
+.tm b{color:var(--ink)}
+.lang{border:1.5px solid var(--ink);background:var(--card);border-radius:99px;padding:2px 14px;font-weight:600}
+.stage{position:sticky;top:0;z-index:20;padding:10px 0 12px;background:linear-gradient(var(--paper) 78%,transparent)}
+.idle .stage{position:relative;padding:clamp(24px,8vh,96px) 0 24px}
+.idle .stage::before{content:"";position:absolute;right:2%;top:12%;width:clamp(100px,16vw,200px);height:clamp(40px,6.4vw,80px);border-radius:99px;background:linear-gradient(90deg,var(--green) 50%,var(--red) 50%);box-shadow:inset 0 -10px 0 rgba(0,0,0,.12),0 30px 50px -20px rgba(15,77,60,.45);animation:fl 9s ease-in-out infinite}
+[dir=rtl] .idle .stage::before{right:auto;left:2%}
+@keyframes fl{0%,100%{transform:translateY(0) rotate(-28deg)}50%{transform:translateY(-14px) rotate(-20deg)}}
+.hero{display:none;position:relative}
+.idle .hero{display:block;animation:rise .7s var(--ease) both}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.eye{font:.75rem var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--green2);margin:0 0 14px}
+h1{font:400 clamp(2.4rem,7vw,5.4rem)/1 var(--display);letter-spacing:-.035em;margin:0 0 clamp(24px,5vh,40px);max-width:13ch}
+[dir=rtl] h1{font-family:var(--ar);font-weight:600;letter-spacing:0;line-height:1.15}
+h1 em{font-style:italic;color:var(--red);font-weight:400}
+.cap{position:relative;display:flex;align-items:center;max-width:860px;height:58px;border-radius:99px;background:var(--card);border:1.5px solid var(--ink);box-shadow:0 6px 0 var(--ink),0 22px 40px -22px rgba(18,36,30,.5);transition:.25s var(--ease)}
+.idle .cap{height:66px}
+.cap:focus-within{transform:translateY(2px);box-shadow:0 4px 0 var(--ink),0 0 0 6px rgba(228,85,58,.18)}
+.cap .ic{flex:none;display:grid;place-items:center;height:100%;width:66px;border-radius:99px 0 0 99px;background:var(--green);color:#f3ede1;margin-inline-start:-1px}
+[dir=rtl] .cap .ic{border-radius:0 99px 99px 0}
+.cap input{flex:1;min-width:0;height:100%;border:0;background:none;color:var(--ink);font-size:1.2rem;padding:0 18px;outline:none}
+.row2{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;margin-top:16px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.lbl{font:.72rem var(--mono);color:var(--soft);letter-spacing:.06em;text-transform:uppercase}
+.chip{border:1px solid var(--line);background:transparent;border-radius:99px;padding:2px 13px;font-size:.88rem}
+.chip:hover{border-color:var(--ink)}
+.chip.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.tabs .chip{font-weight:600;padding:4px 16px}
+#status{font:.8rem var(--mono);color:var(--soft);margin:6px 0 14px}
+#list{display:grid;grid-template-columns:repeat(auto-fill,minmax(285px,1fr));gap:16px;padding-bottom:60px}
+.box{--k:var(--green);display:flex;flex-direction:column;background:var(--card);border:1.5px solid var(--ink);border-radius:14px;box-shadow:4px 4px 0 var(--k);animation:rise .5s var(--ease) both;overflow:hidden}
+.band{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:6px 14px;background:color-mix(in srgb,var(--k) 14%,var(--card));border-bottom:1.5px solid var(--ink);font:.7rem var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--k)}
+.band i{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--k);margin-inline-end:6px}
+.badge{background:var(--red);color:#fff;border-radius:99px;padding:0 8px;font-size:.66rem}
+.main{flex:1;text-align:start;background:none;border:0;padding:14px 14px 10px}
+.name{margin:0 0 6px;font:600 1.12rem/1.25 var(--display);letter-spacing:-.01em;overflow-wrap:anywhere;direction:ltr;text-align:start}
+.ai{display:inline-block;direction:ltr;font:.74rem var(--mono);background:color-mix(in srgb,var(--green) 10%,transparent);color:var(--green);border-radius:6px;padding:1px 8px}
+.cat{font:.72rem var(--mono);color:var(--soft);margin-top:6px;direction:ltr;text-align:start}
+.pr{display:flex;align-items:baseline;flex-wrap:wrap;gap:4px 10px;margin-top:12px}
+.price{font:600 1.5rem var(--mono);letter-spacing:-.03em}
+.price small{font-size:.7rem;font-weight:400;color:var(--soft);margin-inline-start:4px}
+.delta{font:.76rem var(--mono)}.delta s{color:var(--soft)}
+.up{color:var(--red)}.dn{color:var(--green2)}
+.acts{display:flex;border-top:1.5px dashed var(--line)}
+.acts button{flex:1;border:0;background:none;padding:9px 6px;font-size:.84rem;font-weight:500}
+.acts button+button{border-inline-start:1.5px dashed var(--line)}
+.acts button:hover{background:color-mix(in srgb,var(--k) 10%,transparent)}
+.more{display:block;margin:0 auto 60px;border:1.5px solid var(--ink);background:var(--card);border-radius:99px;padding:8px 26px;font-weight:600;box-shadow:0 4px 0 var(--ink)}
+#scrim{position:fixed;inset:0;background:rgba(18,36,30,.45);opacity:0;pointer-events:none;transition:.25s;z-index:50}
+#dr{position:fixed;z-index:60;top:0;bottom:0;inset-inline-end:0;width:min(540px,100%);background:var(--paper);border-inline-start:1.5px solid var(--ink);padding:18px 20px 40px;overflow:auto;transform:translateX(105%);transition:transform .35s var(--ease)}
+[dir=rtl] #dr{transform:translateX(-105%)}
+.dro #scrim{opacity:1;pointer-events:auto}.dro #dr{transform:none}
+.dh{display:flex;justify-content:space-between;gap:10px;margin-bottom:10px}
+.x{border:1.5px solid var(--ink);background:var(--card);border-radius:50%;width:36px;height:36px;font-size:1.1rem;line-height:1}
+.dn1{font:600 1.55rem/1.2 var(--display);margin:6px 0;direction:ltr;text-align:start}
+.dtabs{display:flex;gap:6px;margin:18px 0 10px;flex-wrap:wrap}
+.hint{font-size:.82rem;color:var(--soft);margin:0 0 10px}
+.rw{display:flex;justify-content:space-between;align-items:center;gap:12px;width:100%;text-align:start;background:var(--card);border:1.5px solid var(--ink);border-radius:12px;padding:10px 12px;margin-bottom:8px}
+.rw:hover{box-shadow:3px 3px 0 var(--green)}
+.rw b{display:block;font:600 .98rem/1.25 var(--display);direction:ltr;text-align:start;overflow-wrap:anywhere}
+.rw em{font:.72rem var(--mono);color:var(--soft);font-style:normal;direction:ltr;display:block;text-align:start}
+.rp{text-align:end;flex:none;font:600 1rem var(--mono)}
+.sv{display:block;font:.72rem var(--mono)}
+.uf{display:flex;flex-wrap:wrap;gap:5px;margin:10px 0;direction:ltr}
+.uf span{border:1px solid var(--line);border-radius:99px;padding:0 10px;font-size:.82rem}
+.hs{font:.8rem var(--mono);margin:10px 0}
+details{margin-top:16px;border-top:1.5px dashed var(--line);padding-top:10px}
+summary{font:.78rem var(--mono);cursor:pointer;text-transform:uppercase;letter-spacing:.08em;color:var(--soft)}
+.info{white-space:pre-line;font-size:.9rem;color:var(--soft);direction:ltr;text-align:left;margin-top:8px}
+@media(max-width:620px){#list{grid-template-columns:1fr}.cap .ic{width:52px}.cap input{font-size:1rem}
+#dr{top:auto;width:100%;max-height:90dvh;border-radius:22px 22px 0 0;border:1.5px solid var(--ink);inset-inline-start:0;transform:translateY(105%)!important}.dro #dr{transform:none!important}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
-<main>
-<div class="bar">
-  <svg viewBox="0 0 48 48" aria-hidden="true"><g transform="rotate(-40 24 24)"><rect x="4" y="15" width="40" height="18" rx="9" fill="#fff"/><path d="M24 15h11a9 9 0 0 1 0 18H24z" fill="#00a36c"/><rect x="4" y="15" width="40" height="18" rx="9" fill="none" stroke="currentColor" stroke-width="3"/></g></svg>
-  <h1 data-i="title"></h1>
-  <button class="lang" id="lang" aria-label="Language"></button>
+<div class="paper"></div>
+<div class="app idle" id="app">
+<div class="wrap">
+ <div class="top">
+  <div class="brand"><span class="pill"></span><span class="be">EG Drugs</span><span class="ba" data-i="brandAr"></span></div>
+  <div class="tm"><span id="meta"></span><button class="lang" id="lang" aria-label="Language"></button></div>
+ </div>
+ <div class="stage">
+  <div class="hero"><p class="eye" data-i="eye"></p><h1><span data-i="h1a"></span> <em data-i="h1b"></em></h1></div>
+  <label class="cap"><span class="ic"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg></span><input id="q" type="search" autocomplete="off" autofocus></label>
+  <div class="row2">
+   <div class="chips" id="scope"><span class="lbl" data-i="searchIn"></span><button class="chip on" data-s="all" data-i="sAll"></button><button class="chip" data-s="name" data-i="sName"></button><button class="chip" data-s="act" data-i="sAct"></button></div>
+   <div class="chips" id="ex"><span class="lbl" data-i="try"></span><button class="chip" data-q="para*">para*</button><button class="chip" data-q="amox*cl">amox*cl</button><button class="chip" data-q="keto">keto</button><button class="chip" data-q="&lt;20">&lt;20</button><button class="chip" data-q="20-50">20-50</button></div>
+  </div>
+  <div class="chips tabs" id="tabs" style="margin-top:14px"><button class="chip on" data-v="search" data-i="tSearch"></button><button class="chip" data-v="changes" data-i="tChanges"></button><button class="chip" data-v="new" data-i="tNew"></button></div>
+ </div>
+ <div id="status"></div>
+ <div id="list"></div>
 </div>
-<label class="cap">
-  <span class="ic"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg></span>
-  <input id="q" type="search" autocomplete="off" autofocus>
-</label>
-<div class="chips" id="scope">
-  <span class="lbl" data-i="searchIn"></span>
-  <button class="chip on" data-s="all" data-i="sAll"></button>
-  <button class="chip" data-s="name" data-i="sName"></button>
-  <button class="chip" data-s="act" data-i="sAct"></button>
 </div>
-<div class="chips" id="ex">
-  <span class="lbl" data-i="try"></span>
-  <button class="chip" data-q="para*">para*</button>
-  <button class="chip" data-q="amox*cl">amox*cl</button>
-  <button class="chip" data-q="keto">keto</button>
-  <button class="chip" data-q="&lt;20">&lt;20</button>
-  <button class="chip" data-q="20-50">20-50</button>
-</div>
-<div class="chips tabs" id="tabs">
-  <button class="chip on" data-v="search" data-i="tSearch"></button>
-  <button class="chip" data-v="changes" data-i="tChanges"></button>
-  <button class="chip" data-v="new" data-i="tNew"></button>
-</div>
-<div id="meta"></div>
-<div id="status"></div>
-<div id="list"></div>
-</main>
+<div id="scrim" data-x></div>
+<aside id="dr" role="dialog" aria-modal="true" aria-label="Details"></aside>
 
 <script>
-// Data files committed by the daily update (same repo, same origin).
 const D="eg_drugs_data/",URLS={json:D+"drug_details.json",csv:D+"drug_details.csv",history:D+"price_history.csv",newp:D+"new_products.csv"};
-const MAX=60;
+let MAX=24;
 const L={
-en:{title:"Drug Search",ph:"Name, active ingredient or price",searchIn:"Search in:",sAll:"Everything",sName:"Name",sAct:"Active ingredient",try:"Try:",
- tSearch:"Search",tChanges:"Price changes",tNew:"New products",welcome:"Type a name, the start of a word, or a price range. Use * as a wildcard.",
- loading:"Loading...",err:"Could not load the data. Check that eg_drugs_data/drug_details.json exists in the repo.",
- products:"products",updated:"Updated",results:"results",showing:"showing first",none:"No results.",
- noCh:"No price changes recorded yet.",noNew:"No new products recorded yet.",hist:"Price history",to:"to",cur:"L.E",
- chg:"products with price changes",nw:"new products",added:"Added",btn:"العربية",was:"was",
- sim:"Similars",alt:"Alternatives",wide:"Wider class",cheaper:"cheaper by",pricier:"more by",usedFor:"Used for",
- simT:"Same active ingredient",altT:"Same use",noSim:"No other product with this active ingredient.",noAlt:"No alternatives found.",more:"more"},
-ar:{title:"البحث عن الأدوية",ph:"الاسم أو المادة الفعالة أو السعر",searchIn:"ابحث في:",sAll:"الكل",sName:"الاسم",sAct:"المادة الفعالة",try:"جرّب:",
- tSearch:"بحث",tChanges:"تغيّر الأسعار",tNew:"أدوية جديدة",welcome:"اكتب الاسم أو بداية الكلمة أو نطاق سعر. استخدم * بدل أي حروف.",
- loading:"جارٍ التحميل...",err:"تعذّر تحميل البيانات. تأكد من وجود ملف eg_drugs_data/drug_details.json.",
- products:"دواء",updated:"آخر تحديث",results:"نتيجة",showing:"عرض أول",none:"لا توجد نتائج.",
- noCh:"لا توجد تغييرات في الأسعار بعد.",noNew:"لا توجد أدوية جديدة بعد.",hist:"سجل الأسعار",to:"إلى",cur:"ج.م",
- chg:"دواء تغيّر سعره",nw:"دواء جديد",added:"أضيف في",btn:"English",was:"كان",
- sim:"المثيلات",alt:"البدائل",wide:"فئة أوسع",cheaper:"أرخص بـ",pricier:"أغلى بـ",usedFor:"الاستخدامات",
- simT:"نفس المادة الفعالة",altT:"نفس الاستخدام",noSim:"لا يوجد دواء آخر بنفس المادة الفعالة.",noAlt:"لا توجد بدائل.",more:"المزيد"}
+en:{brandAr:"أدوية مصر",eye:"Egyptian drug prices",h1a:"Find the medicine.",h1b:"Spot the saving.",ph:"Name, active ingredient or price",searchIn:"Search in",sAll:"All",sName:"Name",sAct:"Active",try:"Try",
+ tSearch:"Search",tChanges:"Price changes",tNew:"New products",welcome:"",loading:"Loading...",err:"Could not load the data. Check that eg_drugs_data/drug_details.json exists in the repo.",
+ products:"products",updated:"updated",results:"results",none:"No results.",noCh:"No price changes recorded yet.",noNew:"No new products recorded yet.",
+ hist:"Price history",to:"to",cur:"EGP",chg:"price changes",nw:"new products",added:"Added",btn:"العربية",new:"New",
+ sim:"Similars",alt:"Alternatives",wide:"Wider class",save:"Save",usedFor:"Used for",more:"Show more",info:"Full information",
+ simH:"Same active ingredient, cheapest first.",altH:"Same use (category), different active ingredient, cheapest first.",wideH:"Everything in the wider class, cheapest first.",
+ noSim:"No other product with this active ingredient.",noAlt:"No alternatives found.",back:"Back",close:"Close"},
+ar:{brandAr:"أدوية مصر",eye:"أسعار الأدوية في مصر",h1a:"ابحث عن الدواء.",h1b:"اعرف الأوفر.",ph:"الاسم أو المادة الفعالة أو السعر",searchIn:"ابحث في",sAll:"الكل",sName:"الاسم",sAct:"المادة الفعالة",try:"جرّب",
+ tSearch:"بحث",tChanges:"تغيّر الأسعار",tNew:"أدوية جديدة",welcome:"",loading:"جارٍ التحميل...",err:"تعذّر تحميل البيانات. تأكد من وجود ملف eg_drugs_data/drug_details.json.",
+ products:"دواء",updated:"آخر تحديث",results:"نتيجة",none:"لا توجد نتائج.",noCh:"لا توجد تغييرات في الأسعار بعد.",noNew:"لا توجد أدوية جديدة بعد.",
+ hist:"سجل الأسعار",to:"إلى",cur:"ج.م",chg:"تغيّر في السعر",nw:"دواء جديد",added:"أضيف في",btn:"English",new:"جديد",
+ sim:"المثيلات",alt:"البدائل",wide:"فئة أوسع",save:"وفّر",usedFor:"الاستخدامات",more:"عرض المزيد",info:"المعلومات الكاملة",
+ simH:"نفس المادة الفعالة، من الأرخص.",altH:"نفس الاستخدام (الفئة) بمادة فعالة مختلفة، من الأرخص.",wideH:"كل ما في الفئة الأوسع، من الأرخص.",
+ noSim:"لا يوجد دواء آخر بنفس المادة الفعالة.",noAlt:"لا توجد بدائل.",back:"رجوع",close:"إغلاق"}
 };
-let S={lang:"en",view:"search",scope:"all"},P=[],hist=[],newp=[],lastUpdate="",ready=false;
+let S={lang:"en",view:"search",scope:"all"},P=[],hist=[],newp=[],lastUpdate="",ready=false,DR={p:null,tab:"sim",stack:[]};
 const chBy=new Map(),nwBy=new Map(),byAct=new Map(),byCat=new Map(),byCls=new Map(),byName=new Map();
-try{S.lang=localStorage.getItem("lang")||((navigator.language||"").slice(0,2)==="ar"?"ar":"en")}catch(e){S.lang=(navigator.language||"").slice(0,2)==="ar"?"ar":"en"}
+const ar0=()=>(navigator.language||"").slice(0,2)==="ar"?"ar":"en";
+try{S.lang=localStorage.getItem("lang")||ar0()}catch(e){S.lang=ar0()}
 const T=k=>L[S.lang][k],$=id=>document.getElementById(id);
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const rxe=s=>s.replace(/[.+?^${}()|[\]\\]/g,"\\$&");
 const num=s=>{const m=String(s).match(/\d+(\.\d+)?/);return m?parseFloat(m[0]):NaN};
-const fp=(raw)=>{const n=num(raw);return isNaN(n)?esc(raw||""):n+" "+T("cur")};
 const digits=s=>s.replace(/[٠-٩]/g,d=>"٠١٢٣٤٥٦٧٨٩".indexOf(d));
 const add=(m,k,v)=>{if(!k)return;if(!m.has(k))m.set(k,[]);m.get(k).push(v)};
+const tc=s=>s.toLowerCase().replace(/(^|[\s(\/-])([a-z])/g,(m,a,b)=>a+b.toUpperCase()).replace(/\b(Ml|Mg|Gm|Mcg|Iu|Gr)\b/g,x=>x.toLowerCase());
+const COL=["#0f4d3c","#c07a22","#6b4a7a","#e4553a","#2f5b7a","#8a6d3b","#2b7a78","#5b6560"];
+const colr=s=>{let h=0;for(const c of s||"")h=(h*31+c.charCodeAt(0))>>>0;return COL[h%COL.length]};
 
 function parseCSV(t){const o=[];let r=[],f="",q=false;
  for(let i=0;i<t.length;i++){const c=t[i];
@@ -138,8 +169,8 @@ async function json(u){try{const res=await fetch(u);if(!res.ok)return null;retur
 
 function mk(r){
  const info=r.information||"",act=((info.match(/^\s*About\s+([^^]+)/i)||[])[1]||"").trim(),catK=(r.category||"").toLowerCase().trim();
- const ind=((info.match(/Indications? for[^^]*\^+([^]*?)(?:\^\^|$)/i)||[])[1]||"").split("^").map(s=>s.replace(/^\s*\d+[.)]\s*/,"").trim()).filter(Boolean).slice(0,10);
- return{name:r.name,price:num(r.price),raw:r.price,info,act,ind,cat:(r.category||"").replace(/\./g," / "),catK,cls:catK.split(".")[0],
+ const ind=[];for(const x of((info.match(/Indications? for[^^]*\^+([^]*)/i)||[])[1]||"").split("^")){const t=x.trim();if(!t){if(ind.length)break;continue}if(/^\d+[.)]/.test(t))ind.push(t.replace(/^\d+[.)]\s*/,""));else break;if(ind.length>=10)break}
+ return{name:r.name,disp:tc(r.name),price:num(r.price),raw:r.price,info,act,ind,cat:(r.category||"").replace(/\./g," / "),catK,cls:catK.split(".")[0],
   actK:act.toLowerCase().replace(/\s+/g," "),nameL:r.name.toLowerCase(),actL:act.toLowerCase(),hay:(r.name+" "+act+" "+r.category+" "+info).toLowerCase()}}
 
 async function load(){
@@ -154,13 +185,12 @@ async function load(){
  hist.forEach(r=>add(chBy,r.product,r));newp.forEach(r=>{if(!nwBy.has(r.product))nwBy.set(r.product,r)});
  lastUpdate=hist[0]?hist[0].date:"";ready=true;meta();run();
 }
-
 function applyLang(){
  document.documentElement.lang=S.lang;document.documentElement.dir=S.lang==="ar"?"rtl":"ltr";
  document.querySelectorAll("[data-i]").forEach(e=>e.textContent=T(e.dataset.i));
- $("q").placeholder=T("ph");$("lang").textContent=T("btn");document.title=T("title");meta();run();
+ $("q").placeholder=T("ph");$("lang").textContent=T("btn");meta();run();if(DR.p)drawer();
 }
-function meta(){$("meta").innerHTML=ready?`<span>${P.length.toLocaleString()} ${T("products")}</span>`+(lastUpdate?`<span>${T("updated")}: ${esc(lastUpdate)}</span>`:""):""}
+function meta(){$("meta").innerHTML=ready?`<span><b>${P.length.toLocaleString()}</b> ${T("products")}</span>`+(lastUpdate?` <span>${T("updated")} <b>${esc(lastUpdate)}</b></span>`:""):""}
 
 function build(input){
  const tests=[],bodies=[];
@@ -175,77 +205,88 @@ function mark(s,hl){if(!hl)return esc(s);let o="",l=0;
  return o+esc(s.slice(l))}
 
 const byPrice=(a,b)=>(isNaN(a.price)?1e9:a.price)-(isNaN(b.price)?1e9:b.price);
-const sims=p=>(byAct.get(p.actK)||[]).filter(x=>x!==p&&p.actK).sort(byPrice);
-function alts(p,wide){const seen={};return((wide?byCls:byCat).get(wide?p.cls:p.catK)||[]).filter(x=>x.actK!==p.actK).sort(byPrice)
- .filter(x=>(seen[x.actK]=(seen[x.actK]||0)+1)<=3)}
-const nAlt=p=>p.catK?(byCat.get(p.catK)||[]).filter(x=>x.actK!==p.actK).length:0;
-function delta(p,x){if(!p||isNaN(p.price)||isNaN(x.price)||p.price===x.price)return"";
- const d=x.price-p.price;return `<span class="dl ${d<0?"down":"up"}">${d<0?T("cheaper"):T("pricier")} ${+Math.abs(d).toFixed(2)} (${Math.abs(d/p.price*100).toFixed(0)}%)</span>`}
+const sims=p=>p.actK?(byAct.get(p.actK)||[]).filter(x=>x!==p).sort(byPrice):[];
+function alts(p,wide){if(!(wide?p.cls:p.catK))return[];const seen={};return(byCat_(p,wide)).filter(x=>x.actK!==p.actK).sort(byPrice).filter(x=>(seen[x.actK]=(seen[x.actK]||0)+1)<=3)}
+const byCat_=(p,w)=>(w?byCls.get(p.cls):byCat.get(p.catK))||[];
+const nSim=p=>p.actK?(byAct.get(p.actK)||[]).length-1:0;
+const nAlt=p=>p.catK?byCat_(p,0).filter(x=>x.actK!==p.actK).length:0;
+const money=v=>isNaN(v)?"":(+v.toFixed(2))+"";
+function priceBlock(p){
+ const c=(chBy.get(p.name)||[])[0];let d="";
+ if(c){const a=num(c.old_price),b=num(c.new_price);if(a&&!isNaN(b)&&a!==b)d=`<span class="delta ${b>a?"up":"dn"}"><s>${money(a)}</s> ${b>a?"▲":"▼"} ${Math.round(Math.abs((b-a)/a*100))}%</span>`}
+ return `<div class="pr"><span class="price">${isNaN(p.price)?esc(p.raw||""):money(p.price)}<small>${T("cur")}</small></span>${d}</div>`}
+function save(p,x){if(isNaN(p.price)||isNaN(x.price)||p.price===x.price)return"";const d=x.price-p.price;
+ return `<span class="sv ${d<0?"dn":"up"}">${d<0?T("save"):"+"} ${money(Math.abs(d))} (${Math.round(Math.abs(d/p.price*100))}%)</span>`}
 
-function badge(c){const a=num(c.old_price),b=num(c.new_price),up=b>a;
- return `<span class="bd ${up?"up":"down"}">${fp(c.old_price)} ${T("to")} ${fp(c.new_price)} (${c.date})</span>`}
+function card(p,hl,i){
+ const nw=nwBy.get(p.name),ns=nSim(p),na=nAlt(p),c=(chBy.get(p.name)||[])[0];
+ return `<article class="box" style="--k:${colr(p.cls)};animation-delay:${Math.min(i,12)*35}ms">
+  <div class="band"><span><i></i>${esc(p.cls||"drug")}</span>${nw?`<span class="badge">${T("new")}</span>`:""}</div>
+  <button class="main" data-o data-i="${p.i}" data-t="${ns?"sim":"alt"}"><h3 class="name">${mark(p.disp,hl)}</h3>${p.act?`<span class="ai">${mark(p.act,hl)}</span>`:""}${p.cat?`<div class="cat">${esc(p.cat)}</div>`:""}${priceBlock(p)}</button>
+  ${ns||na?`<div class="acts">${ns?`<button data-o data-i="${p.i}" data-t="sim">${T("sim")} (${ns})</button>`:""}${na?`<button data-o data-i="${p.i}" data-t="alt">${T("alt")} (${na})</button>`:""}</div>`:""}
+ </article>`}
 
-function card(p,hl,ctx){
- const ch=chBy.get(p.name)||[],c=ch[0],nw=nwBy.get(p.name),up=c&&num(c.new_price)>num(c.old_price);
- const price=c?`<span class="tag"><s>${T("was")} ${fp(c.old_price)}</s>${fp(p.raw)}</span>`:`<span class="tag">${fp(p.raw)}</span>`;
- const ns=sims(p).length,na=nAlt(p);
- const hs=ch.length?`<div class="hist"><strong>${T("hist")}</strong>${ch.map(x=>`<div>${esc(x.date)}: ${fp(x.old_price)} ${T("to")} ${fp(x.new_price)}</div>`).join("")}</div>`:"";
- return `<div class="item ${up?"up":nw?"nw":""}" data-i="${p.i}">
-  <div class="top"><span class="name">${mark(p.name,hl)}</span>${price}</div>
-  ${p.act?`<div class="ai">${mark(p.act,hl)}</div>`:""}${p.cat?`<div class="cat">${esc(p.cat)}</div>`:""}
-  ${ctx?delta(ctx,p):""}${nw?`<span class="bd nwc">${T("added")} ${esc(nw.date)}</span>`:""}
-  <div class="acts">${ns?`<button class="act" data-k="sim">${T("sim")} (${ns})</button>`:""}${na?`<button class="act alt" data-k="alt">${T("alt")} (${na})</button>`:""}</div>
-  <div class="more">${p.ind.length?`<div class="uf"><strong>${T("usedFor")}:</strong>${p.ind.map(x=>`<span>${esc(x)}</span>`).join("")}</div>`:""}${hs}<div class="info">${esc(p.info.replace(/\^+/g,"\n").trim())}</div></div>
-  </div>`}
-
-function panel(it,kind){
- const p=P[+it.dataset.i];let pn=it.querySelector(":scope>.pnl");
- const same=pn&&pn.dataset.k===kind;if(pn)pn.remove();
- it.querySelectorAll(":scope>.acts .act").forEach(b=>b.classList.toggle("on",!same&&b.dataset.k===kind));
- if(same)return;
- const wide=kind==="wide",list=kind==="sim"?sims(p):alts(p,wide);
- pn=document.createElement("div");pn.className="pnl";pn.dataset.k=kind;
- const title=kind==="sim"?`${T("simT")}: ${esc(p.act)}`:`${T("altT")}: ${esc(wide?p.cls:p.cat)}`;
- const bw=kind!=="sim"&&!wide&&p.cls&&p.cls!==p.catK?`<button class="act alt" data-k="wide">${T("wide")}</button>`:"";
- pn.innerHTML=`<h3>${title}${bw}</h3>`+(list.length?`<div class="grid">${list.slice(0,40).map(x=>card(x,null,p)).join("")}</div>`:`<div class="lbl">${T(kind==="sim"?"noSim":"noAlt")}</div>`);
- it.appendChild(pn);it.classList.add("open");
+function drawer(){
+ const p=DR.p,ch=chBy.get(p.name)||[],a=alts(p,0),w=alts(p,1),s=sims(p);
+ const lists={sim:s,alt:a,wide:w};
+ const tabs=[["sim",s.length],["alt",a.length]].concat(p.cls&&p.cls!==p.catK&&w.length>a.length?[["wide",w.length]]:[]);
+ if(!lists[DR.tab].length){const f=tabs.find(t=>t[1]);if(f&&!DR.touched)DR.tab=f[0]}
+ const list=lists[DR.tab]||[];
+ $("dr").innerHTML=`<div class="dh"><div>${DR.stack.length?`<button class="chip" data-back>← ${T("back")}</button>`:`<span class="lbl">${esc(p.cls||"")}</span>`}</div><button class="x" data-x aria-label="${T("close")}">×</button></div>
+ <h2 class="dn1">${esc(p.disp)}</h2>${p.act?`<span class="ai">${esc(p.act)}</span>`:""}${p.cat?`<div class="cat">${esc(p.cat)}</div>`:""}
+ ${priceBlock(p)}
+ ${ch.length?`<div class="hs"><b>${T("hist")}</b>${ch.map(x=>`<div>${esc(x.date)}: ${esc(money(num(x.old_price)))} ${T("to")} ${esc(money(num(x.new_price)))} ${T("cur")}</div>`).join("")}</div>`:""}
+ ${p.ind.length?`<div class="uf"><b>${T("usedFor")}:</b>${p.ind.map(x=>`<span>${esc(x)}</span>`).join("")}</div>`:""}
+ <div class="dtabs">${tabs.map(t=>`<button class="chip ${t[0]===DR.tab?"on":""}" data-tab="${t[0]}">${T(t[0])} (${t[1]})</button>`).join("")}</div>
+ <p class="hint">${T(DR.tab+"H")}</p>
+ ${list.length?list.slice(0,60).map(x=>`<button class="rw" data-o data-i="${x.i}" data-t="${DR.tab}"><span><b>${esc(x.disp)}</b><em>${esc(x.act)}</em></span><span class="rp">${isNaN(x.price)?"":money(x.price)+" "+T("cur")}${save(p,x)}</span></button>`).join(""):`<p class="hint">${T(DR.tab==="sim"?"noSim":"noAlt")}</p>`}
+ <details><summary>${T("info")}</summary><div class="info">${esc(p.info.replace(/\^+/g,"\n").trim())}</div></details>`;
 }
+function openDr(p,tab,push){
+ if(push&&DR.p)DR.stack.push([DR.p,DR.tab]);else if(!push)DR.stack=[];
+ DR.p=p;DR.tab=tab;DR.touched=false;drawer();$("dr").scrollTop=0;document.body.classList.add("dro");
+}
+function closeDr(){document.body.classList.remove("dro");DR={p:null,tab:"sim",stack:[]}}
 
 function run(){
  if(!ready)return;
  const input=$("q").value.trim(),list=$("list"),st=$("status"),{tests,hl}=build(input);
+ $("app").classList.toggle("idle",!input&&S.view==="search");
+ try{history.replaceState(null,"",input?"?q="+encodeURIComponent(input):location.pathname)}catch(e){}
  const field=p=>S.scope==="name"?p.nameL:S.scope==="act"?p.actL:p.hay;
  const ok=p=>tests.every(t=>t.p?t.p(p):t.re.test(field(p)));
  let hits;
  if(S.view==="search"){
-  if(!input){list.innerHTML="";st.textContent=T("welcome");return}
+  if(!input){list.innerHTML="";st.textContent="";return}
   const f=digits(input).toLowerCase().split(/\s+/)[0].replace(/\*/g,"");
   hits=P.filter(ok).sort((a,b)=>(a.nameL.startsWith(f)?0:1)-(b.nameL.startsWith(f)?0:1)||a.name.localeCompare(b.name));
-  st.textContent=hits.length?hits.length.toLocaleString()+" "+T("results")+(hits.length>MAX?` (${T("showing")} ${MAX})`:""):T("none");
+  st.textContent=hits.length?hits.length.toLocaleString()+" "+T("results"):T("none");
  }else{
   const src=S.view==="changes"?hist:newp,names=[...new Set(src.map(r=>r.product))];
   if(!names.length){list.innerHTML="";st.textContent=T(S.view==="changes"?"noCh":"noNew");return}
   hits=names.map(n=>byName.get(n)).filter(p=>p&&(!input||ok(p)));
-  st.textContent=hits.length.toLocaleString()+" "+T(S.view==="changes"?"chg":"nw")+(hits.length>MAX?` (${T("showing")} ${MAX})`:"");
+  st.textContent=hits.length.toLocaleString()+" "+T(S.view==="changes"?"chg":"nw");
  }
- list.innerHTML=hits.slice(0,MAX).map(p=>card(p,hl)).join("");
+ list.innerHTML=hits.slice(0,MAX).map((p,i)=>card(p,hl,i)).join("");
+ if(hits.length>MAX)list.insertAdjacentHTML("afterend",`<button class="more" id="more">${T("more")}</button>`);
 }
+function rerun(){const m=$("more");if(m)m.remove();run()}
 
-$("list").onclick=e=>{
- const it=e.target.closest(".item");if(!it)return;
- const b=e.target.closest("[data-k]");
- if(b){const own=b.closest(".item");panel(own,b.dataset.k);return}
- const pn=e.target.closest(".pnl");if(pn&&pn.parentElement===it)return;
- it.classList.toggle("open")};
-let t;
-$("q").addEventListener("input",()=>{clearTimeout(t);t=setTimeout(run,120)});
+document.addEventListener("click",e=>{
+ const g=s=>e.target.closest(s);let b;
+ if(b=g("[data-o]")){openDr(P[+b.dataset.i],b.dataset.t||"sim",!!g("#dr"));return}
+ if(g("[data-back]")){const s=DR.stack.pop();if(s){DR.p=s[0];DR.tab=s[1];drawer()}return}
+ if(g("[data-x]")){closeDr();return}
+ if(b=g("[data-tab]")){DR.tab=b.dataset.tab;DR.touched=true;drawer();return}
+ if(g("#more")){MAX+=24;rerun();return}
+ if(b=g("[data-s]")){S.scope=b.dataset.s;document.querySelectorAll("#scope [data-s]").forEach(x=>x.classList.toggle("on",x===b));MAX=24;rerun()}
+ else if(b=g("[data-v]")){S.view=b.dataset.v;document.querySelectorAll("#tabs [data-v]").forEach(x=>x.classList.toggle("on",x===b));MAX=24;rerun()}
+ else if(b=g("[data-q]")){$("q").value=b.dataset.q;S.view="search";document.querySelectorAll("#tabs [data-v]").forEach(x=>x.classList.toggle("on",x.dataset.v==="search"));MAX=24;rerun()}
+});
+document.addEventListener("keydown",e=>{if(e.key==="Escape")closeDr()});
+let t;$("q").addEventListener("input",()=>{clearTimeout(t);t=setTimeout(()=>{MAX=24;rerun()},120)});
 $("lang").onclick=()=>{S.lang=S.lang==="ar"?"en":"ar";try{localStorage.setItem("lang",S.lang)}catch(e){}applyLang()};
-$("scope").onclick=e=>{const b=e.target.closest("[data-s]");if(!b)return;S.scope=b.dataset.s;
- document.querySelectorAll("#scope [data-s]").forEach(x=>x.classList.toggle("on",x===b));run()};
-$("tabs").onclick=e=>{const b=e.target.closest("[data-v]");if(!b)return;S.view=b.dataset.v;
- document.querySelectorAll("#tabs [data-v]").forEach(x=>x.classList.toggle("on",x===b));run()};
-$("ex").onclick=e=>{const b=e.target.closest("[data-q]");if(!b)return;$("q").value=b.dataset.q;S.view="search";
- document.querySelectorAll("#tabs [data-v]").forEach(x=>x.classList.toggle("on",x.dataset.v==="search"));run()};
+$("q").value=new URLSearchParams(location.search).get("q")||"";
 applyLang();load();
 </script>
 </body>

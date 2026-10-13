@@ -8061,7 +8061,7 @@
   },
   "AVOBEANO 10 CAPS.": {
     "name": "AVOBEANO 10 CAPS.",
-    "price": "150L.E"
+    "price": "175L.E"
   },
   "AVOCAPI 10CAPS.": {
     "name": "AVOCAPI 10CAPS.",
@@ -8193,7 +8193,7 @@
   },
   "AXOLIP 600 MG 30 FILM COATED TABLETS": {
     "name": "AXOLIP 600 MG 30 FILM COATED TABLETS",
-    "price": "255L.E"
+    "price": "261L.E"
   },
   "AXOMYELLIN ULTRA 30 F.C. TABS.": {
     "name": "AXOMYELLIN ULTRA 30 F.C. TABS.",
@@ -12933,7 +12933,7 @@
   },
   "B2B SEA WATER 70 ML NASAL SPRAY": {
     "name": "B2B SEA WATER 70 ML NASAL SPRAY",
-    "price": "80L.E"
+    "price": "90L.E"
   },
   "CABELLA 21.3MG/10ML SYRUP 125ML": {
     "name": "CABELLA 21.3MG/10ML SYRUP 125ML",
@@ -20793,7 +20793,7 @@
   },
   "CURAM 625MG 12 F.C.TAB.": {
     "name": "CURAM 625MG 12 F.C.TAB.",
-    "price": "108L.E"
+    "price": ""
   },
   "CURAM 642.9MG/5ML PD. FOR ORAL SUSP. 75ML": {
     "name": "CURAM 642.9MG/5ML PD. FOR ORAL SUSP. 75ML",
@@ -40421,7 +40421,7 @@
   },
   "HEPACHAIN 60 F.C.TABS.": {
     "name": "HEPACHAIN 60 F.C.TABS.",
-    "price": "350L.E"
+    "price": "400L.E"
   },
   "HEPACLUDE 0.5 MG / 10 ML ORAL SOL. 210 ML": {
     "name": "HEPACLUDE 0.5 MG / 10 ML ORAL SOL. 210 ML",
@@ -53725,7 +53725,7 @@
   },
   "MATRIX 20 CAPS.": {
     "name": "MATRIX 20 CAPS.",
-    "price": "140L.E"
+    "price": "70L.E"
   },
   "MATRIX 30 CAPS.": {
     "name": "MATRIX 30 CAPS.",
@@ -56737,7 +56737,7 @@
   },
   "MIRA-SEVOFLURANE 100% LIQUID FOR INHALATION 250 ML": {
     "name": "MIRA-SEVOFLURANE 100% LIQUID FOR INHALATION 250 ML",
-    "price": "800L.E"
+    "price": ""
   },
   "MIRABELLE 200 ML ANTI HAIR LOSS LOTION": {
     "name": "MIRABELLE 200 ML ANTI HAIR LOSS LOTION",
@@ -59517,7 +59517,7 @@
   },
   "NASAPRANDY 50 GM CREAM": {
     "name": "NASAPRANDY 50 GM CREAM",
-    "price": "120L.E"
+    "price": ""
   },
   "NASEEM 120 ML SYRUP": {
     "name": "NASEEM 120 ML SYRUP",
@@ -69781,7 +69781,7 @@
   },
   "PITANASABRANDIA 60 ML SPRAY": {
     "name": "PITANASABRANDIA 60 ML SPRAY",
-    "price": "60L.E"
+    "price": "85L.E"
   },
   "PIVASTALO 1 MG 28 TABS.": {
     "name": "PIVASTALO 1 MG 28 TABS.",
@@ -74961,7 +74961,7 @@
   },
   "RENKARE 30 TABS": {
     "name": "RENKARE 30 TABS",
-    "price": "150L.E"
+    "price": "180L.E"
   },
   "RENMARK 20 CHEW. TAB.": {
     "name": "RENMARK 20 CHEW. TAB.",
@@ -81261,11 +81261,11 @@
   },
   "SEVOFLURANE BAXTER 100% LIQUID FOR INHALATION 250 ML": {
     "name": "SEVOFLURANE BAXTER 100% LIQUID FOR INHALATION 250 ML",
-    "price": "2428L.E"
+    "price": "4370L.E"
   },
   "SEVOFLURANE SUNNY 100% LIQUID FOR INHALATION 250 ML": {
     "name": "SEVOFLURANE SUNNY 100% LIQUID FOR INHALATION 250 ML",
-    "price": "1800L.E"
+    "price": "3715L.E"
   },
   "SFIRA HAIR LOTION 120 ML": {
     "name": "SFIRA HAIR LOTION 120 ML",
@@ -82245,7 +82245,7 @@
   },
   "SINUPRET FORTE 50 SUGAR C.TABS.": {
     "name": "SINUPRET FORTE 50 SUGAR C.TABS.",
-    "price": "210L.E"
+    "price": "290L.E"
   },
   "SINUPRET SYRUP 100 ML": {
     "name": "SINUPRET SYRUP 100 ML",
@@ -84849,7 +84849,7 @@
   },
   "STAMIGEN 30 CAPS.": {
     "name": "STAMIGEN 30 CAPS.",
-    "price": "599L.E"
+    "price": "695L.E"
   },
   "STAMLESS 120 MG 20 CAPS.": {
     "name": "STAMLESS 120 MG 20 CAPS.",
@@ -100501,22 +100501,102 @@
   },
   "BONEIMC 4MG/5ML CONC. SOLN. FOR I.V. INF. VIAL (N/A)": {
     "name": "BONEIMC 4MG/5ML CONC. SOLN. FOR I.V. INF. VIAL (N/A)",
-    "price": "997"
+    "price": "997L.E"
   },
   "OPRASTA 5MG/100ML SOLN. FOR I.V. INF. VIAL (N/A)": {
     "name": "OPRASTA 5MG/100ML SOLN. FOR I.V. INF. VIAL (N/A)",
-    "price": "1582"
+    "price": "1582L.E"
   },
   "THIOMACK 600 MG 20 TABS.": {
     "name": "THIOMACK 600 MG 20 TABS.",
-    "price": "345"
+    "price": "345L.E"
   },
   "ZOLEBONITA 5MG/100ML SOLN. FOR I.V. INF. VIAL (N/A)": {
     "name": "ZOLEBONITA 5MG/100ML SOLN. FOR I.V. INF. VIAL (N/A)",
-    "price": "1209"
+    "price": "1209L.E"
   },
   "ZOLEDRONIC ACID FRESENIUS KABI 4MG/5ML CONC. SOLN. FOR I.V. INF. VIAL (N/A)": {
     "name": "ZOLEDRONIC ACID FRESENIUS KABI 4MG/5ML CONC. SOLN. FOR I.V. INF. VIAL (N/A)",
-    "price": "360"
+    "price": "360L.E"
+  },
+  "AMINOSPIRIT 5GM 20 SACHETS": {
+    "name": "AMINOSPIRIT 5GM 20 SACHETS",
+    "price": "630"
+  },
+  "BETADINE 10% 10 STERILE GAUZE DRESSING 10*10 CM (N/A)": {
+    "name": "BETADINE 10% 10 STERILE GAUZE DRESSING 10*10 CM (N/A)",
+    "price": "26"
+  },
+  "BETADINE 10% TOPICAL OINT. 20 GM (N/A)": {
+    "name": "BETADINE 10% TOPICAL OINT. 20 GM (N/A)",
+    "price": "7.5"
+  },
+  "BETADINE 10% TOPICAL OINT. 60 GM": {
+    "name": "BETADINE 10% TOPICAL OINT. 60 GM",
+    "price": "15.75"
+  },
+  "BETADINE 200MG 14 VAGINAL OVULE (N/A)": {
+    "name": "BETADINE 200MG 14 VAGINAL OVULE (N/A)",
+    "price": "16.5"
+  },
+  "CURAM 625 MG 12 F.C. TABS.": {
+    "name": "CURAM 625 MG 12 F.C. TABS.",
+    "price": "108"
+  },
+  "FIN DE SYRUP 120 ML": {
+    "name": "FIN DE SYRUP 120 ML",
+    "price": "500"
+  },
+  "KAZAFERRO 30 CAPS": {
+    "name": "KAZAFERRO 30 CAPS",
+    "price": "295"
+  },
+  "LIMITLESS MAN (50+) 60 TABS.": {
+    "name": "LIMITLESS MAN (50+) 60 TABS.",
+    "price": "300"
+  },
+  "LIMITLESS WOMAN (50+) 60 TABS.": {
+    "name": "LIMITLESS WOMAN (50+) 60 TABS.",
+    "price": "300"
+  },
+  "MATRIX 30 CAPS. (N/A)": {
+    "name": "MATRIX 30 CAPS. (N/A)",
+    "price": "140"
+  },
+  "MIRA-SEVOFLURANE 100% LIQUID FOR INHALATION 250 ML (N/A)": {
+    "name": "MIRA-SEVOFLURANE 100% LIQUID FOR INHALATION 250 ML (N/A)",
+    "price": "800"
+  },
+  "MIROGESIA 10 MG 30 F.C. TABS.": {
+    "name": "MIROGESIA 10 MG 30 F.C. TABS.",
+    "price": "222"
+  },
+  "MIROGESIA 15 MG 30 F.C. TABS.": {
+    "name": "MIROGESIA 15 MG 30 F.C. TABS.",
+    "price": "285"
+  },
+  "MIROGESIA 2.5 MG 30 F.C. TABS.": {
+    "name": "MIROGESIA 2.5 MG 30 F.C. TABS.",
+    "price": "87"
+  },
+  "MIROGESIA 5 MG 30 F.C. TABS.": {
+    "name": "MIROGESIA 5 MG 30 F.C. TABS.",
+    "price": "138"
+  },
+  "NASAPRANDY 30 GM CREAM": {
+    "name": "NASAPRANDY 30 GM CREAM",
+    "price": "120"
+  },
+  "RANCYJOINT 30 TABS": {
+    "name": "RANCYJOINT 30 TABS",
+    "price": "280"
+  },
+  "SEVOCASPA ANTI DANDRUFF SHAMPOO 120 ML": {
+    "name": "SEVOCASPA ANTI DANDRUFF SHAMPOO 120 ML",
+    "price": "95"
+  },
+  "SEVOTHESIA 100% LIQUID FOR INHALATION 250 ML": {
+    "name": "SEVOTHESIA 100% LIQUID FOR INHALATION 250 ML",
+    "price": "3715"
   }
 }

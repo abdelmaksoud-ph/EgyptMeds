@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💊 EG Drugs
+# 💊 EgyptMeds
 
 ### A self-updating Egyptian drug price tracker and search site
 
@@ -129,7 +129,7 @@ This project is for information only and is **not medical advice**. Prices and d
 
 ## 🇪🇬 نبذة بالعربية
 
-**EG Drugs** موقع بحث عن الأدوية في مصر. يعرض اسم الدواء والمادة الفعالة والسعر، ويتحدّث تلقائيًا كل يوم.
+**EgyptMeds** موقع بحث عن الأدوية في مصر. يعرض اسم الدواء والمادة الفعالة والسعر، ويتحدّث تلقائيًا كل يوم.
 
 - 🔎 ابحث بالاسم الكامل أو ببداية الكلمة أو استخدم `*` بدل أي حروف، مثل `amox*cl`
 - 💰 فلتر الأسعار: `<50` أو `>100` أو `20-50`

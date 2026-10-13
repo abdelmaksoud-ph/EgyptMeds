@@ -6,7 +6,6 @@
 
 *Names, active ingredients and prices. Checked every day. Searchable in English and Arabic.*
 
-![Daily update](https://img.shields.io/github/actions/workflow/status/abdelmaksoud-ph/EgyptMeds/update.yml?label=daily%20update&logo=githubactions&logoColor=white&color=00a36c)
 ![Python](https://img.shields.io/badge/python-3.12-0b2540?logo=python&logoColor=white)
 ![Hosting](https://img.shields.io/badge/hosting-GitHub%20Pages-00a36c?logo=github&logoColor=white)
 ![Languages](https://img.shields.io/badge/EN%20%2F%20AR-bilingual-ffd84d?labelColor=0b2540)
@@ -21,7 +20,7 @@
 
 | | |
 |---|---|
-| 🔄 **Updates itself** | A GitHub Action wakes up every day, checks every product's price and hunts for new ones. |
+| 🔄 **Updates itself** | It wakes up every day, checks every product's price and hunts for new ones. |
 | 📈 **Remembers prices** | Every change is logged with the old price, the new price and the date. |
 | 🆕 **Spots new drugs** | New products are saved the day they appear. |
 | 🔎 **Smart search** | Type the start of a word, use wildcards, filter by price. |

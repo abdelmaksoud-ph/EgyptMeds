@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#f3ede1">
-<title>EG Drugs</title>
+<title>EgyptMeds</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Familjen+Grotesk:wght@400;500;600&family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
@@ -74,6 +74,20 @@ h1 em{font-style:italic;color:var(--red);font-weight:400}
 .acts button+button{border-inline-start:1.5px dashed var(--line)}
 .acts button:hover{background:color-mix(in srgb,var(--k) 10%,transparent)}
 .more{display:block;margin:0 auto 60px;border:1.5px solid var(--ink);background:var(--card);border-radius:99px;padding:8px 26px;font-weight:600;box-shadow:0 4px 0 var(--ink)}
+.chg{align-items:flex-end}
+.old,.new{display:flex;flex-direction:column;line-height:1.15}
+.old small,.new small{font:.58rem var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--soft)}
+.old s{font:600 1.05rem var(--mono);color:var(--soft)}
+.arr{display:inline-block;font-size:1.15rem;align-self:flex-end;padding-bottom:2px}
+[dir=rtl] .arr{transform:scaleX(-1)}
+.tg{flex:none;border:0;background:none;padding:9px 12px;font:.76rem var(--mono);letter-spacing:.04em;color:var(--soft)}
+.tg::after{content:" ▾"}.open>.tg::after,.open>.acts .tg::after{content:" ▴"}
+.xp{display:none;padding:2px 14px 12px}
+.open>.xp{display:block}
+.rwc{margin-bottom:8px}.rwc .rw{margin-bottom:0}
+.rwc>.tg{padding:4px 4px}
+.rwc>.xp{padding:2px 4px 6px}
+.mp s{color:var(--soft);font-weight:400}
 #scrim{position:fixed;inset:0;background:rgba(18,36,30,.45);opacity:0;pointer-events:none;transition:.25s;z-index:50}
 #dr{position:fixed;z-index:60;top:0;bottom:0;inset-inline-end:0;width:min(540px,100%);background:var(--paper);border-inline-start:1.5px solid var(--ink);padding:18px 20px 40px;overflow:auto;transform:translateX(105%);transition:transform .35s var(--ease)}
 [dir=rtl] #dr{transform:translateX(-105%)}
@@ -105,7 +119,7 @@ summary{font:.78rem var(--mono);cursor:pointer;text-transform:uppercase;letter-s
 <div class="app idle" id="app">
 <div class="wrap">
  <div class="top">
-  <div class="brand"><span class="pill"></span><span class="be">EG Drugs</span><span class="ba" data-i="brandAr"></span></div>
+  <div class="brand"><span class="pill"></span><span class="be">EgyptMeds</span><span class="ba" data-i="brandAr"></span></div>
   <div class="tm"><span id="meta"></span><button class="lang" id="lang" aria-label="Language"></button></div>
  </div>
  <div class="stage">
@@ -132,14 +146,14 @@ en:{brandAr:"أدوية مصر",eye:"Egyptian drug prices",h1a:"Find the medicin
  tSearch:"Search",tChanges:"Price changes",tNew:"New products",welcome:"",loading:"Loading...",err:"Could not load the data. Check that eg_drugs_data/drug_details.json exists in the repo.",
  products:"products",updated:"updated",results:"results",none:"No results.",noCh:"No price changes recorded yet.",noNew:"No new products recorded yet.",
  hist:"Price history",to:"to",cur:"EGP",chg:"price changes",nw:"new products",added:"Added",btn:"العربية",new:"New",
- sim:"Similars",alt:"Alternatives",wide:"Wider class",save:"Save",usedFor:"Used for",more:"Show more",info:"Full information",
+ sim:"Similars",alt:"Alternatives",wide:"Wider class",save:"Save",usedFor:"Used for",more:"Show more",info:"Full information",oldL:"Old price",newL:"New price",
  simH:"Same active ingredient, cheapest first.",altH:"Same use (category), different active ingredient, cheapest first.",wideH:"Everything in the wider class, cheapest first.",
  noSim:"No other product with this active ingredient.",noAlt:"No alternatives found.",back:"Back",close:"Close"},
 ar:{brandAr:"أدوية مصر",eye:"أسعار الأدوية في مصر",h1a:"ابحث عن الدواء.",h1b:"اعرف الأوفر.",ph:"الاسم أو المادة الفعالة أو السعر",searchIn:"ابحث في",sAll:"الكل",sName:"الاسم",sAct:"المادة الفعالة",try:"جرّب",
  tSearch:"بحث",tChanges:"تغيّر الأسعار",tNew:"أدوية جديدة",welcome:"",loading:"جارٍ التحميل...",err:"تعذّر تحميل البيانات. تأكد من وجود ملف eg_drugs_data/drug_details.json.",
  products:"دواء",updated:"آخر تحديث",results:"نتيجة",none:"لا توجد نتائج.",noCh:"لا توجد تغييرات في الأسعار بعد.",noNew:"لا توجد أدوية جديدة بعد.",
  hist:"سجل الأسعار",to:"إلى",cur:"ج.م",chg:"تغيّر في السعر",nw:"دواء جديد",added:"أضيف في",btn:"English",new:"جديد",
- sim:"المثيلات",alt:"البدائل",wide:"فئة أوسع",save:"وفّر",usedFor:"الاستخدامات",more:"عرض المزيد",info:"المعلومات الكاملة",
+ sim:"المثيلات",alt:"البدائل",wide:"فئة أوسع",save:"وفّر",usedFor:"الاستخدامات",more:"عرض المزيد",info:"المعلومات الكاملة",oldL:"السعر القديم",newL:"السعر الجديد",
  simH:"نفس المادة الفعالة، من الأرخص.",altH:"نفس الاستخدام (الفئة) بمادة فعالة مختلفة، من الأرخص.",wideH:"كل ما في الفئة الأوسع، من الأرخص.",
  noSim:"لا يوجد دواء آخر بنفس المادة الفعالة.",noAlt:"لا توجد بدائل.",back:"رجوع",close:"إغلاق"}
 };
@@ -212,18 +226,24 @@ const nSim=p=>p.actK?(byAct.get(p.actK)||[]).length-1:0;
 const nAlt=p=>p.catK?byCat_(p,0).filter(x=>x.actK!==p.actK).length:0;
 const money=v=>isNaN(v)?"":(+v.toFixed(2))+"";
 function priceBlock(p){
- const c=(chBy.get(p.name)||[])[0];let d="";
- if(c){const a=num(c.old_price),b=num(c.new_price);if(a&&!isNaN(b)&&a!==b)d=`<span class="delta ${b>a?"up":"dn"}"><s>${money(a)}</s> ${b>a?"▲":"▼"} ${Math.round(Math.abs((b-a)/a*100))}%</span>`}
- return `<div class="pr"><span class="price">${isNaN(p.price)?esc(p.raw||""):money(p.price)}<small>${T("cur")}</small></span>${d}</div>`}
+ const c=(chBy.get(p.name)||[])[0],now=isNaN(p.price)?esc(p.raw||""):money(p.price);
+ if(c){const a=num(c.old_price),b=num(c.new_price);if(a&&!isNaN(b)&&a!==b){const up=b>a,k=up?"up":"dn";
+  return `<div class="pr chg"><span class="old"><small>${T("oldL")}</small><s>${money(a)}</s></span><span class="arr ${k}">→</span><span class="new"><small>${T("newL")}</small><b class="price ${k}">${now}<small>${T("cur")}</small></b></span><span class="delta ${k}">${up?"▲":"▼"} ${Math.round(Math.abs((b-a)/a*100))}%</span></div>`}}
+ return `<div class="pr"><span class="price">${now}<small>${T("cur")}</small></span></div>`}
+function mp(x){const c=(chBy.get(x.name)||[])[0];if(isNaN(x.price))return"";
+ if(c){const a=num(c.old_price);if(a&&a!==x.price)return `<span class="mp"><s>${money(a)}</s> <span class="arr">→</span> ${money(x.price)} ${T("cur")}</span>`}
+ return money(x.price)+" "+T("cur")}
+function xpHtml(p){return(p.cat?`<div class="cat">${esc(p.cat)}</div>`:"")+(p.ind.length?`<div class="uf"><b>${T("usedFor")}:</b>${p.ind.map(x=>`<span>${esc(x)}</span>`).join("")}</div>`:"")}
 function save(p,x){if(isNaN(p.price)||isNaN(x.price)||p.price===x.price)return"";const d=x.price-p.price;
  return `<span class="sv ${d<0?"dn":"up"}">${d<0?T("save"):"+"} ${money(Math.abs(d))} (${Math.round(Math.abs(d/p.price*100))}%)</span>`}
 
 function card(p,hl,i){
- const nw=nwBy.get(p.name),ns=nSim(p),na=nAlt(p),c=(chBy.get(p.name)||[])[0];
+ const nw=nwBy.get(p.name),ns=nSim(p),na=nAlt(p),xp=xpHtml(p);
  return `<article class="box" style="--k:${colr(p.cls)};animation-delay:${Math.min(i,12)*35}ms">
   <div class="band"><span><i></i>${esc(p.cls||"drug")}</span>${nw?`<span class="badge">${T("new")}</span>`:""}</div>
-  <button class="main" data-o data-i="${p.i}" data-t="${ns?"sim":"alt"}"><h3 class="name">${mark(p.disp,hl)}</h3>${p.act?`<span class="ai">${mark(p.act,hl)}</span>`:""}${p.cat?`<div class="cat">${esc(p.cat)}</div>`:""}${priceBlock(p)}</button>
-  ${ns||na?`<div class="acts">${ns?`<button data-o data-i="${p.i}" data-t="sim">${T("sim")} (${ns})</button>`:""}${na?`<button data-o data-i="${p.i}" data-t="alt">${T("alt")} (${na})</button>`:""}</div>`:""}
+  <button class="main" data-o data-i="${p.i}" data-t="${ns?"sim":"alt"}"><h3 class="name">${mark(p.disp,hl)}</h3>${p.act?`<span class="ai">${mark(p.act,hl)}</span>`:""}${priceBlock(p)}</button>
+  ${ns||na||xp?`<div class="acts">${ns?`<button data-o data-i="${p.i}" data-t="sim">${T("sim")} (${ns})</button>`:""}${na?`<button data-o data-i="${p.i}" data-t="alt">${T("alt")} (${na})</button>`:""}${xp?`<button class="tg" data-xp aria-expanded="false">${T("usedFor")}</button>`:""}</div>`:""}
+  ${xp?`<div class="xp">${xp}</div>`:""}
  </article>`}
 
 function drawer(){
@@ -233,13 +253,13 @@ function drawer(){
  if(!lists[DR.tab].length){const f=tabs.find(t=>t[1]);if(f&&!DR.touched)DR.tab=f[0]}
  const list=lists[DR.tab]||[];
  $("dr").innerHTML=`<div class="dh"><div>${DR.stack.length?`<button class="chip" data-back>← ${T("back")}</button>`:`<span class="lbl">${esc(p.cls||"")}</span>`}</div><button class="x" data-x aria-label="${T("close")}">×</button></div>
- <h2 class="dn1">${esc(p.disp)}</h2>${p.act?`<span class="ai">${esc(p.act)}</span>`:""}${p.cat?`<div class="cat">${esc(p.cat)}</div>`:""}
+ <h2 class="dn1">${esc(p.disp)}</h2>${p.act?`<span class="ai">${esc(p.act)}</span>`:""}
  ${priceBlock(p)}
  ${ch.length?`<div class="hs"><b>${T("hist")}</b>${ch.map(x=>`<div>${esc(x.date)}: ${esc(money(num(x.old_price)))} ${T("to")} ${esc(money(num(x.new_price)))} ${T("cur")}</div>`).join("")}</div>`:""}
- ${p.ind.length?`<div class="uf"><b>${T("usedFor")}:</b>${p.ind.map(x=>`<span>${esc(x)}</span>`).join("")}</div>`:""}
+ ${xpHtml(p)?`<div class="rwc"><button class="tg" data-xp aria-expanded="false">${T("usedFor")}</button><div class="xp">${xpHtml(p)}</div></div>`:""}
  <div class="dtabs">${tabs.map(t=>`<button class="chip ${t[0]===DR.tab?"on":""}" data-tab="${t[0]}">${T(t[0])} (${t[1]})</button>`).join("")}</div>
  <p class="hint">${T(DR.tab+"H")}</p>
- ${list.length?list.slice(0,60).map(x=>`<button class="rw" data-o data-i="${x.i}" data-t="${DR.tab}"><span><b>${esc(x.disp)}</b><em>${esc(x.act)}</em></span><span class="rp">${isNaN(x.price)?"":money(x.price)+" "+T("cur")}${save(p,x)}</span></button>`).join(""):`<p class="hint">${T(DR.tab==="sim"?"noSim":"noAlt")}</p>`}
+ ${list.length?list.slice(0,60).map(x=>`<div class="rwc"><button class="rw" data-o data-i="${x.i}" data-t="${DR.tab}"><span><b>${esc(x.disp)}</b><em>${esc(x.act)}</em></span><span class="rp">${mp(x)}${save(p,x)}</span></button>${xpHtml(x)?`<button class="tg" data-xp aria-expanded="false">${T("usedFor")}</button><div class="xp">${xpHtml(x)}</div>`:""}</div>`).join(""):`<p class="hint">${T(DR.tab==="sim"?"noSim":"noAlt")}</p>`}
  <details><summary>${T("info")}</summary><div class="info">${esc(p.info.replace(/\^+/g,"\n").trim())}</div></details>`;
 }
 function openDr(p,tab,push){
@@ -274,6 +294,7 @@ function rerun(){const m=$("more");if(m)m.remove();run()}
 
 document.addEventListener("click",e=>{
  const g=s=>e.target.closest(s);let b;
+ if(b=g("[data-xp]")){const w=b.closest(".box,.rwc"),o=w.classList.toggle("open");b.setAttribute("aria-expanded",o);return}
  if(b=g("[data-o]")){openDr(P[+b.dataset.i],b.dataset.t||"sim",!!g("#dr"));return}
  if(g("[data-back]")){const s=DR.stack.pop();if(s){DR.p=s[0];DR.tab=s[1];drawer()}return}
  if(g("[data-x]")){closeDr();return}

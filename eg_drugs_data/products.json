@@ -10021,19 +10021,19 @@
   },
   "BETADINE 10% (20G) OINT.": {
     "name": "BETADINE 10% (20G) OINT.",
-    "price": "7.5L.E"
+    "price": ""
   },
   "BETADINE 10% (60G) OINT.": {
     "name": "BETADINE 10% (60G) OINT.",
-    "price": "15.75L.E"
+    "price": ""
   },
   "BETADINE 10% 10 STERILE GAUZE DRESSING 10*10 CM": {
     "name": "BETADINE 10% 10 STERILE GAUZE DRESSING 10*10 CM",
-    "price": "26L.E"
+    "price": ""
   },
   "BETADINE 200MG 14 VAGINAL OVULE": {
     "name": "BETADINE 200MG 14 VAGINAL OVULE",
-    "price": "16.5L.E"
+    "price": ""
   },
   "BETADINE ANTISEPTIC SOLN. 10% 120 ML": {
     "name": "BETADINE ANTISEPTIC SOLN. 10% 120 ML",
@@ -53313,7 +53313,7 @@
   },
   "MARNYS NOBILETIL 10 ORAL BOTTLES 11 ML": {
     "name": "MARNYS NOBILETIL 10 ORAL BOTTLES 11 ML",
-    "price": "500L.E"
+    "price": "550L.E"
   },
   "MARNYS OMEGA 3 FISH OIL SYRUP 125 ML": {
     "name": "MARNYS OMEGA 3 FISH OIL SYRUP 125 ML",
@@ -53725,11 +53725,11 @@
   },
   "MATRIX 20 CAPS.": {
     "name": "MATRIX 20 CAPS.",
-    "price": "70L.E"
+    "price": "200L.E"
   },
   "MATRIX 30 CAPS.": {
     "name": "MATRIX 30 CAPS.",
-    "price": "140L.E"
+    "price": ""
   },
   "MATRIX CREAM 75 GM": {
     "name": "MATRIX CREAM 75 GM",
@@ -100521,82 +100521,82 @@
   },
   "AMINOSPIRIT 5GM 20 SACHETS": {
     "name": "AMINOSPIRIT 5GM 20 SACHETS",
-    "price": "630"
+    "price": "630L.E"
   },
   "BETADINE 10% 10 STERILE GAUZE DRESSING 10*10 CM (N/A)": {
     "name": "BETADINE 10% 10 STERILE GAUZE DRESSING 10*10 CM (N/A)",
-    "price": "26"
+    "price": "26L.E"
   },
   "BETADINE 10% TOPICAL OINT. 20 GM (N/A)": {
     "name": "BETADINE 10% TOPICAL OINT. 20 GM (N/A)",
-    "price": "7.5"
+    "price": ""
   },
   "BETADINE 10% TOPICAL OINT. 60 GM": {
     "name": "BETADINE 10% TOPICAL OINT. 60 GM",
-    "price": "15.75"
+    "price": "15.75L.E"
   },
   "BETADINE 200MG 14 VAGINAL OVULE (N/A)": {
     "name": "BETADINE 200MG 14 VAGINAL OVULE (N/A)",
-    "price": "16.5"
+    "price": "16.5L.E"
   },
   "CURAM 625 MG 12 F.C. TABS.": {
     "name": "CURAM 625 MG 12 F.C. TABS.",
-    "price": "108"
+    "price": "108L.E"
   },
   "FIN DE SYRUP 120 ML": {
     "name": "FIN DE SYRUP 120 ML",
-    "price": "500"
+    "price": "500L.E"
   },
   "KAZAFERRO 30 CAPS": {
     "name": "KAZAFERRO 30 CAPS",
-    "price": "295"
+    "price": "295L.E"
   },
   "LIMITLESS MAN (50+) 60 TABS.": {
     "name": "LIMITLESS MAN (50+) 60 TABS.",
-    "price": "300"
+    "price": "300L.E"
   },
   "LIMITLESS WOMAN (50+) 60 TABS.": {
     "name": "LIMITLESS WOMAN (50+) 60 TABS.",
-    "price": "300"
+    "price": "300L.E"
   },
   "MATRIX 30 CAPS. (N/A)": {
     "name": "MATRIX 30 CAPS. (N/A)",
-    "price": "140"
+    "price": "140L.E"
   },
   "MIRA-SEVOFLURANE 100% LIQUID FOR INHALATION 250 ML (N/A)": {
     "name": "MIRA-SEVOFLURANE 100% LIQUID FOR INHALATION 250 ML (N/A)",
-    "price": "800"
+    "price": "800L.E"
   },
   "MIROGESIA 10 MG 30 F.C. TABS.": {
     "name": "MIROGESIA 10 MG 30 F.C. TABS.",
-    "price": "222"
+    "price": "222L.E"
   },
   "MIROGESIA 15 MG 30 F.C. TABS.": {
     "name": "MIROGESIA 15 MG 30 F.C. TABS.",
-    "price": "285"
+    "price": "285L.E"
   },
   "MIROGESIA 2.5 MG 30 F.C. TABS.": {
     "name": "MIROGESIA 2.5 MG 30 F.C. TABS.",
-    "price": "87"
+    "price": "87L.E"
   },
   "MIROGESIA 5 MG 30 F.C. TABS.": {
     "name": "MIROGESIA 5 MG 30 F.C. TABS.",
-    "price": "138"
+    "price": "138L.E"
   },
   "NASAPRANDY 30 GM CREAM": {
     "name": "NASAPRANDY 30 GM CREAM",
-    "price": "120"
+    "price": "120L.E"
   },
   "RANCYJOINT 30 TABS": {
     "name": "RANCYJOINT 30 TABS",
-    "price": "280"
+    "price": "280L.E"
   },
   "SEVOCASPA ANTI DANDRUFF SHAMPOO 120 ML": {
     "name": "SEVOCASPA ANTI DANDRUFF SHAMPOO 120 ML",
-    "price": "95"
+    "price": ""
   },
   "SEVOTHESIA 100% LIQUID FOR INHALATION 250 ML": {
     "name": "SEVOTHESIA 100% LIQUID FOR INHALATION 250 ML",
-    "price": "3715"
+    "price": "3715L.E"
   }
 }

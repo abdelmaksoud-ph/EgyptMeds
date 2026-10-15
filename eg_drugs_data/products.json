@@ -9653,7 +9653,7 @@
   },
   "BELLYROC CREAM 50 GM": {
     "name": "BELLYROC CREAM 50 GM",
-    "price": "69L.E"
+    "price": "89L.E"
   },
   "BELO 10 SACHETS": {
     "name": "BELO 10 SACHETS",
@@ -9661,7 +9661,7 @@
   },
   "BELPLAX 20 TABS": {
     "name": "BELPLAX 20 TABS",
-    "price": "110L.E"
+    "price": "120L.E"
   },
   "BEMA HAIR LOSS BIO LOTION AMP. 10 X 10 ML": {
     "name": "BEMA HAIR LOSS BIO LOTION AMP. 10 X 10 ML",
@@ -10125,7 +10125,7 @@
   },
   "BETANIL 10% ANTISEPTIC SOLUTION 100 ML": {
     "name": "BETANIL 10% ANTISEPTIC SOLUTION 100 ML",
-    "price": "60L.E"
+    "price": "65L.E"
   },
   "BETANIUM 50GM CREAM": {
     "name": "BETANIUM 50GM CREAM",
@@ -10729,7 +10729,7 @@
   },
   "BIOLAX 7 SACHETS": {
     "name": "BIOLAX 7 SACHETS",
-    "price": "49L.E"
+    "price": "55L.E"
   },
   "BIOLEGAM 100/60 MG 8 F.C. TABS.": {
     "name": "BIOLEGAM 100/60 MG 8 F.C. TABS.",
@@ -11469,7 +11469,7 @@
   },
   "BLOSED 20 CAPSULE": {
     "name": "BLOSED 20 CAPSULE",
-    "price": "120L.E"
+    "price": "130L.E"
   },
   "BLOTAGRIL 75MG 30 F.C. TABS.": {
     "name": "BLOTAGRIL 75MG 30 F.C. TABS.",
@@ -11713,7 +11713,7 @@
   },
   "BONE-SEROL 30 TABS": {
     "name": "BONE-SEROL 30 TABS",
-    "price": "97L.E"
+    "price": "150L.E"
   },
   "BONEDIVITON 50.000 I.U. SYRUP 2.5 ML 4 DOSES": {
     "name": "BONEDIVITON 50.000 I.U. SYRUP 2.5 ML 4 DOSES",
@@ -11765,7 +11765,7 @@
   },
   "BONGICA 30 TABLETS": {
     "name": "BONGICA 30 TABLETS",
-    "price": "120L.E"
+    "price": "140L.E"
   },
   "BONIDON 75MG 20 DEPOCAPS.": {
     "name": "BONIDON 75MG 20 DEPOCAPS.",
@@ -12081,7 +12081,7 @@
   },
   "BRANDOGAR 15 ML ORAL DROPS": {
     "name": "BRANDOGAR 15 ML ORAL DROPS",
-    "price": "79L.E"
+    "price": "95L.E"
   },
   "BRANDOTA 10 SACHETS": {
     "name": "BRANDOTA 10 SACHETS",
@@ -12573,7 +12573,7 @@
   },
   "BRONCHROOZ SYRUP 120 ML": {
     "name": "BRONCHROOZ SYRUP 120 ML",
-    "price": "55L.E"
+    "price": "65L.E"
   },
   "BRONCOXIL N SYRUP 120ML": {
     "name": "BRONCOXIL N SYRUP 120ML",
@@ -28497,7 +28497,7 @@
   },
   "ENSINY 50 GM CREAM": {
     "name": "ENSINY 50 GM CREAM",
-    "price": "90L.E"
+    "price": "225L.E"
   },
   "ENSUDYNE 15MG 7 TAB.": {
     "name": "ENSUDYNE 15MG 7 TAB.",
@@ -100598,5 +100598,37 @@
   "SEVOTHESIA 100% LIQUID FOR INHALATION 250 ML": {
     "name": "SEVOTHESIA 100% LIQUID FOR INHALATION 250 ML",
     "price": "3715L.E"
+  },
+  "AVANOSABRANDY 100ML SPRAY": {
+    "name": "AVANOSABRANDY 100ML SPRAY",
+    "price": "160"
+  },
+  "HEMTAG 30ML SPRAY": {
+    "name": "HEMTAG 30ML SPRAY",
+    "price": "110"
+  },
+  "HEMTAG 50GM CREAM": {
+    "name": "HEMTAG 50GM CREAM",
+    "price": "80"
+  },
+  "LYSAVIVA 120ML SYRUP": {
+    "name": "LYSAVIVA 120ML SYRUP",
+    "price": "60"
+  },
+  "NASAPRANDY 30GM CREAM": {
+    "name": "NASAPRANDY 30GM CREAM",
+    "price": "120"
+  },
+  "NASAPRANDY 50GM CREAM": {
+    "name": "NASAPRANDY 50GM CREAM",
+    "price": "60"
+  },
+  "POCANIOTIC 16ML DROPS": {
+    "name": "POCANIOTIC 16ML DROPS",
+    "price": "110"
+  },
+  "QIOSVEER 250ML SYRUP": {
+    "name": "QIOSVEER 250ML SYRUP",
+    "price": "80"
   }
 }

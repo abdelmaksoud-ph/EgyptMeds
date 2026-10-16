@@ -100585,7 +100585,7 @@
   },
   "NASAPRANDY 30 GM CREAM": {
     "name": "NASAPRANDY 30 GM CREAM",
-    "price": "120L.E"
+    "price": ""
   },
   "RANCYJOINT 30 TABS": {
     "name": "RANCYJOINT 30 TABS",
@@ -100601,34 +100601,34 @@
   },
   "AVANOSABRANDY 100ML SPRAY": {
     "name": "AVANOSABRANDY 100ML SPRAY",
-    "price": "160"
+    "price": "160L.E"
   },
   "HEMTAG 30ML SPRAY": {
     "name": "HEMTAG 30ML SPRAY",
-    "price": "110"
+    "price": "110L.E"
   },
   "HEMTAG 50GM CREAM": {
     "name": "HEMTAG 50GM CREAM",
-    "price": "80"
+    "price": "80L.E"
   },
   "LYSAVIVA 120ML SYRUP": {
     "name": "LYSAVIVA 120ML SYRUP",
-    "price": "60"
+    "price": "60L.E"
   },
   "NASAPRANDY 30GM CREAM": {
     "name": "NASAPRANDY 30GM CREAM",
-    "price": "120"
+    "price": "120L.E"
   },
   "NASAPRANDY 50GM CREAM": {
     "name": "NASAPRANDY 50GM CREAM",
-    "price": "60"
+    "price": "60L.E"
   },
   "POCANIOTIC 16ML DROPS": {
     "name": "POCANIOTIC 16ML DROPS",
-    "price": "110"
+    "price": "110L.E"
   },
   "QIOSVEER 250ML SYRUP": {
     "name": "QIOSVEER 250ML SYRUP",
-    "price": "80"
+    "price": "80L.E"
   }
 }

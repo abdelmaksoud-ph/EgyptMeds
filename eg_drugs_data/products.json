@@ -13257,11 +13257,11 @@
   },
   "CALCINEX PLUS 30 PILLS": {
     "name": "CALCINEX PLUS 30 PILLS",
-    "price": "150L.E"
+    "price": "180L.E"
   },
   "CALCINEX PLUS SYRUP 120 ML": {
     "name": "CALCINEX PLUS SYRUP 120 ML",
-    "price": "65L.E"
+    "price": "79L.E"
   },
   "CALCINOZAM 30 TABS.": {
     "name": "CALCINOZAM 30 TABS.",
@@ -13269,7 +13269,7 @@
   },
   "CALCIOGAM TAB 20 TABS": {
     "name": "CALCIOGAM TAB 20 TABS",
-    "price": "88L.E"
+    "price": "100L.E"
   },
   "CALCIONATE 6 AMPS.": {
     "name": "CALCIONATE 6 AMPS.",
@@ -13349,7 +13349,7 @@
   },
   "CALCITRIX 20 TABS.": {
     "name": "CALCITRIX 20 TABS.",
-    "price": "110L.E"
+    "price": "120L.E"
   },
   "CALCITRIX 30 TABS.": {
     "name": "CALCITRIX 30 TABS.",
@@ -13493,7 +13493,7 @@
   },
   "CALDIOMATRIX 20 TABS": {
     "name": "CALDIOMATRIX 20 TABS",
-    "price": "102L.E"
+    "price": "120L.E"
   },
   "CALDIOSTO 30 TABS": {
     "name": "CALDIOSTO 30 TABS",
@@ -13569,7 +13569,7 @@
   },
   "CALMA BABY SYRUP 125 ML": {
     "name": "CALMA BABY SYRUP 125 ML",
-    "price": "38L.E"
+    "price": "75L.E"
   },
   "CALMA KING SYRUP 120 ML": {
     "name": "CALMA KING SYRUP 120 ML",
@@ -100630,5 +100630,9 @@
   "QIOSVEER 250ML SYRUP": {
     "name": "QIOSVEER 250ML SYRUP",
     "price": "80L.E"
+  },
+  "MEDIPHA MEGA SYRUP 100 ML": {
+    "name": "MEDIPHA MEGA SYRUP 100 ML",
+    "price": "350"
   }
 }

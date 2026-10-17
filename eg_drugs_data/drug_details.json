@@ -23214,14 +23214,14 @@
   "CALCINEX PLUS 30 PILLS": {
     "search_name": "CALCINEX PLUS 30 PILLS",
     "name": "CALCINEX PLUS 30 PILLS",
-    "price": "150L.E",
+    "price": "180L.E",
     "information": "calcium supplement.combined with vitamin d3",
     "category": ""
   },
   "CALCINEX PLUS SYRUP 120 ML": {
     "search_name": "CALCINEX PLUS SYRUP 120 ML",
     "name": "CALCINEX PLUS SYRUP 120 ML",
-    "price": "65L.E",
+    "price": "79L.E",
     "information": "calcium supplement.combined with vitamin d3",
     "category": ""
   },
@@ -23235,7 +23235,7 @@
   "CALCIOGAM TAB 20 TABS": {
     "search_name": "CALCIOGAM TAB 20 TABS",
     "name": "CALCIOGAM TAB 20 TABS",
-    "price": "88L.E",
+    "price": "100L.E",
     "information": "The first Liposomal Calcium with high and balanced formula of Magnesium and Vit D3 in one tablet in the Egyptian market",
     "category": "multivitamin calcium supplements"
   },
@@ -23375,7 +23375,7 @@
   "CALCITRIX 20 TABS.": {
     "search_name": "CALCITRIX 20 TABS.",
     "name": "CALCITRIX 20 TABS.",
-    "price": "110L.E",
+    "price": "120L.E",
     "information": "calcium supplement",
     "category": "calcium supplement"
   },
@@ -23627,7 +23627,7 @@
   "CALDIOMATRIX 20 TABS": {
     "search_name": "CALDIOMATRIX 20 TABS",
     "name": "CALDIOMATRIX 20 TABS",
-    "price": "102L.E",
+    "price": "120L.E",
     "information": "Caldiomatrix is a calcium tabs in 2 strips every 1 contain 10 tablets",
     "category": "multivitamins"
   },
@@ -23760,7 +23760,7 @@
   "CALMA BABY SYRUP 125 ML": {
     "search_name": "CALMA BABY SYRUP 125 ML",
     "name": "CALMA BABY SYRUP 125 ML",
-    "price": "38L.E",
+    "price": "75L.E",
     "information": "It is a mixture of dill seed oil Sodium Bicarbonate and other safe natural extract. Properties^^This syrup has antispasmodic carminative and mild sedative effect in addition to its antacid effect.^^Indications^^It is used for infants and children for:^^flatulence and indigestion.^^Dose^^For Infants and children:^^Up to 6 months 5ml 3 Times daily^6-12 months 10ml 3 Times daily^Over 12 months 15ml 3 Times daily^^ Given directly or. mixed with milk",
     "category": "git disturbances"
   },
@@ -176104,5 +176104,12 @@
     "price": "80L.E",
     "information": "An oral rehydration solution supported by zinc and prebiotics relieves Gastroenteritis symptoms as dehydration, replaceses electrolytes and fluids, helps in minimizing diarrhea severity and duration",
     "category": "oral rehydration solution"
+  },
+  "MEDIPHA MEGA SYRUP 100 ML": {
+    "search_name": "MEDIPHA MEGA SYRUP 100 ML",
+    "name": "MEDIPHA MEGA SYRUP 100 ML",
+    "price": "350L.E",
+    "information": "Citicoline : stimulate Raise the levels of neurotransmitter Increase mental energy protect brain from damage aging^Omega 3 : fundamental ingrediant for brain structure function like memory and cognitive function^^Ginkgo biloba : Enhance circulation inside the brain protect against cognitive decline trumatic brain injury^^Dose : 10 ml once daily",
+    "category": "support brain function enhance memory attention focus"
   }
 }

@@ -14021,7 +14021,7 @@
   },
   "CANTRIZONE SYRUP 120 ML": {
     "name": "CANTRIZONE SYRUP 120 ML",
-    "price": "150L.E"
+    "price": "200L.E"
   },
   "CANYON ORAL GEL 15 GM": {
     "name": "CANYON ORAL GEL 15 GM",
@@ -14085,7 +14085,7 @@
   },
   "CAPO MASSAGE CREAM 50 GM": {
     "name": "CAPO MASSAGE CREAM 50 GM",
-    "price": "65L.E"
+    "price": "85L.E"
   },
   "CAPOJED-H 20 TAB. (N/A)": {
     "name": "CAPOJED-H 20 TAB. (N/A)",
@@ -54373,7 +54373,7 @@
   },
   "MEDIPHA MEGA 100 ML SYRUP": {
     "name": "MEDIPHA MEGA 100 ML SYRUP",
-    "price": "280L.E"
+    "price": ""
   },
   "MEDIPHA MUNE 120 ML SYRUP": {
     "name": "MEDIPHA MUNE 120 ML SYRUP",
@@ -100633,6 +100633,6 @@
   },
   "MEDIPHA MEGA SYRUP 100 ML": {
     "name": "MEDIPHA MEGA SYRUP 100 ML",
-    "price": "350"
+    "price": "350L.E"
   }
 }

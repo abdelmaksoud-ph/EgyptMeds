@@ -27645,7 +27645,7 @@
   "CEMIXO LIVE 30 CAPS.": {
     "search_name": "CEMIXO LIVE 30 CAPS.",
     "name": "CEMIXO LIVE 30 CAPS.",
-    "price": "75L.E",
+    "price": "130L.E",
     "information": "Liver support",
     "category": "liver support supplement"
   },
@@ -48785,7 +48785,7 @@
   "ELP MULTIVIT 30 TABS": {
     "search_name": "ELP MULTIVIT 30 TABS",
     "name": "ELP MULTIVIT 30 TABS",
-    "price": "220L.E",
+    "price": "325L.E",
     "information": "Multivitamins &Minerals for Energy &Immune support",
     "category": "multivitamins"
   },
@@ -80313,7 +80313,7 @@
   "JOINT PEX 30 TAB": {
     "search_name": "JOINT PEX 30 TAB",
     "name": "JOINT PEX 30 TAB",
-    "price": "320L.E",
+    "price": "400L.E",
     "information": "For health of joint",
     "category": "multivitamin"
   },
@@ -112562,7 +112562,7 @@
   "OMEGALUME OMEGA3+VIT D 30 CAPSULES": {
     "search_name": "OMEGALUME OMEGA3+VIT D 30 CAPSULES",
     "name": "OMEGALUME OMEGA3+VIT D 30 CAPSULES",
-    "price": "280L.E",
+    "price": "345L.E",
     "information": "Omega 3 and vitamin D to support heart and cognivate function",
     "category": "omega 3 vitamin d"
   },
@@ -146736,7 +146736,7 @@
   "SOMAZINA 500MG/4ML 5 I.M./I.V. AMP.": {
     "search_name": "SOMAZINA 500MG/4ML 5 I.M./I.V. AMP.",
     "name": "SOMAZINA 500MG/4ML 5 I.M./I.V. AMP.",
-    "price": "80L.E",
+    "price": "220L.E",
     "information": "citicoline is a brain chemical that occurs naturally in the body. as a medicine it is taken by mouth as a supplement or. given by iv or. as a shot.ssciticoline is used for alzheimer s disease and other types of dementia head trauma cerebrovascular disease such as stroke age-related memory loss parkinson s disease attention deficit-hyperactive disorder (adhd) and glaucoma.",
     "category": "cerebral circulatory inhancer"
   },
@@ -176209,5 +176209,12 @@
     "price": "",
     "information": "",
     "category": ""
+  },
+  "ANDIAMO 20 TABS": {
+    "search_name": "ANDIAMO 20 TABS",
+    "name": "ANDIAMO 20 TABS",
+    "price": "220L.E",
+    "information": "Proteolytic Enzymes",
+    "category": "proteolytic enzymes"
   }
 }

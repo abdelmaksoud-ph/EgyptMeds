@@ -15789,7 +15789,7 @@
   },
   "CEMIXO LIVE 30 CAPS.": {
     "name": "CEMIXO LIVE 30 CAPS.",
-    "price": "75L.E"
+    "price": "130L.E"
   },
   "CEMPION 10 SACHETS": {
     "name": "CEMPION 10 SACHETS",
@@ -27869,7 +27869,7 @@
   },
   "ELP MULTIVIT 30 TABS": {
     "name": "ELP MULTIVIT 30 TABS",
-    "price": "220L.E"
+    "price": "325L.E"
   },
   "ELPRO 20 TABLET": {
     "name": "ELPRO 20 TABLET",
@@ -45889,7 +45889,7 @@
   },
   "JOINT PEX 30 TAB": {
     "name": "JOINT PEX 30 TAB",
-    "price": "320L.E"
+    "price": "400L.E"
   },
   "JOINT PLANET 90 TABLETS": {
     "name": "JOINT PLANET 90 TABLETS",
@@ -64309,7 +64309,7 @@
   },
   "OMEGALUME OMEGA3+VIT D 30 CAPSULES": {
     "name": "OMEGALUME OMEGA3+VIT D 30 CAPSULES",
-    "price": "280L.E"
+    "price": "345L.E"
   },
   "OMEGAMIX SYRUP 120ML": {
     "name": "OMEGAMIX SYRUP 120ML",
@@ -83837,7 +83837,7 @@
   },
   "SOMAZINA 500MG/4ML 5 I.M./I.V. AMP.": {
     "name": "SOMAZINA 500MG/4ML 5 I.M./I.V. AMP.",
-    "price": "80L.E"
+    "price": "220L.E"
   },
   "SOMAZINA SUPRA 100MG/ML ORAL DROPS 30 ML": {
     "name": "SOMAZINA SUPRA 100MG/ML ORAL DROPS 30 ML",
@@ -100637,58 +100637,62 @@
   },
   "AVALOCOLINE 1000MG 10 TABS": {
     "name": "AVALOCOLINE 1000MG 10 TABS",
-    "price": "400"
+    "price": "400L.E"
   },
   "CASTOLYSIS 2.4 GM GRAN. 280 GM": {
     "name": "CASTOLYSIS 2.4 GM GRAN. 280 GM",
-    "price": "239"
+    "price": "239L.E"
   },
   "DOXY M.R.100 MG 10 CAPS. (N/A)": {
     "name": "DOXY M.R.100 MG 10 CAPS. (N/A)",
-    "price": "12"
+    "price": "12L.E"
   },
   "DOXY PLUS STADA 100MG 12 M.R.CAPS. (N/A)": {
     "name": "DOXY PLUS STADA 100MG 12 M.R.CAPS. (N/A)",
-    "price": "22"
+    "price": "22L.E"
   },
   "DOXYTROLER 10/10MG 30 DELAYED REL. F.C. TABS. (N/A)": {
     "name": "DOXYTROLER 10/10MG 30 DELAYED REL. F.C. TABS. (N/A)",
-    "price": "24"
+    "price": "24L.E"
   },
   "LACTASE 750 ORAL DROPS 15 ML": {
     "name": "LACTASE 750 ORAL DROPS 15 ML",
-    "price": "130"
+    "price": "130L.E"
   },
   "LACTASE ENZYME ORAL DROPS 15 ML": {
     "name": "LACTASE ENZYME ORAL DROPS 15 ML",
-    "price": "250"
+    "price": "250L.E"
   },
   "LACTASE FORTE 10.000 UNITS 30 H.G. CAPS.": {
     "name": "LACTASE FORTE 10.000 UNITS 30 H.G. CAPS.",
-    "price": "360"
+    "price": "360L.E"
   },
   "LACTASE INCANDESCE ORAL DROPS 15 ML": {
     "name": "LACTASE INCANDESCE ORAL DROPS 15 ML",
-    "price": "130"
+    "price": "130L.E"
   },
   "LIPOSOM-D3 K2 30 CAPS.": {
     "name": "LIPOSOM-D3 K2 30 CAPS.",
-    "price": "139"
+    "price": "139L.E"
   },
   "METFORMIN-EL NASR 500MG 30 TAB.": {
     "name": "METFORMIN-EL NASR 500MG 30 TAB.",
-    "price": "33"
+    "price": "33L.E"
   },
   "SODITRATE 2.4GM/2.5GM GRANULES 280 GM (N/A)": {
     "name": "SODITRATE 2.4GM/2.5GM GRANULES 280 GM (N/A)",
-    "price": "125"
+    "price": "125L.E"
   },
   "SOLVIRONZE 5GM GRANULES 10 SACHET": {
     "name": "SOLVIRONZE 5GM GRANULES 10 SACHET",
-    "price": "100"
+    "price": "100L.E"
   },
   "TASSILI 500MG 20 CAPS": {
     "name": "TASSILI 500MG 20 CAPS",
-    "price": "340"
+    "price": ""
+  },
+  "ANDIAMO 20 TABS": {
+    "name": "ANDIAMO 20 TABS",
+    "price": "220"
   }
 }

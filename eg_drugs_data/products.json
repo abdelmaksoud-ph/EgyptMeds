@@ -16437,7 +16437,7 @@
   },
   "CETROCATE 15 OIL DROPS": {
     "name": "CETROCATE 15 OIL DROPS",
-    "price": "48L.E"
+    "price": "55L.E"
   },
   "CETRODEL 3% TOPICAL SOLUTION ( HUMAN USE)": {
     "name": "CETRODEL 3% TOPICAL SOLUTION ( HUMAN USE)",
@@ -16461,7 +16461,7 @@
   },
   "CEVAMOL 12 EFF. SACHETS": {
     "name": "CEVAMOL 12 EFF. SACHETS",
-    "price": "27L.E"
+    "price": "40L.E"
   },
   "CEVAMOL 12 EFF. TAB.": {
     "name": "CEVAMOL 12 EFF. TAB.",
@@ -16533,7 +16533,7 @@
   },
   "CHANCY 30 SUBLINGUAL TABLETS": {
     "name": "CHANCY 30 SUBLINGUAL TABLETS",
-    "price": "90L.E"
+    "price": "125L.E"
   },
   "CHAR 500 MG 30 CAPSULES": {
     "name": "CHAR 500 MG 30 CAPSULES",
@@ -46541,7 +46541,7 @@
   },
   "KD INTRA-ARTICULAR GEL 1% 2ML PREFILLED SYRINGE": {
     "name": "KD INTRA-ARTICULAR GEL 1% 2ML PREFILLED SYRINGE",
-    "price": "1500L.E"
+    "price": "2000L.E"
   },
   "KD INTRA-ARTICULAR GEL 2.2% 2ML PREFILLED SYRINGE": {
     "name": "KD INTRA-ARTICULAR GEL 2.2% 2ML PREFILLED SYRINGE",
@@ -54353,23 +54353,23 @@
   },
   "MEDIPHA B12 1000MIG 30 ODF": {
     "name": "MEDIPHA B12 1000MIG 30 ODF",
-    "price": "135L.E"
+    "price": "195L.E"
   },
   "MEDIPHA D3 8000 I.U/ML 15ML ORAL DROPS": {
     "name": "MEDIPHA D3 8000 I.U/ML 15ML ORAL DROPS",
-    "price": "45L.E"
+    "price": "65L.E"
   },
   "MEDIPHA IVY 100ML SYRUP": {
     "name": "MEDIPHA IVY 100ML SYRUP",
-    "price": "50L.E"
+    "price": "65L.E"
   },
   "MEDIPHA JOINT 30 F.C TABS": {
     "name": "MEDIPHA JOINT 30 F.C TABS",
-    "price": "280L.E"
+    "price": "350L.E"
   },
   "MEDIPHA LASE 450 CEIPUNIT/ML 100ML SYRUP": {
     "name": "MEDIPHA LASE 450 CEIPUNIT/ML 100ML SYRUP",
-    "price": "60L.E"
+    "price": "80L.E"
   },
   "MEDIPHA MEGA 100 ML SYRUP": {
     "name": "MEDIPHA MEGA 100 ML SYRUP",
@@ -54377,11 +54377,11 @@
   },
   "MEDIPHA MUNE 120 ML SYRUP": {
     "name": "MEDIPHA MUNE 120 ML SYRUP",
-    "price": "150L.E"
+    "price": "180L.E"
   },
   "MEDIPHA ZYME 10 MG 20 E.C. TABS.": {
     "name": "MEDIPHA ZYME 10 MG 20 E.C. TABS.",
-    "price": "89L.E"
+    "price": "160L.E"
   },
   "MEDIREST CREAM 50 GM": {
     "name": "MEDIREST CREAM 50 GM",
@@ -60617,7 +60617,7 @@
   },
   "NERVODORATO 20 TABS": {
     "name": "NERVODORATO 20 TABS",
-    "price": "246L.E"
+    "price": "130L.E"
   },
   "NERVOGESK 20 CAPS": {
     "name": "NERVOGESK 20 CAPS",
@@ -74397,7 +74397,7 @@
   },
   "REDOXON 1 G 15 EFF. TABS.": {
     "name": "REDOXON 1 G 15 EFF. TABS.",
-    "price": "395L.E"
+    "price": "424L.E"
   },
   "REDUCDYN 10 TAB.": {
     "name": "REDUCDYN 10 TAB.",
@@ -100633,7 +100633,7 @@
   },
   "MEDIPHA MEGA SYRUP 100 ML": {
     "name": "MEDIPHA MEGA SYRUP 100 ML",
-    "price": "350L.E"
+    "price": ""
   },
   "AVALOCOLINE 1000MG 10 TABS": {
     "name": "AVALOCOLINE 1000MG 10 TABS",
@@ -100693,6 +100693,22 @@
   },
   "ANDIAMO 20 TABS": {
     "name": "ANDIAMO 20 TABS",
-    "price": "220"
+    "price": "220L.E"
+  },
+  "MEDIPHA MEGA SYRUP 150 ML": {
+    "name": "MEDIPHA MEGA SYRUP 150 ML",
+    "price": "350"
+  },
+  "ROSTEVO 30ML NAIL LOTION": {
+    "name": "ROSTEVO 30ML NAIL LOTION",
+    "price": "90"
+  },
+  "ROSTEVO VION 60ML SPRAY": {
+    "name": "ROSTEVO VION 60ML SPRAY",
+    "price": "120"
+  },
+  "VAIAMOVLEN 300MG 30 CAPS": {
+    "name": "VAIAMOVLEN 300MG 30 CAPS",
+    "price": "300"
   }
 }

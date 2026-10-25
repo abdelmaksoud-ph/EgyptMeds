@@ -19285,7 +19285,7 @@
   },
   "COMPHOLEX MASSAGE CREAM 120 GM": {
     "name": "COMPHOLEX MASSAGE CREAM 120 GM",
-    "price": "125L.E"
+    "price": "140L.E"
   },
   "COMPHOLEX MASSAGE CREAM 50 GM": {
     "name": "COMPHOLEX MASSAGE CREAM 50 GM",
@@ -19445,7 +19445,7 @@
   },
   "CONCRETA ANTI DANDRUFF SHAMPOO": {
     "name": "CONCRETA ANTI DANDRUFF SHAMPOO",
-    "price": "230L.E"
+    "price": "270L.E"
   },
   "CONCRETA CLEAN GEL": {
     "name": "CONCRETA CLEAN GEL",
@@ -19453,7 +19453,7 @@
   },
   "CONCRETA HAIR LOTION 120 ML": {
     "name": "CONCRETA HAIR LOTION 120 ML",
-    "price": "220L.E"
+    "price": "250L.E"
   },
   "CONCRETA HAIR MASK 200 GM": {
     "name": "CONCRETA HAIR MASK 200 GM",
@@ -19477,7 +19477,7 @@
   },
   "CONDRIONOUR TAB.": {
     "name": "CONDRIONOUR TAB.",
-    "price": "220L.E"
+    "price": "240L.E"
   },
   "CONEXERA MASSAGE GEL 50 GM": {
     "name": "CONEXERA MASSAGE GEL 50 GM",
@@ -19965,7 +19965,7 @@
   },
   "CORE CUP 20 TABLETS": {
     "name": "CORE CUP 20 TABLETS",
-    "price": "128L.E"
+    "price": "150L.E"
   },
   "CORE WHITE CREAM 50 GM": {
     "name": "CORE WHITE CREAM 50 GM",
@@ -20053,7 +20053,7 @@
   },
   "CORPAL ANTI-DANDRUFF HAIR SHAMPOO 300ML": {
     "name": "CORPAL ANTI-DANDRUFF HAIR SHAMPOO 300ML",
-    "price": "145L.E"
+    "price": "175L.E"
   },
   "CORPAL HAIR CREAM 50ML": {
     "name": "CORPAL HAIR CREAM 50ML",
@@ -21433,7 +21433,7 @@
   },
   "DALKINO 20 TABS": {
     "name": "DALKINO 20 TABS",
-    "price": "95L.E"
+    "price": "110L.E"
   },
   "DALLY- MEZ 25 ML ORAL DROPS": {
     "name": "DALLY- MEZ 25 ML ORAL DROPS",
@@ -49629,7 +49629,7 @@
   },
   "LEVONANDIX 0.03MG 35 F.C.TABS.": {
     "name": "LEVONANDIX 0.03MG 35 F.C.TABS.",
-    "price": "10L.E"
+    "price": ""
   },
   "LEVOPHRINE 4MG/4ML I.V 5 AMP.": {
     "name": "LEVOPHRINE 4MG/4ML I.V 5 AMP.",
@@ -59789,7 +59789,7 @@
   },
   "NAVILIPO EYE DROPS 10 ML": {
     "name": "NAVILIPO EYE DROPS 10 ML",
-    "price": "355L.E"
+    "price": "375L.E"
   },
   "NAVILUCA 150 MG 2 CAPS.": {
     "name": "NAVILUCA 150 MG 2 CAPS.",
@@ -74397,7 +74397,7 @@
   },
   "REDOXON 1 G 15 EFF. TABS.": {
     "name": "REDOXON 1 G 15 EFF. TABS.",
-    "price": "424L.E"
+    "price": "428.5L.E"
   },
   "REDUCDYN 10 TAB.": {
     "name": "REDUCDYN 10 TAB.",
@@ -100846,5 +100846,21 @@
   "YOUROCARBO PROBIOTICS 20 CAPS": {
     "name": "YOUROCARBO PROBIOTICS 20 CAPS",
     "price": "160L.E"
+  },
+  "GESTROLETTE 1.5 MG 1 TABLET": {
+    "name": "GESTROLETTE 1.5 MG 1 TABLET",
+    "price": "19"
+  },
+  "LEVONANDIX 0.03MG 35 F.C.TABS. (N/A)": {
+    "name": "LEVONANDIX 0.03MG 35 F.C.TABS. (N/A)",
+    "price": "10"
+  },
+  "POSTINOR-2 0.75MG 4 TAB. (N/A)": {
+    "name": "POSTINOR-2 0.75MG 4 TAB. (N/A)",
+    "price": "5.4"
+  },
+  "PULMISIDE 1 MG/2ML 20 SUSP. AMP. FOR INH.": {
+    "name": "PULMISIDE 1 MG/2ML 20 SUSP. AMP. FOR INH.",
+    "price": "288"
   }
 }

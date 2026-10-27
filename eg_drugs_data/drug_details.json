@@ -94467,7 +94467,7 @@
   "MAXILASE 200 CEIP UNIT/ML SYRUP 100ML": {
     "search_name": "MAXILASE 200 CEIP UNIT/ML SYRUP 100ML",
     "name": "MAXILASE 200 CEIP UNIT/ML SYRUP 100ML",
-    "price": "57L.E",
+    "price": "80L.E",
     "information": "Enzymatic Preparation of anti-edematous and anti-inflammatory activity. The mode of action of alpha-amylase in inflammatory edema is characterized by: ^- Hydrolysis with polysaccharides inflammatory exudate making it more fluid ^- Inhibition of abnormal capillary permeability (which is increased during the first stage of inflammation) by decreasing the output of liquids from vessels allowing easier edema resorption.^^Dose:^Infants and children up to 3 years of age (15 kg): 1 teaspoon (5 ml) 3 times a day (5 ml of syrup contain U. IEPC 1000) Children over 3 years of age (> 15 kg): 1 tablespoon (10 ml) 3 times per day (10 ml syrup contain U.CEIP 2000) Adults: 1 tablespoon (15 ml) 3 times a day. (15 ml syrup contain 3.000 U.CEIP).",
     "category": "anti-inflammatory enzymes"
   },
@@ -104631,7 +104631,7 @@
   "NAVI NACL 5% EYE DROPS 10 ML": {
     "search_name": "NAVI NACL 5% EYE DROPS 10 ML",
     "name": "NAVI NACL 5% EYE DROPS 10 ML",
-    "price": "335L.E",
+    "price": "375L.E",
     "information": "Hypertonic ophthalmic solution designed to act topically by reducing & alleviating symptoms of corneal edema with intense lubricating action.^^Navi NaCl contains a combination of NaCl 5% which creates a hypertonic tear film that draws excess fluid out of the cornea by osmotic effect therefore providing temporary alleviation from the symptoms of edema high concentration 0.3% of Sodium Hyaluronate with optimal molecular weight and Polyethylene Glycol (P-PLUS400) with bio-adhesive and lubricant properties.^^Dose:^Instill for 2 drops into each eye 3 times a day or. according to the Specialists advice.",
     "category": "eye lubricant"
   },
@@ -104722,7 +104722,7 @@
   "NAVITAE PLUS EYE DROPS 15 ML": {
     "search_name": "NAVITAE PLUS EYE DROPS 15 ML",
     "name": "NAVITAE PLUS EYE DROPS 15 ML",
-    "price": "355L.E",
+    "price": "375L.E",
     "information": "Protective antioxidant lubricant isotonic ophthalmic solution.^^Used for:^^1. Relief of dry eyes and ocular discomfort caused by dry eyes.^2. Extended contact lens wearing.^3. Oxidative stress due to light exposure and/or an increase in free radicals on the ocular surface computer vision syndrome.^4.Ocular irritation caused by allergies foreign bodies pathologies such as keratitis conjunctivitis adverse effects following corneal surgery traumatic ulcers corneal inflammation or. corneal abrasions.^^Dose:^Instill 1 or. 2 drops into each eye 3 to 6 times a day or. According to the specialist’s advice.",
     "category": "eye lubricant"
   },
@@ -176510,5 +176510,40 @@
     "price": "288L.E",
     "information": "about budesonide^steroids antiinflammatory drugs.^^mechanism of action of budesonide^budesonide controls the rate of protein synthesis depresses the migration of polymorphonuclear leukocytes fibroblasts reverses capillary permeability and lysosomal stabilisation at the cellular level to prevent or. control inflammation.^^typical dosage for budesonide tab^usually once daily before morning meal. the dosage and length of the treatment based on the medical condition.^^side effects of budesonide tab^1.headache ^2.nausea ^3.respiratory infection ^4.depression",
     "category": "bronchodilator.anti-inflammatory.glucocorticoid steroid"
+  },
+  "BILOBA CELL 120MG 30 TABS": {
+    "search_name": "BILOBA CELL 120MG 30 TABS",
+    "name": "BILOBA CELL 120MG 30 TABS",
+    "price": "213L.E",
+    "information": "Anti oxidant, Enchances central and peripheral Blood circulation and enhances cognitive functions",
+    "category": "dietary supplement"
+  },
+  "BILOBA CELL 40MG 30 TABS": {
+    "search_name": "BILOBA CELL 40MG 30 TABS",
+    "name": "BILOBA CELL 40MG 30 TABS",
+    "price": "144L.E",
+    "information": "Anti oxidant, Enhances Central and peripheral blood circulation and Enhances cognitive functions",
+    "category": "dietary supplement"
+  },
+  "BILOBA CELL 80MG 30 TABS": {
+    "search_name": "BILOBA CELL 80MG 30 TABS",
+    "name": "BILOBA CELL 80MG 30 TABS",
+    "price": "178L.E",
+    "information": "Anti oxidant, Enhances central and peripheral blood circulation and enhances cognitive functions",
+    "category": "dietary supplement"
+  },
+  "GLUPRO CELL 30 CAPS": {
+    "search_name": "GLUPRO CELL 30 CAPS",
+    "name": "GLUPRO CELL 30 CAPS",
+    "price": "178L.E",
+    "information": "Supports joints health and improve joint mobility",
+    "category": "6225001115759"
+  },
+  "NUPPI GOLD 1 MILK 350 GM": {
+    "search_name": "NUPPI GOLD 1 MILK 350 GM",
+    "name": "NUPPI GOLD 1 MILK 350 GM",
+    "price": "384L.E",
+    "information": "Synbiotic infant formula",
+    "category": "infant formula"
   }
 }

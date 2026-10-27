@@ -53969,7 +53969,7 @@
   },
   "MAXILASE 200 CEIP UNIT/ML SYRUP 100ML": {
     "name": "MAXILASE 200 CEIP UNIT/ML SYRUP 100ML",
-    "price": "57L.E"
+    "price": "80L.E"
   },
   "MAXILASE 200 CEIP UNIT/ML SYRUP 200ML": {
     "name": "MAXILASE 200 CEIP UNIT/ML SYRUP 200ML",
@@ -59777,7 +59777,7 @@
   },
   "NAVI NACL 5% EYE DROPS 10 ML": {
     "name": "NAVI NACL 5% EYE DROPS 10 ML",
-    "price": "335L.E"
+    "price": "375L.E"
   },
   "NAVIDOXINE 10 TABLETS (ILLEGAL IMPORT)": {
     "name": "NAVIDOXINE 10 TABLETS (ILLEGAL IMPORT)",
@@ -59829,7 +59829,7 @@
   },
   "NAVITAE PLUS EYE DROPS 15 ML": {
     "name": "NAVITAE PLUS EYE DROPS 15 ML",
-    "price": "355L.E"
+    "price": "375L.E"
   },
   "NAVITO D3 15 ML ORAL DROPS": {
     "name": "NAVITO D3 15 ML ORAL DROPS",
@@ -100862,5 +100862,25 @@
   "PULMISIDE 1 MG/2ML 20 SUSP. AMP. FOR INH.": {
     "name": "PULMISIDE 1 MG/2ML 20 SUSP. AMP. FOR INH.",
     "price": "288L.E"
+  },
+  "BILOBA CELL 120MG 30 TABS": {
+    "name": "BILOBA CELL 120MG 30 TABS",
+    "price": "213"
+  },
+  "BILOBA CELL 40MG 30 TABS": {
+    "name": "BILOBA CELL 40MG 30 TABS",
+    "price": "144"
+  },
+  "BILOBA CELL 80MG 30 TABS": {
+    "name": "BILOBA CELL 80MG 30 TABS",
+    "price": "178"
+  },
+  "GLUPRO CELL 30 CAPS": {
+    "name": "GLUPRO CELL 30 CAPS",
+    "price": "178"
+  },
+  "NUPPI GOLD 1 MILK 350 GM": {
+    "name": "NUPPI GOLD 1 MILK 350 GM",
+    "price": "384"
   }
 }

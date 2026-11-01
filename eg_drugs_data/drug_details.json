@@ -168974,10 +168974,10 @@
   },
   "VITAMIN D3 & K2 30 TABS": {
     "search_name": "VITAMIN D3 & K2 30 TABS",
-    "name": "VITAMIN D3 & K2 30 TABS",
-    "price": "270L.E",
-    "information": "Supports Bones Health^Supports Calcium Absorption ^Supports immune system health",
-    "category": "vitamin d3&k2"
+    "name": "",
+    "price": "",
+    "information": "",
+    "category": ""
   },
   "VITAMIN D3 10.000 I.U. 120 SOFTGELS (NOW)": {
     "search_name": "VITAMIN D3 10.000 I.U. 120 SOFTGELS (NOW)",
@@ -176629,5 +176629,103 @@
     "price": "200L.E",
     "information": "About Sildenafil Citrate^Phosphodiesterase-5 Enzyme Inhibitor Anti-erectile dysfunction agent.^Mechanism of Action of Sildenafil Citrate^Sildenafil is a phosphodiesterase enzyme (PDE5) inhibitor. This enzyme is responsible for the degradation cyclic guanosine monophosphate (cGMP) produced in reaction to sexual stimulation. The more cGMP is available the more durable the erection. Sildenafil inhibits the PDE5 enzyme preserving cGMP levels therefore aiding erection viability and durability ^Erection of the penis is caused by the filling of the penis with blood. Filling occurs because the blood vessels that bring blood to the penis increase in size and deliver more blood to the penis and at the same time the blood vessels that take blood away from the penis decrease in size and remove less blood from the penis. ^Sexual stimulation that leads to an erection causes the production and release of nitric oxide in the corpora cavernosa of the penis.",
     "category": "sexual tonic"
+  },
+  "AIG L-ARGININE 1000MG 30 TABS": {
+    "search_name": "AIG L-ARGININE 1000MG 30 TABS",
+    "name": "AIG L-ARGININE 1000MG 30 TABS",
+    "price": "225L.E",
+    "information": "Cardiovascular Support: Used to help manage chest pain (angina), high blood pressure (hypertension), and poor circulation o r peripheral arterial disease (PAD). Erectile Dysfunction (ED): Often taken to help improve blood flow to support erectile function. Pregnancy-Induced Hypertension & Preeclampsia: Sometimes studied o r utilized under medical supervision to help lower blood pressure o r manage complications during pregnancy. Athletic Performance & Stamina: Frequently used by athletes and active individuals to try to enhance exercise endurance and blood circulation, though evidence varies. Nutritional Supplementation: Used to address dietary imbalances o r support protein synthesis and immune function.",
+    "category": "multivitamin"
+  },
+  "BONETRA DK 30 TABS": {
+    "search_name": "BONETRA DK 30 TABS",
+    "name": "BONETRA DK 30 TABS",
+    "price": "207L.E",
+    "information": "Vitamin D3 4000 K2. 120mcg",
+    "category": "vitamin d3+k2"
+  },
+  "DODIFROST 60ML SYRUP": {
+    "search_name": "DODIFROST 60ML SYRUP",
+    "name": "DODIFROST 60ML SYRUP",
+    "price": "90L.E",
+    "information": "Dodifrost syrup is a physical antidiarrheal product whatever the cause of diarrhea viral, bacterial o r parasite",
+    "category": "antidiarrheal, support gut health"
+  },
+  "KONTASER 20ML ORAL DROPS": {
+    "search_name": "KONTASER 20ML ORAL DROPS",
+    "name": "KONTASER 20ML ORAL DROPS",
+    "price": "75L.E",
+    "information": "Kontaser drops for all types of cough dry, productive o r mixed cough with high saftey margin to be used in infants starting from day 1",
+    "category": "anti-tussive for all types of cough"
+  },
+  "METHYLNERVE 30 TABS": {
+    "search_name": "METHYLNERVE 30 TABS",
+    "name": "METHYLNERVE 30 TABS",
+    "price": "150L.E",
+    "information": "Box of 30 Oral sublingual tablets with strawberry flavour for vit. B deficiency and nerve support - once daily dose",
+    "category": "multivitamin"
+  },
+  "ROTADRIP 30ML NASAL SPRAY": {
+    "search_name": "ROTADRIP 30ML NASAL SPRAY",
+    "name": "ROTADRIP 30ML NASAL SPRAY",
+    "price": "100L.E",
+    "information": "Nasal spray for blocked and congested nose from day1 for all neonates",
+    "category": "decongestant for babies blocked nose"
+  },
+  "ROTADRIP 50ML NASAL SPRAY": {
+    "search_name": "ROTADRIP 50ML NASAL SPRAY",
+    "name": "ROTADRIP 50ML NASAL SPRAY",
+    "price": "145L.E",
+    "information": "Nasal spray for blocked and congested nose from day1 for all neonates",
+    "category": "decongestant for babies blocked nose"
+  },
+  "SEROLACT LYSINE 120ML SYRUP": {
+    "search_name": "SEROLACT LYSINE 120ML SYRUP",
+    "name": "SEROLACT LYSINE 120ML SYRUP",
+    "price": "145L.E",
+    "information": "Serolact lysine syrup is an appetite stimulant and boost growth to the maximum potential according to genetic factors",
+    "category": "appetite stimulant, boosting growth"
+  },
+  "TEXOR CARE 15GM ORAL GEL": {
+    "search_name": "TEXOR CARE 15GM ORAL GEL",
+    "name": "TEXOR CARE 15GM ORAL GEL",
+    "price": "69L.E",
+    "information": "Texor care oral gel for teething pain, ulcers and oral infections",
+    "category": "analgesic and anti inflammatory"
+  },
+  "TEXOR HR 50ML ORALSPRAY": {
+    "search_name": "TEXOR HR 50ML ORALSPRAY",
+    "name": "TEXOR HR 50ML ORALSPRAY",
+    "price": "99L.E",
+    "information": "Oral spray for treatment tonsilitis, pharyngitis, and sore throat with very strong anaethetic effect and antiseptic effect",
+    "category": "analgesic + antiseptic"
+  },
+  "TRYPSOHEALTH 20 TABS": {
+    "search_name": "TRYPSOHEALTH 20 TABS",
+    "name": "TRYPSOHEALTH 20 TABS",
+    "price": "180L.E",
+    "information": "Box of 20 entric coated tablet each tablet contain (82mg trypsin + 180mg Bromelain + 200mg rutoside) Indications : anti inflammatory drug and edema Dose : once daily dose",
+    "category": "anti-inflammatory drug"
+  },
+  "VITAMIN ELIA D3 & K2 30 FILM COATED TABS": {
+    "search_name": "VITAMIN ELIA D3 & K2 30 FILM COATED TABS",
+    "name": "VITAMIN ELIA D3 & K2 30 FILM COATED TABS",
+    "price": "270L.E",
+    "information": "Supports Bones Health^Supports Calcium Absorption ^Supports immune system health",
+    "category": "vitamin d3&k2"
+  },
+  "VONATERP 30ML EAR SPRAY": {
+    "search_name": "VONATERP 30ML EAR SPRAY",
+    "name": "VONATERP 30ML EAR SPRAY",
+    "price": "98L.E",
+    "information": "Ear spray for otitis externa, otalgia, pruritis and wax removal",
+    "category": "wax remover + anti microbial"
+  },
+  "ZANTOPAR PLUS 50ML NASAL SPRAY": {
+    "search_name": "ZANTOPAR PLUS 50ML NASAL SPRAY",
+    "name": "ZANTOPAR PLUS 50ML NASAL SPRAY",
+    "price": "125L.E",
+    "information": "Nasal spray for all nasal infections viral, bacterial o r mixed infections with decongestant effect of tannic acid",
+    "category": "antiviral nasal spray"
   }
 }

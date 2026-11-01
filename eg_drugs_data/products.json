@@ -96537,7 +96537,7 @@
   },
   "VITAMIN D3 & K2 30 TABS": {
     "name": "VITAMIN D3 & K2 30 TABS",
-    "price": "270L.E"
+    "price": ""
   },
   "VITAMIN D3 10.000 I.U. 120 SOFTGELS (NOW)": {
     "name": "VITAMIN D3 10.000 I.U. 120 SOFTGELS (NOW)",
@@ -100930,5 +100930,61 @@
   "REKTALONG 60/100MG 4 F.C. TABS.": {
     "name": "REKTALONG 60/100MG 4 F.C. TABS.",
     "price": "200L.E"
+  },
+  "AIG L-ARGININE 1000MG 30 TABS": {
+    "name": "AIG L-ARGININE 1000MG 30 TABS",
+    "price": "225"
+  },
+  "BONETRA DK 30 TABS": {
+    "name": "BONETRA DK 30 TABS",
+    "price": "207"
+  },
+  "DODIFROST 60ML SYRUP": {
+    "name": "DODIFROST 60ML SYRUP",
+    "price": "90"
+  },
+  "KONTASER 20ML ORAL DROPS": {
+    "name": "KONTASER 20ML ORAL DROPS",
+    "price": "75"
+  },
+  "METHYLNERVE 30 TABS": {
+    "name": "METHYLNERVE 30 TABS",
+    "price": "150"
+  },
+  "ROTADRIP 30ML NASAL SPRAY": {
+    "name": "ROTADRIP 30ML NASAL SPRAY",
+    "price": "100"
+  },
+  "ROTADRIP 50ML NASAL SPRAY": {
+    "name": "ROTADRIP 50ML NASAL SPRAY",
+    "price": "145"
+  },
+  "SEROLACT LYSINE 120ML SYRUP": {
+    "name": "SEROLACT LYSINE 120ML SYRUP",
+    "price": "145"
+  },
+  "TEXOR CARE 15GM ORAL GEL": {
+    "name": "TEXOR CARE 15GM ORAL GEL",
+    "price": "69"
+  },
+  "TEXOR HR 50ML ORALSPRAY": {
+    "name": "TEXOR HR 50ML ORALSPRAY",
+    "price": "99"
+  },
+  "TRYPSOHEALTH 20 TABS": {
+    "name": "TRYPSOHEALTH 20 TABS",
+    "price": "180"
+  },
+  "VITAMIN ELIA D3 & K2 30 FILM COATED TABS": {
+    "name": "VITAMIN ELIA D3 & K2 30 FILM COATED TABS",
+    "price": "270"
+  },
+  "VONATERP 30ML EAR SPRAY": {
+    "name": "VONATERP 30ML EAR SPRAY",
+    "price": "98"
+  },
+  "ZANTOPAR PLUS 50ML NASAL SPRAY": {
+    "name": "ZANTOPAR PLUS 50ML NASAL SPRAY",
+    "price": "125"
   }
 }

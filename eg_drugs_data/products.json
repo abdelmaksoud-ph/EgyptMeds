@@ -101006,5 +101006,21 @@
   "TALK FREE EAR DROPS 15 ML": {
     "name": "TALK FREE EAR DROPS 15 ML",
     "price": "30L.E"
+  },
+  "BUILMRC 20 TABS": {
+    "name": "BUILMRC 20 TABS",
+    "price": "140"
+  },
+  "MINTSKYRUST 75GM MASSAGE GEL": {
+    "name": "MINTSKYRUST 75GM MASSAGE GEL",
+    "price": "95"
+  },
+  "OSTREMIER 30 TABS": {
+    "name": "OSTREMIER 30 TABS",
+    "price": "240"
+  },
+  "PRETMRC 20 TABS": {
+    "name": "PRETMRC 20 TABS",
+    "price": "150"
   }
 }

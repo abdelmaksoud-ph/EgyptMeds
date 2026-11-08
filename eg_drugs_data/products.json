@@ -14813,11 +14813,11 @@
   },
   "CARTIOFEN 30 F.C.TABS.": {
     "name": "CARTIOFEN 30 F.C.TABS.",
-    "price": "180L.E"
+    "price": "310L.E"
   },
   "CARTIOFEN 50 F.C. TABS.": {
     "name": "CARTIOFEN 50 F.C. TABS.",
-    "price": "300L.E"
+    "price": "510L.E"
   },
   "CARTIOJO 30 CAPS": {
     "name": "CARTIOJO 30 CAPS",
@@ -31589,7 +31589,7 @@
   },
   "FAT BOOM 30 HARD GELATIN CAPSULES": {
     "name": "FAT BOOM 30 HARD GELATIN CAPSULES",
-    "price": "300L.E"
+    "price": "350L.E"
   },
   "FATESTATIN 10 MG 10 F.C.TABS.": {
     "name": "FATESTATIN 10 MG 10 F.C.TABS.",
@@ -32001,7 +32001,7 @@
   },
   "FENNO RAM 120 ML SYRUP": {
     "name": "FENNO RAM 120 ML SYRUP",
-    "price": "60L.E"
+    "price": "70L.E"
   },
   "FENOLIP 100 MG 10 CAPS.": {
     "name": "FENOLIP 100 MG 10 CAPS.",
@@ -32173,7 +32173,7 @@
   },
   "FEROGLICY BABY SYRUP 30 ML": {
     "name": "FEROGLICY BABY SYRUP 30 ML",
-    "price": "85L.E"
+    "price": "90L.E"
   },
   "FEROGLOBIN 30 CAPS.": {
     "name": "FEROGLOBIN 30 CAPS.",
@@ -32249,7 +32249,7 @@
   },
   "FERPINO 20 CAPS": {
     "name": "FERPINO 20 CAPS",
-    "price": "120L.E"
+    "price": "135L.E"
   },
   "FERRAMINO SYRUP 100 ML": {
     "name": "FERRAMINO SYRUP 100 ML",
@@ -32385,7 +32385,7 @@
   },
   "FERROGATE 20 CAP": {
     "name": "FERROGATE 20 CAP",
-    "price": "135L.E"
+    "price": "150L.E"
   },
   "FERROHEALTHY 120ML SYRUP": {
     "name": "FERROHEALTHY 120ML SYRUP",
@@ -32465,7 +32465,7 @@
   },
   "FERROSPIRE 30 ML ORAL DROPS": {
     "name": "FERROSPIRE 30 ML ORAL DROPS",
-    "price": "80L.E"
+    "price": "100L.E"
   },
   "FERROSPOT 30 CAPS": {
     "name": "FERROSPOT 30 CAPS",
@@ -32817,7 +32817,7 @@
   },
   "FIRST MAP 120 ML SYRUP": {
     "name": "FIRST MAP 120 ML SYRUP",
-    "price": "95L.E"
+    "price": "105L.E"
   },
   "FIRST TOPICAL LOTION 120ML": {
     "name": "FIRST TOPICAL LOTION 120ML",
@@ -46553,7 +46553,7 @@
   },
   "KD INTRA-ARTICULAR GEL 2.5% 4.8 ML ULTRA ONE": {
     "name": "KD INTRA-ARTICULAR GEL 2.5% 4.8 ML ULTRA ONE",
-    "price": "8500L.E"
+    "price": "9000L.E"
   },
   "KEEP ACTIVE 120 ML MASSAGE SPRAY": {
     "name": "KEEP ACTIVE 120 ML MASSAGE SPRAY",
@@ -78413,7 +78413,7 @@
   },
   "RX MASSAGE CREAM 50 GM": {
     "name": "RX MASSAGE CREAM 50 GM",
-    "price": "75L.E"
+    "price": "89.9L.E"
   },
   "RX MASSAGE GEL 100 GM": {
     "name": "RX MASSAGE GEL 100 GM",
@@ -101009,18 +101009,22 @@
   },
   "BUILMRC 20 TABS": {
     "name": "BUILMRC 20 TABS",
-    "price": "140"
+    "price": "140L.E"
   },
   "MINTSKYRUST 75GM MASSAGE GEL": {
     "name": "MINTSKYRUST 75GM MASSAGE GEL",
-    "price": "95"
+    "price": "95L.E"
   },
   "OSTREMIER 30 TABS": {
     "name": "OSTREMIER 30 TABS",
-    "price": "240"
+    "price": "240L.E"
   },
   "PRETMRC 20 TABS": {
     "name": "PRETMRC 20 TABS",
-    "price": "150"
+    "price": "150L.E"
+  },
+  "INOPALM JOINT 30 F.C TAB": {
+    "name": "INOPALM JOINT 30 F.C TAB",
+    "price": "495"
   }
 }

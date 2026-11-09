@@ -33929,7 +33929,7 @@
   },
   "FOLI MERIC 30 TABS": {
     "name": "FOLI MERIC 30 TABS",
-    "price": "135L.E"
+    "price": "150L.E"
   },
   "FOLI-JOMIC 800 MG SUBLINGUAL TABS": {
     "name": "FOLI-JOMIC 800 MG SUBLINGUAL TABS",
@@ -34461,7 +34461,7 @@
   },
   "FORTIFERRUM 14 SACHETS": {
     "name": "FORTIFERRUM 14 SACHETS",
-    "price": "255L.E"
+    "price": "285L.E"
   },
   "FORTIJOINT 30 TABLETS": {
     "name": "FORTIJOINT 30 TABLETS",
@@ -34485,7 +34485,7 @@
   },
   "FORTIZAC 30 TAB": {
     "name": "FORTIZAC 30 TAB",
-    "price": "195L.E"
+    "price": "225L.E"
   },
   "FORTRANS 4 SACHETS": {
     "name": "FORTRANS 4 SACHETS",
@@ -34869,7 +34869,7 @@
   },
   "FRETZ 120 ML SYRUP": {
     "name": "FRETZ 120 ML SYRUP",
-    "price": "60L.E"
+    "price": "85L.E"
   },
   "FREZYDERM CREAM 50 GM": {
     "name": "FREZYDERM CREAM 50 GM",
@@ -35009,7 +35009,7 @@
   },
   "FROST TOPICAL SPRAY 100 ML": {
     "name": "FROST TOPICAL SPRAY 100 ML",
-    "price": "165L.E"
+    "price": "250L.E"
   },
   "FROZEN-A SPRAY 100 ML": {
     "name": "FROZEN-A SPRAY 100 ML",
@@ -35269,7 +35269,7 @@
   },
   "FURAG 6 SACHETS": {
     "name": "FURAG 6 SACHETS",
-    "price": "70L.E"
+    "price": "80L.E"
   },
   "FURAMEBE 500MG 20 TAB.": {
     "name": "FURAMEBE 500MG 20 TAB.",
@@ -101025,6 +101025,58 @@
   },
   "INOPALM JOINT 30 F.C TAB": {
     "name": "INOPALM JOINT 30 F.C TAB",
-    "price": "495"
+    "price": "495L.E"
+  },
+  "GEMCITABIN-SEDICO 1 GM I.V. INF. VIAL": {
+    "name": "GEMCITABIN-SEDICO 1 GM I.V. INF. VIAL",
+    "price": "1121"
+  },
+  "GEMCITABIN-SEDICO 2 GM I.V. INF. VIAL": {
+    "name": "GEMCITABIN-SEDICO 2 GM I.V. INF. VIAL",
+    "price": "1900"
+  },
+  "GEMCITABIN-SEDICO 200 MG I.V. INF. VIAL": {
+    "name": "GEMCITABIN-SEDICO 200 MG I.V. INF. VIAL",
+    "price": "290"
+  },
+  "METHOTREXATE-SEDICO 1GM/40ML 1 VIAL": {
+    "name": "METHOTREXATE-SEDICO 1GM/40ML 1 VIAL",
+    "price": "516"
+  },
+  "METHOTREXATE-SEDICO 500MG/20ML 1 VIAL": {
+    "name": "METHOTREXATE-SEDICO 500MG/20ML 1 VIAL",
+    "price": "300"
+  },
+  "METHOTREXATE-SEDICO 50MG/2ML 1 VIAL": {
+    "name": "METHOTREXATE-SEDICO 50MG/2ML 1 VIAL",
+    "price": "77"
+  },
+  "PACLITAXEL\"SEDICO\" 6MG/ML 100MG/17ML I.V. INF. VIAL": {
+    "name": "PACLITAXEL\"SEDICO\" 6MG/ML 100MG/17ML I.V. INF. VIAL",
+    "price": "1400"
+  },
+  "PACLITAXEL\"SEDICO\" 6MG/ML 150MG/25ML I.V. INF. VIAL": {
+    "name": "PACLITAXEL\"SEDICO\" 6MG/ML 150MG/25ML I.V. INF. VIAL",
+    "price": "2100"
+  },
+  "PACLITAXEL\"SEDICO\" 6MG/ML 300MG/50ML I.V. INF. VIAL": {
+    "name": "PACLITAXEL\"SEDICO\" 6MG/ML 300MG/50ML I.V. INF. VIAL",
+    "price": "3800"
+  },
+  "PACLITAXEL\"SEDICO\" 6MG/ML 30MG/5ML I.V. INF. VIAL": {
+    "name": "PACLITAXEL\"SEDICO\" 6MG/ML 30MG/5ML I.V. INF. VIAL",
+    "price": "522"
+  },
+  "SELF MULTIVITAMIN PRO 60 CAPS": {
+    "name": "SELF MULTIVITAMIN PRO 60 CAPS",
+    "price": "1100"
+  },
+  "SELF OMGA 3 60 CAPS": {
+    "name": "SELF OMGA 3 60 CAPS",
+    "price": "950"
+  },
+  "SELF RIPPED BURN 30 CAPS": {
+    "name": "SELF RIPPED BURN 30 CAPS",
+    "price": "1000"
   }
 }

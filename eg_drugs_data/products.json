@@ -37533,7 +37533,7 @@
   },
   "GLOBACAND 8 MG 28 F.C. TAB.": {
     "name": "GLOBACAND 8 MG 28 F.C. TAB.",
-    "price": "24L.E"
+    "price": "44L.E"
   },
   "GLOBACIN 400MG 10 COATED TAB.": {
     "name": "GLOBACIN 400MG 10 COATED TAB.",
@@ -43177,7 +43177,7 @@
   },
   "INDOMETHACIN 100 MG 10 SUPP. B.P.2014": {
     "name": "INDOMETHACIN 100 MG 10 SUPP. B.P.2014",
-    "price": "38L.E"
+    "price": "50L.E"
   },
   "INDOMETHACIN 100MG 5 SUPP. (MISR)": {
     "name": "INDOMETHACIN 100MG 5 SUPP. (MISR)",
@@ -64197,7 +64197,7 @@
   },
   "OMEGA THREE 1000 MG 20 CAPS.": {
     "name": "OMEGA THREE 1000 MG 20 CAPS.",
-    "price": "120L.E"
+    "price": ""
   },
   "OMEGA TRIFECTA 30 CAPS": {
     "name": "OMEGA TRIFECTA 30 CAPS",
@@ -101081,58 +101081,70 @@
   },
   "ARKADOLOW 1000 MG 30 F.C. TABS.": {
     "name": "ARKADOLOW 1000 MG 30 F.C. TABS.",
-    "price": "90"
+    "price": "90L.E"
   },
   "COLACHOND TRYPS 30 TABS.": {
     "name": "COLACHOND TRYPS 30 TABS.",
-    "price": "225"
+    "price": "225L.E"
   },
   "COVERAM 5/5MG 30 TABS.": {
     "name": "COVERAM 5/5MG 30 TABS.",
-    "price": "247"
+    "price": "247L.E"
   },
   "DEJA OSHA DROPS 15 ML": {
     "name": "DEJA OSHA DROPS 15 ML",
-    "price": "30"
+    "price": "30L.E"
   },
   "DEJA OSHA TOPICAL SPRAY 50 ML": {
     "name": "DEJA OSHA TOPICAL SPRAY 50 ML",
-    "price": "60"
+    "price": "60L.E"
   },
   "DEXKETO CARE 12.5MG/GM GEL 60 GM": {
     "name": "DEXKETO CARE 12.5MG/GM GEL 60 GM",
-    "price": "79"
+    "price": "79L.E"
   },
   "EPIDERM SOOTHING CREAM 100 GM": {
     "name": "EPIDERM SOOTHING CREAM 100 GM",
-    "price": "140"
+    "price": "140L.E"
   },
   "HAEMOGLOB 20 CAPS. (N/A)": {
     "name": "HAEMOGLOB 20 CAPS. (N/A)",
-    "price": "100"
+    "price": "100L.E"
   },
   "LUMICASAGE CREAM 100 GM": {
     "name": "LUMICASAGE CREAM 100 GM",
-    "price": "115"
+    "price": "115L.E"
   },
   "MINTSKY 75GM MASSAGE GEL": {
     "name": "MINTSKY 75GM MASSAGE GEL",
-    "price": "95"
+    "price": ""
   },
   "OMEGA D-K 60 S.G. CAPS.": {
     "name": "OMEGA D-K 60 S.G. CAPS.",
-    "price": "550"
+    "price": "550L.E"
   },
   "PANTHENOL-OCTOBER 5% CREAM 30 GM": {
     "name": "PANTHENOL-OCTOBER 5% CREAM 30 GM",
-    "price": "50"
+    "price": "50L.E"
   },
   "SILODOPLASIA 4 MG 20 ORALLY DISINT. TABS.": {
     "name": "SILODOPLASIA 4 MG 20 ORALLY DISINT. TABS.",
-    "price": "54"
+    "price": "54L.E"
   },
   "VENTABETAMY NASAL SPRAY 10 ML": {
     "name": "VENTABETAMY NASAL SPRAY 10 ML",
-    "price": "108"
+    "price": "108L.E"
+  },
+  "NERVAPATEX 30 COATED TABS": {
+    "name": "NERVAPATEX 30 COATED TABS",
+    "price": "240"
+  },
+  "OMEGA NUTRAXY 1000MG 20 CAPS": {
+    "name": "OMEGA NUTRAXY 1000MG 20 CAPS",
+    "price": "140"
+  },
+  "SEKEM CHARCOAL 600MG 30 CAPS": {
+    "name": "SEKEM CHARCOAL 600MG 30 CAPS",
+    "price": "120"
   }
 }

@@ -65697,7 +65697,7 @@
   "GLOBACAND 8 MG 28 F.C. TAB.": {
     "search_name": "GLOBACAND 8 MG 28 F.C. TAB.",
     "name": "GLOBACAND 8 MG 28 F.C. TAB.",
-    "price": "24L.E",
+    "price": "44L.E",
     "information": "About Candesartan CilexetilSAngiotensin || Antagonist, Antihypertensive agentSMechanism of Action of Candesartan CilexetilSIt is a antagonist of angiotensin 2 at AT-1 receptor.It decreases peripheral resistance and lowers BP in hypertensive individuals. It blocks all actions of angiotensin-2 such as 1.Vasoconstriction,2. Central and peripheral sympathetic stimulus,3. Release of aldosterone and adrenaline,4. Salt and water reabsorption ,5.Central actions like thirst,vasopressin release, and growth promoting actions on heart and blood vessalsSIndications for Candesartan CilexetilSHypertensionSInteractions for Candesartan CilexetilSDiuretics and other antihypertensives: Increased risk of hypotension SLithium: Increased lithium blood level SNSAID: Decreased antihypertensive effect SPotassium sparing diuretics, Potassium supplements: Increased risk of hyperkalemia",
     "category": "antihypertensive.arbs"
   },
@@ -75567,7 +75567,7 @@
   "INDOMETHACIN 100 MG 10 SUPP. B.P.2014": {
     "search_name": "INDOMETHACIN 100 MG 10 SUPP. B.P.2014",
     "name": "INDOMETHACIN 100 MG 10 SUPP. B.P.2014",
-    "price": "38L.E",
+    "price": "50L.E",
     "information": "About Indomethacin^NSAID Indole derivative Anti-inflammatory potent antipyretic and analgesic.^^Mechanism of Action of Indomethacin^Indomethacin acts by inhibition of Prostaglandin (PGs) synthesis and their release at the site of injury. Prostaglandins cause tenderness and amplify the action of other algesics. Indomethacin does not affect the tenderness induced by PGs but block the pain producing mechanism induced by inflammatory mediators by inhibiting the enzyme cyclo-oxygenase. ^^Interactions for Indomethacin^Anticoagulants: May prolong prothrombin time. Instruct patients to watch for signs & symptoms of bleeding. ^Beta-Blockers: Antihypertensive effect may be blunted. ^Cyclosporine: Nephrotoxicity of both agents may be increased. ^Digoxin: Serum digoxin levels may be increased by ibuprofen and indomethacin. ^Hydantoins: Serum hydantoin levels increased resulting in increased pharmacological and toxic effects. ^Lithium: Serum lithium levels may be increased.",
     "category": "nsaid.acetic acid derivatives"
   },
@@ -112365,10 +112365,10 @@
   },
   "OMEGA THREE 1000 MG 20 CAPS.": {
     "search_name": "OMEGA THREE 1000 MG 20 CAPS.",
-    "name": "OMEGA THREE 1000 MG 20 CAPS.",
-    "price": "120L.E",
-    "information": "Maintain Heart brain & vision normal function^^Fish Oil 1000 mg (EPA 18% DHA 12% )^Vitamin E 5 mg ( Di-Alpha-Tocopheryl Acetate)",
-    "category": "multivitamin"
+    "name": "",
+    "price": "",
+    "information": "",
+    "category": ""
   },
   "OMEGA TRIFECTA 30 CAPS": {
     "search_name": "OMEGA TRIFECTA 30 CAPS",
@@ -176986,5 +176986,26 @@
     "price": "108L.E",
     "information": "A nasal spray suspension containing betamethasone and tetryzoline hydrochloride, used to relieve nasal inflammation and congestion associated with rhinitis, sinusitis, and nasopharyngitis.",
     "category": "nasal decongestant with corticosteroid"
+  },
+  "NERVAPATEX 30 COATED TABS": {
+    "search_name": "NERVAPATEX 30 COATED TABS",
+    "name": "NERVAPATEX 30 COATED TABS",
+    "price": "240L.E",
+    "information": "Supports nervous system health and symptoms like nerve fatigue, numbness and tingling. Dose : one table daily o r as directed by physician.",
+    "category": "supports nervous system health"
+  },
+  "OMEGA NUTRAXY 1000MG 20 CAPS": {
+    "search_name": "OMEGA NUTRAXY 1000MG 20 CAPS",
+    "name": "OMEGA NUTRAXY 1000MG 20 CAPS",
+    "price": "140L.E",
+    "information": "Maintain Heart brain & vision normal function^^Fish Oil 1000 mg (EPA 18% DHA 12% )^Vitamin E 5 mg ( Di-Alpha-Tocopheryl Acetate)",
+    "category": "multivitamin"
+  },
+  "SEKEM CHARCOAL 600MG 30 CAPS": {
+    "search_name": "SEKEM CHARCOAL 600MG 30 CAPS",
+    "name": "SEKEM CHARCOAL 600MG 30 CAPS",
+    "price": "120L.E",
+    "information": "Supports gastrointestinal health and helps reducing bloating, dose: two capsules daily after meal, 600 mg in one capsule",
+    "category": "anti bloating"
   }
 }

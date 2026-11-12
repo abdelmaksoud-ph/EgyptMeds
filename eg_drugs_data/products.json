@@ -38369,7 +38369,7 @@
   },
   "GONE ANTI-DANDRUFF SHAMPOO 250 ML": {
     "name": "GONE ANTI-DANDRUFF SHAMPOO 250 ML",
-    "price": "125L.E"
+    "price": "175L.E"
   },
   "GOOD EVE INTIMATE FEMININE WASH 250 ML": {
     "name": "GOOD EVE INTIMATE FEMININE WASH 250 ML",
@@ -38577,7 +38577,7 @@
   },
   "GRANTFE 120 ML SYRUP": {
     "name": "GRANTFE 120 ML SYRUP",
-    "price": "50L.E"
+    "price": "75L.E"
   },
   "GRANTOCHIZAN 20 H.G. CAPS.": {
     "name": "GRANTOCHIZAN 20 H.G. CAPS.",
@@ -38669,7 +38669,7 @@
   },
   "GREASY CREAM 60 GRAM": {
     "name": "GREASY CREAM 60 GRAM",
-    "price": "125L.E"
+    "price": "165L.E"
   },
   "GREAT ZINC LOTION 100 ML": {
     "name": "GREAT ZINC LOTION 100 ML",
@@ -39165,7 +39165,7 @@
   },
   "HADIDOS 30 CAPSULE": {
     "name": "HADIDOS 30 CAPSULE",
-    "price": "135L.E"
+    "price": "165L.E"
   },
   "HAEMA-CAPS 14 CAPS.": {
     "name": "HAEMA-CAPS 14 CAPS.",
@@ -40221,7 +40221,7 @@
   },
   "HELERTEX CREAM 30 GM": {
     "name": "HELERTEX CREAM 30 GM",
-    "price": "60L.E"
+    "price": "70L.E"
   },
   "HELERTEX CREAM 50 GM": {
     "name": "HELERTEX CREAM 50 GM",
@@ -40253,7 +40253,7 @@
   },
   "HELIXBROM SYRUP 120 ML": {
     "name": "HELIXBROM SYRUP 120 ML",
-    "price": "45L.E"
+    "price": "60L.E"
   },
   "HELIXOPAN SYRUP 120ML": {
     "name": "HELIXOPAN SYRUP 120ML",
@@ -40829,7 +40829,7 @@
   },
   "HERBAMIX HAIR OIL 60 ML": {
     "name": "HERBAMIX HAIR OIL 60 ML",
-    "price": "115L.E"
+    "price": "145L.E"
   },
   "HERBAMIX HAIR SHAMPOO 180 ML": {
     "name": "HERBAMIX HAIR SHAMPOO 180 ML",
@@ -49745,7 +49745,7 @@
   },
   "LIBLAB LEAVES 100 ML SYRUP": {
     "name": "LIBLAB LEAVES 100 ML SYRUP",
-    "price": "59L.E"
+    "price": "85L.E"
   },
   "LIBOSENSE GEL 30 GM": {
     "name": "LIBOSENSE GEL 30 GM",
@@ -64177,7 +64177,7 @@
   },
   "OMEGA RX JELLY CANDY 60 PCS.": {
     "name": "OMEGA RX JELLY CANDY 60 PCS.",
-    "price": "240L.E"
+    "price": "290L.E"
   },
   "OMEGA SEAS SYRUP 120 ML": {
     "name": "OMEGA SEAS SYRUP 120 ML",
@@ -95877,7 +95877,7 @@
   },
   "VINOSIN CREAM 50 GM": {
     "name": "VINOSIN CREAM 50 GM",
-    "price": "120L.E"
+    "price": "130L.E"
   },
   "VINPOCETINE 30 MG 60 SOFTGELS (ILLEGAL IMPORT)": {
     "name": "VINPOCETINE 30 MG 60 SOFTGELS (ILLEGAL IMPORT)",
@@ -101137,14 +101137,18 @@
   },
   "NERVAPATEX 30 COATED TABS": {
     "name": "NERVAPATEX 30 COATED TABS",
-    "price": "240"
+    "price": "240L.E"
   },
   "OMEGA NUTRAXY 1000MG 20 CAPS": {
     "name": "OMEGA NUTRAXY 1000MG 20 CAPS",
-    "price": "140"
+    "price": "140L.E"
   },
   "SEKEM CHARCOAL 600MG 30 CAPS": {
     "name": "SEKEM CHARCOAL 600MG 30 CAPS",
-    "price": "120"
+    "price": "120L.E"
+  },
+  "EUTHYROX 25MCG 100 TAB.": {
+    "name": "EUTHYROX 25MCG 100 TAB.",
+    "price": "77"
   }
 }

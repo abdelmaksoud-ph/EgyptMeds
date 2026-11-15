@@ -2737,7 +2737,7 @@
   },
   "ALLERDEP NASAL SPRAY 60 ML": {
     "name": "ALLERDEP NASAL SPRAY 60 ML",
-    "price": "300L.E"
+    "price": "350L.E"
   },
   "ALLEREX 60 MG 10 F.C. TABS.": {
     "name": "ALLEREX 60 MG 10 F.C. TABS.",
@@ -5209,7 +5209,7 @@
   },
   "ANTINAL 220MG/5ML 60ML SUSP.": {
     "name": "ANTINAL 220MG/5ML 60ML SUSP.",
-    "price": "24L.E"
+    "price": "35L.E"
   },
   "ANTIRETRO 200 MG 10 CAPS.(N/A YET)": {
     "name": "ANTIRETRO 200 MG 10 CAPS.(N/A YET)",
@@ -8581,7 +8581,7 @@
   },
   "BABY CREAM 30 GM": {
     "name": "BABY CREAM 30 GM",
-    "price": "45L.E"
+    "price": "55L.E"
   },
   "BABY CREAM 60 GM": {
     "name": "BABY CREAM 60 GM",
@@ -10429,7 +10429,7 @@
   },
   "BILOPROPIN 5/5 MG 30 TABS.": {
     "name": "BILOPROPIN 5/5 MG 30 TABS.",
-    "price": "43.5L.E"
+    "price": "138L.E"
   },
   "BILTRICIDE 600 MG 4 F.C.TABS.": {
     "name": "BILTRICIDE 600 MG 4 F.C.TABS.",
@@ -12477,7 +12477,7 @@
   },
   "BRONCHO SYRUP 120ML": {
     "name": "BRONCHO SYRUP 120ML",
-    "price": "7L.E"
+    "price": ""
   },
   "BRONCHO-VAXOM ADULTS 7MG 10 CAPS.": {
     "name": "BRONCHO-VAXOM ADULTS 7MG 10 CAPS.",
@@ -21709,7 +21709,7 @@
   },
   "DARKOVIDA 30 CAPS": {
     "name": "DARKOVIDA 30 CAPS",
-    "price": "340L.E"
+    "price": ""
   },
   "DARSI SHAMPOO 250 ML": {
     "name": "DARSI SHAMPOO 250 ML",
@@ -32177,7 +32177,7 @@
   },
   "FEROGLOBIN 30 CAPS.": {
     "name": "FEROGLOBIN 30 CAPS.",
-    "price": "210L.E"
+    "price": "240L.E"
   },
   "FEROGLOBIN LIQUID 120 ML (N/A)": {
     "name": "FEROGLOBIN LIQUID 120 ML (N/A)",
@@ -32345,7 +32345,7 @@
   },
   "FERRODEP 30 CAPS.": {
     "name": "FERRODEP 30 CAPS.",
-    "price": "300L.E"
+    "price": "350L.E"
   },
   "FERRODEP SYRUP 150 ML": {
     "name": "FERRODEP SYRUP 150 ML",
@@ -33313,7 +33313,7 @@
   },
   "FLIXOTIDE EVOHALER 50MCG/ACTUATION INHALER": {
     "name": "FLIXOTIDE EVOHALER 50MCG/ACTUATION INHALER",
-    "price": "111L.E"
+    "price": "143L.E"
   },
   "FLOCARE GRAVITY PACK SET": {
     "name": "FLOCARE GRAVITY PACK SET",
@@ -42725,7 +42725,7 @@
   },
   "IMEGLIBRIGHT 500 MG 30 F.C. TABS.": {
     "name": "IMEGLIBRIGHT 500 MG 30 F.C. TABS.",
-    "price": "159L.E"
+    "price": "186L.E"
   },
   "IMEGLISPIRE 500 MG 30 F.C. TABS.": {
     "name": "IMEGLISPIRE 500 MG 30 F.C. TABS.",
@@ -45205,7 +45205,7 @@
   },
   "IVY ZAD SYRUP 120 ML": {
     "name": "IVY ZAD SYRUP 120 ML",
-    "price": "65L.E"
+    "price": "70L.E"
   },
   "IVY-BRONCHOTHIL SYRUP 120 ML": {
     "name": "IVY-BRONCHOTHIL SYRUP 120 ML",
@@ -55381,7 +55381,7 @@
   },
   "MEPAPHAGE XR 1000MG 30 F.C.TAB.": {
     "name": "MEPAPHAGE XR 1000MG 30 F.C.TAB.",
-    "price": "66L.E"
+    "price": "90L.E"
   },
   "MEPAPHAGE XR 850MG 30 F.C.TAB.": {
     "name": "MEPAPHAGE XR 850MG 30 F.C.TAB.",
@@ -58925,7 +58925,7 @@
   },
   "MYLOHANCE 10 CAPS": {
     "name": "MYLOHANCE 10 CAPS",
-    "price": "95L.E"
+    "price": "110L.E"
   },
   "MYLON VAG.DOUCHE 120ML": {
     "name": "MYLON VAG.DOUCHE 120ML",
@@ -66133,7 +66133,7 @@
   },
   "OSTEOPATEX 30 TABS.": {
     "name": "OSTEOPATEX 30 TABS.",
-    "price": "150L.E"
+    "price": ""
   },
   "OSTEOPAUSE 2GM 7 GR. IN SACHETS (CANCELLED)": {
     "name": "OSTEOPAUSE 2GM 7 GR. IN SACHETS (CANCELLED)",
@@ -73509,7 +73509,7 @@
   },
   "RAME-ZITHRO 200MG/5ML SUSP. 30 ML": {
     "name": "RAME-ZITHRO 200MG/5ML SUSP. 30 ML",
-    "price": "62.5L.E"
+    "price": "74L.E"
   },
   "RAME-ZITHRO 500 MG 3 F.C.TABS.": {
     "name": "RAME-ZITHRO 500 MG 3 F.C.TABS.",
@@ -101153,6 +101153,38 @@
   },
   "REVOZIME 120ML SYRUP": {
     "name": "REVOZIME 120ML SYRUP",
-    "price": "68"
+    "price": "68L.E"
+  },
+  "BRONCHO SYRUP 120ML (N/A)": {
+    "name": "BRONCHO SYRUP 120ML (N/A)",
+    "price": "7"
+  },
+  "BRONCHO-N SYRUP 120ML": {
+    "name": "BRONCHO-N SYRUP 120ML",
+    "price": "70"
+  },
+  "COVERAM 5/10MG 30 TABS.": {
+    "name": "COVERAM 5/10MG 30 TABS.",
+    "price": "263"
+  },
+  "DARKOVIDA 30 CAPS.": {
+    "name": "DARKOVIDA 30 CAPS.",
+    "price": "375"
+  },
+  "ETORIRELIEF 90 MG 30 F.C. TABS.": {
+    "name": "ETORIRELIEF 90 MG 30 F.C. TABS.",
+    "price": "169.5"
+  },
+  "MANZAVIDA 30 CAPS.": {
+    "name": "MANZAVIDA 30 CAPS.",
+    "price": "389"
+  },
+  "MYLOHANCE 20 CAPS.": {
+    "name": "MYLOHANCE 20 CAPS.",
+    "price": "220"
+  },
+  "OSTEOPATEX 30 F.C. TABS.": {
+    "name": "OSTEOPATEX 30 F.C. TABS.",
+    "price": "175"
   }
 }

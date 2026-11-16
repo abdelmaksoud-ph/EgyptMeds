@@ -74384,7 +74384,7 @@
   "ICONIC 50GM CREAM": {
     "search_name": "ICONIC 50GM CREAM",
     "name": "ICONIC 50GM CREAM",
-    "price": "125L.E",
+    "price": "150L.E",
     "information": "Iconic cream a n advanced formula for skin irritation for mom & baby",
     "category": "healing cream"
   },
@@ -76036,7 +76036,7 @@
   "INHALIVY SYRUP 120 ML": {
     "search_name": "INHALIVY SYRUP 120 ML",
     "name": "INHALIVY SYRUP 120 ML",
-    "price": "50L.E",
+    "price": "60L.E",
     "information": "Inhalivy syrup^Dietary supplement^Supports normal respiratory system functions",
     "category": "cough products"
   },
@@ -76190,7 +76190,7 @@
   "INNO ACTION 30 TABLETS": {
     "search_name": "INNO ACTION 30 TABLETS",
     "name": "INNO ACTION 30 TABLETS",
-    "price": "240L.E",
+    "price": "250L.E",
     "information": "Osteoarthritis Management",
     "category": "chondroprotevtive"
   },
@@ -77401,7 +77401,7 @@
   "IRO-OLEY PLUS SYRUP 100 ML": {
     "search_name": "IRO-OLEY PLUS SYRUP 100 ML",
     "name": "IRO-OLEY PLUS SYRUP 100 ML",
-    "price": "80L.E",
+    "price": "120L.E",
     "information": "Cases & Indications :^– Iron Deficiency Anemia.^– Post-Infection.^^Dose :^– Children: 10ml Once Daily.^– Adults: 10ml Twice Daily.^^Active Ingredients /10Ml :^– Iron 14mg – Lysine 80mg – Honey 200mg – Vit C 20mg^– Zn 10mg – Vit B8 1mg – Vit B4 6mg – Pantothenic Acid 4mg^– Nicotinamide 16mg – Folic Acid 400mcg – Vit B10 12mcg^– Copper 0.5mg – Iodine 80mcg – Manganese 0.5mg.",
     "category": "multivitamin"
   },
@@ -177077,5 +177077,19 @@
     "price": "175L.E",
     "information": "Osteopatex is a dietary supplement containing a blend of Glucosamine, Chondroitin, and MSM, formulated as part of a daily wellness routine. chondroitin (300 mg) is a naturally occuring substancce formed of sugar chains. it is believed to help the body maintain fluid and flexibility in the joints.^^glucosamine (375 mg) is a naturally occuring substance that is believed to help develop and renew cartilage and keep it lubricated for better joint movement and flexibility.^^methyl sulphonyl methane(msm) (375 mg) is a naturally occuring form of sulfur that helps support muscles and tendons in the Dose: 1 tablet twice daily",
     "category": "anti-rheumatic.osteoarthritis.anabolic agents"
+  },
+  "ICONIC 30ML SPRAY": {
+    "search_name": "ICONIC 30ML SPRAY",
+    "name": "ICONIC 30ML SPRAY",
+    "price": "90L.E",
+    "information": "Unique advanced formula for natural cleansing, moisturising and gentle freshness .",
+    "category": "spray"
+  },
+  "MAKAH 60ML HAIR LOTION": {
+    "search_name": "MAKAH 60ML HAIR LOTION",
+    "name": "MAKAH 60ML HAIR LOTION",
+    "price": "79L.E",
+    "information": "• Targeted Action: Effectively paralyzes and eliminates lice, nits (eggs), and scabies mites. • Symptom Relief: Helps soothe the scalp and skin while reducing itching, redness, and irritation caused by parasites. • Fast & Convenient: Features a non-greasy, fast-absorbing formula designed for external topical use.",
+    "category": "hair lotion"
   }
 }

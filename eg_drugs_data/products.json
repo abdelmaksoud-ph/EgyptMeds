@@ -42501,7 +42501,7 @@
   },
   "ICONIC 50GM CREAM": {
     "name": "ICONIC 50GM CREAM",
-    "price": "125L.E"
+    "price": "150L.E"
   },
   "ICOSALIP 1 GM 20 CAPS.": {
     "name": "ICOSALIP 1 GM 20 CAPS.",
@@ -43445,7 +43445,7 @@
   },
   "INHALIVY SYRUP 120 ML": {
     "name": "INHALIVY SYRUP 120 ML",
-    "price": "50L.E"
+    "price": "60L.E"
   },
   "INHERIN PLUS 150/12.5 MG 10 F.C. TABS. (CANCELLED)": {
     "name": "INHERIN PLUS 150/12.5 MG 10 F.C. TABS. (CANCELLED)",
@@ -43533,7 +43533,7 @@
   },
   "INNO ACTION 30 TABLETS": {
     "name": "INNO ACTION 30 TABLETS",
-    "price": "240L.E"
+    "price": "250L.E"
   },
   "INNO MOVE 10 SACHETS": {
     "name": "INNO MOVE 10 SACHETS",
@@ -44225,7 +44225,7 @@
   },
   "IRO-OLEY PLUS SYRUP 100 ML": {
     "name": "IRO-OLEY PLUS SYRUP 100 ML",
-    "price": "80L.E"
+    "price": "120L.E"
   },
   "IROCAMO 30 CAPSULES": {
     "name": "IROCAMO 30 CAPSULES",
@@ -101157,34 +101157,42 @@
   },
   "BRONCHO SYRUP 120ML (N/A)": {
     "name": "BRONCHO SYRUP 120ML (N/A)",
-    "price": "7"
+    "price": "7L.E"
   },
   "BRONCHO-N SYRUP 120ML": {
     "name": "BRONCHO-N SYRUP 120ML",
-    "price": "70"
+    "price": "70L.E"
   },
   "COVERAM 5/10MG 30 TABS.": {
     "name": "COVERAM 5/10MG 30 TABS.",
-    "price": "263"
+    "price": "263L.E"
   },
   "DARKOVIDA 30 CAPS.": {
     "name": "DARKOVIDA 30 CAPS.",
-    "price": "375"
+    "price": "375L.E"
   },
   "ETORIRELIEF 90 MG 30 F.C. TABS.": {
     "name": "ETORIRELIEF 90 MG 30 F.C. TABS.",
-    "price": "169.5"
+    "price": "169.5L.E"
   },
   "MANZAVIDA 30 CAPS.": {
     "name": "MANZAVIDA 30 CAPS.",
-    "price": "389"
+    "price": "389L.E"
   },
   "MYLOHANCE 20 CAPS.": {
     "name": "MYLOHANCE 20 CAPS.",
-    "price": "220"
+    "price": "220L.E"
   },
   "OSTEOPATEX 30 F.C. TABS.": {
     "name": "OSTEOPATEX 30 F.C. TABS.",
-    "price": "175"
+    "price": "175L.E"
+  },
+  "ICONIC 30ML SPRAY": {
+    "name": "ICONIC 30ML SPRAY",
+    "price": "90"
+  },
+  "MAKAH 60ML HAIR LOTION": {
+    "name": "MAKAH 60ML HAIR LOTION",
+    "price": "79"
   }
 }

@@ -30201,11 +30201,11 @@
   },
   "EUTAXER 20 MG VIAL": {
     "name": "EUTAXER 20 MG VIAL",
-    "price": "350L.E"
+    "price": "468L.E"
   },
   "EUTAXER 80 MG VIAL": {
     "name": "EUTAXER 80 MG VIAL",
-    "price": "1350L.E"
+    "price": "1755L.E"
   },
   "EUTHYROX 100MCG 100 TAB.": {
     "name": "EUTHYROX 100MCG 100 TAB.",
@@ -30273,7 +30273,7 @@
   },
   "EVANOPURE 120 ML SYRUP": {
     "name": "EVANOPURE 120 ML SYRUP",
-    "price": "60L.E"
+    "price": "70L.E"
   },
   "EVASTINE 10MG 20 F.C.TAB.": {
     "name": "EVASTINE 10MG 20 F.C.TAB.",
@@ -45313,7 +45313,7 @@
   },
   "IVYMOND SYRUP 120 ML": {
     "name": "IVYMOND SYRUP 120 ML",
-    "price": "59L.E"
+    "price": "69L.E"
   },
   "IVYMORE SYRUP 60 ML": {
     "name": "IVYMORE SYRUP 60 ML",
@@ -45417,7 +45417,7 @@
   },
   "IVYWONDER MOISTURIZING CREAM 50GM": {
     "name": "IVYWONDER MOISTURIZING CREAM 50GM",
-    "price": "110L.E"
+    "price": "150L.E"
   },
   "IXEL 50MG 28CAPS.": {
     "name": "IXEL 50MG 28CAPS.",
@@ -45545,11 +45545,11 @@
   },
   "JANCA-Z 30 F.C. TAB.": {
     "name": "JANCA-Z 30 F.C. TAB.",
-    "price": "75L.E"
+    "price": "90L.E"
   },
   "JANCA-Z KIDS SYRUP 120ML": {
     "name": "JANCA-Z KIDS SYRUP 120ML",
-    "price": "40L.E"
+    "price": "65L.E"
   },
   "JANILKA SHAMPOO 120 ML": {
     "name": "JANILKA SHAMPOO 120 ML",
@@ -89677,7 +89677,7 @@
   },
   "TOFAXA 5 MG 60 F.C.TABS.": {
     "name": "TOFAXA 5 MG 60 F.C.TABS.",
-    "price": "4085L.E"
+    "price": "5828L.E"
   },
   "TOFRANIL 10 MG 50 SUGAR C.TABS.(N/A)": {
     "name": "TOFRANIL 10 MG 50 SUGAR C.TABS.(N/A)",
@@ -95517,7 +95517,7 @@
   },
   "VIGICALCY 30 FILM COATED TABLETS": {
     "name": "VIGICALCY 30 FILM COATED TABLETS",
-    "price": "150L.E"
+    "price": "180L.E"
   },
   "VIGIDAL 30 SUBLINGUAL TABLETS": {
     "name": "VIGIDAL 30 SUBLINGUAL TABLETS",
@@ -101197,58 +101197,74 @@
   },
   "ALLINPHI CARBENEO 30 CAPS": {
     "name": "ALLINPHI CARBENEO 30 CAPS",
-    "price": "240"
+    "price": "240L.E"
   },
   "ALLINPHIMUNE 30 TABS": {
     "name": "ALLINPHIMUNE 30 TABS",
-    "price": "240"
+    "price": "240L.E"
   },
   "BALERIONAR 70ML SPRAY": {
     "name": "BALERIONAR 70ML SPRAY",
-    "price": "125"
+    "price": "125L.E"
   },
   "BEBELAC 1 MILK 700 GM": {
     "name": "BEBELAC 1 MILK 700 GM",
-    "price": "475"
+    "price": "475L.E"
   },
   "BEBELAC 2 MILK 700 GM": {
     "name": "BEBELAC 2 MILK 700 GM",
-    "price": "475"
+    "price": "475L.E"
   },
   "CATSHEGAS 30 CAPS": {
     "name": "CATSHEGAS 30 CAPS",
-    "price": "180"
+    "price": "180L.E"
   },
   "CHOLECALCITAL 50.000 I.U. 12 F.C. TABS.": {
     "name": "CHOLECALCITAL 50.000 I.U. 12 F.C. TABS.",
-    "price": "111"
+    "price": "111L.E"
   },
   "CHOLESTRAN 4 GM 12 SACHETS (N/A)": {
     "name": "CHOLESTRAN 4 GM 12 SACHETS (N/A)",
-    "price": "19.8"
+    "price": "19.8L.E"
   },
   "DELOITTE FIX 15 CAPS.": {
     "name": "DELOITTE FIX 15 CAPS.",
-    "price": "210"
+    "price": "210L.E"
   },
   "LIFEFOVEX 30 CAPS": {
     "name": "LIFEFOVEX 30 CAPS",
-    "price": "210"
+    "price": "210L.E"
   },
   "MONIPLAN 10 SACHETS": {
     "name": "MONIPLAN 10 SACHETS",
-    "price": "295"
+    "price": "295L.E"
   },
   "OMEGALOSIT 30 S.G. CAPS.": {
     "name": "OMEGALOSIT 30 S.G. CAPS.",
-    "price": "480"
+    "price": "480L.E"
   },
   "PUREPROOF 75GM CREAM": {
     "name": "PUREPROOF 75GM CREAM",
-    "price": "75"
+    "price": "75L.E"
   },
   "WELLINTA 150 MG 30 S.R. F.C.TABS.": {
     "name": "WELLINTA 150 MG 30 S.R. F.C.TABS.",
-    "price": "248"
+    "price": "248L.E"
+  },
+  "CHEST NORM 120ML SYRUP": {
+    "name": "CHEST NORM 120ML SYRUP",
+    "price": "70"
+  },
+  "DANDYNEUR 30 CAPS": {
+    "name": "DANDYNEUR 30 CAPS",
+    "price": "420"
+  },
+  "DECEVIA 139MG 20 TABS": {
+    "name": "DECEVIA 139MG 20 TABS",
+    "price": "180"
+  },
+  "NOVAFACTLAYS 120ML SYRUP": {
+    "name": "NOVAFACTLAYS 120ML SYRUP",
+    "price": "70"
   }
 }

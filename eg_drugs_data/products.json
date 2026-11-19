@@ -9809,7 +9809,7 @@
   },
   "BENOX 0.4% EYE DROPS 10 ML": {
     "name": "BENOX 0.4% EYE DROPS 10 ML",
-    "price": "23L.E"
+    "price": "36L.E"
   },
   "BENOXIDIA 0.4% EYE DROPS 30*0.5ML SDU": {
     "name": "BENOXIDIA 0.4% EYE DROPS 30*0.5ML SDU",
@@ -46001,7 +46001,7 @@
   },
   "JONOREST 1250 MG 20 CAPSULES": {
     "name": "JONOREST 1250 MG 20 CAPSULES",
-    "price": "168L.E"
+    "price": "220L.E"
   },
   "JOPLEX GEL 120 GM": {
     "name": "JOPLEX GEL 120 GM",
@@ -46057,7 +46057,7 @@
   },
   "JOY EXTRA 30 TABS.": {
     "name": "JOY EXTRA 30 TABS.",
-    "price": "135L.E"
+    "price": "159L.E"
   },
   "JOYLYTE SYRUP 200 ML": {
     "name": "JOYLYTE SYRUP 200 ML",
@@ -101193,7 +101193,7 @@
   },
   "MAKAH 60ML HAIR LOTION": {
     "name": "MAKAH 60ML HAIR LOTION",
-    "price": "79L.E"
+    "price": ""
   },
   "ALLINPHI CARBENEO 30 CAPS": {
     "name": "ALLINPHI CARBENEO 30 CAPS",
@@ -101253,18 +101253,18 @@
   },
   "CHEST NORM 120ML SYRUP": {
     "name": "CHEST NORM 120ML SYRUP",
-    "price": "70"
+    "price": "70L.E"
   },
   "DANDYNEUR 30 CAPS": {
     "name": "DANDYNEUR 30 CAPS",
-    "price": "420"
+    "price": "420L.E"
   },
   "DECEVIA 139MG 20 TABS": {
     "name": "DECEVIA 139MG 20 TABS",
-    "price": "180"
+    "price": "180L.E"
   },
   "NOVAFACTLAYS 120ML SYRUP": {
     "name": "NOVAFACTLAYS 120ML SYRUP",
-    "price": "70"
+    "price": "70L.E"
   }
 }

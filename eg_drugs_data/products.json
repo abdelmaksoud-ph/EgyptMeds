@@ -101266,5 +101266,25 @@
   "NOVAFACTLAYS 120ML SYRUP": {
     "name": "NOVAFACTLAYS 120ML SYRUP",
     "price": "70L.E"
+  },
+  "CALMIPERASTINE 4.4MG 30 CH.TABS": {
+    "name": "CALMIPERASTINE 4.4MG 30 CH.TABS",
+    "price": "48"
+  },
+  "MAKKAH 60ML HAIR LOTION": {
+    "name": "MAKKAH 60ML HAIR LOTION",
+    "price": "79"
+  },
+  "REST PUNCH 30 CAPS": {
+    "name": "REST PUNCH 30 CAPS",
+    "price": "147"
+  },
+  "SOLVACAL 30 TABS": {
+    "name": "SOLVACAL 30 TABS",
+    "price": "190"
+  },
+  "VAXFERA 30 TABS": {
+    "name": "VAXFERA 30 TABS",
+    "price": "195"
   }
 }

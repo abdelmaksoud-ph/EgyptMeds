@@ -177217,5 +177217,40 @@
     "price": "70L.E",
     "information": "Diatry supplement digestive enzyme",
     "category": "alpha amylase"
+  },
+  "CALMIPERASTINE 4.4MG 30 CH.TABS": {
+    "search_name": "CALMIPERASTINE 4.4MG 30 CH.TABS",
+    "name": "CALMIPERASTINE 4.4MG 30 CH.TABS",
+    "price": "48L.E",
+    "information": "Chewable tablets cloperastine 4.4mg",
+    "category": "antitussive.non productive"
+  },
+  "MAKKAH 60ML HAIR LOTION": {
+    "search_name": "MAKKAH 60ML HAIR LOTION",
+    "name": "MAKKAH 60ML HAIR LOTION",
+    "price": "79L.E",
+    "information": "• Targeted Action: Effectively paralyzes and eliminates lice, nits (eggs), and scabies mites. • Symptom Relief: Helps soothe the scalp and skin while reducing itching, redness, and irritation caused by parasites. • Fast & Convenient: Features a non-greasy, fast-absorbing formula designed for external topical use.",
+    "category": "hair lotion"
+  },
+  "REST PUNCH 30 CAPS": {
+    "search_name": "REST PUNCH 30 CAPS",
+    "name": "REST PUNCH 30 CAPS",
+    "price": "147L.E",
+    "information": "Support Sleep Cycle",
+    "category": "sleep aid"
+  },
+  "SOLVACAL 30 TABS": {
+    "search_name": "SOLVACAL 30 TABS",
+    "name": "SOLVACAL 30 TABS",
+    "price": "190L.E",
+    "information": "jar contain a product containing calcium and magnesium elements in regular adjusted dosages with the best organic compound which is easily assimilated and metabolized. This provides the maximum benefit of the Solvacal formula. Calcium Calcium is the main element required for bone formation. It also has an essential role in the various vital activities of the body like blood coagulation, muscle contracting, neuromuscular synchronization. Magnesium bisglycinate Magnesium is a naturally occurring mineral. Magnesium is important for many systems in the body, especially the muscles and nerves. Magnesium bisglycinate is used as supplement to maintain adequate magnesium in the body.",
+    "category": "multivitamin"
+  },
+  "VAXFERA 30 TABS": {
+    "search_name": "VAXFERA 30 TABS",
+    "name": "VAXFERA 30 TABS",
+    "price": "195L.E",
+    "information": "Vaxfera Iron Bisglycinate: Highly absorbable iron that supports hemoglobin formation and oxygen transportation. Vitamin C: Enhances iron absorption and supports immune function. Vitamin B12: Supports red blood cell formation and healthy nerve function. Vitamin B6: Supports energy metabolism and nervous system function. Zinc: Supports immunity, cell growth, and healthy skin. Magnesium: Supports muscle function, nerve transmission, and energy production. All vitamins and minerals are provided in active, highly bioavailable forms to support optimal absorption and utilization by the body.",
+    "category": "multivitamin"
   }
 }

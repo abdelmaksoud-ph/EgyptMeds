@@ -1353,7 +1353,7 @@
   },
   "ADVOHELIX SYRUP 120 ML": {
     "name": "ADVOHELIX SYRUP 120 ML",
-    "price": "70L.E"
+    "price": "75L.E"
   },
   "ADVOMIKACIN 500MG/2ML VIAL": {
     "name": "ADVOMIKACIN 500MG/2ML VIAL",
@@ -23893,7 +23893,7 @@
   },
   "DHA-500 MG 90 SOFTGELS (NOW)": {
     "name": "DHA-500 MG 90 SOFTGELS (NOW)",
-    "price": "2300L.E"
+    "price": "2500L.E"
   },
   "DHEA 25 MG 100 TABLETS (ILLEGAL IMPORT)": {
     "name": "DHEA 25 MG 100 TABLETS (ILLEGAL IMPORT)",
@@ -30285,7 +30285,7 @@
   },
   "EVE WOMEN VITAMIN 120 VEG. CAPS. (NOW)": {
     "name": "EVE WOMEN VITAMIN 120 VEG. CAPS. (NOW)",
-    "price": "2700L.E"
+    "price": "3500L.E"
   },
   "EVENING PRIMROSE OIL 1000 MG 120 SOFTGELS (ILLEGAL IMPORT)": {
     "name": "EVENING PRIMROSE OIL 1000 MG 120 SOFTGELS (ILLEGAL IMPORT)",
@@ -33905,7 +33905,7 @@
   },
   "FOLDEX CREAM 50 ML": {
     "name": "FOLDEX CREAM 50 ML",
-    "price": "190L.E"
+    "price": "220L.E"
   },
   "FOLDEX PH5 CREAM 50 ML": {
     "name": "FOLDEX PH5 CREAM 50 ML",
@@ -45205,7 +45205,7 @@
   },
   "IVY ZAD SYRUP 120 ML": {
     "name": "IVY ZAD SYRUP 120 ML",
-    "price": "70L.E"
+    "price": "75L.E"
   },
   "IVY-BRONCHOTHIL SYRUP 120 ML": {
     "name": "IVY-BRONCHOTHIL SYRUP 120 ML",
@@ -57249,7 +57249,7 @@
   },
   "MOIST-1 ACNE-PRONE SKIN GEL 60 GM": {
     "name": "MOIST-1 ACNE-PRONE SKIN GEL 60 GM",
-    "price": "150L.E"
+    "price": "170L.E"
   },
   "MOIST-1 CREAM 100 GM": {
     "name": "MOIST-1 CREAM 100 GM",
@@ -64209,7 +64209,7 @@
   },
   "OMEGA-3 - 1000 MG 100 SOFTGELS (NOW)": {
     "name": "OMEGA-3 - 1000 MG 100 SOFTGELS (NOW)",
-    "price": "1100L.E"
+    "price": "1300L.E"
   },
   "OMEGA-3 ENRICHED 40 SOFTGELS (ADRIEN GAGNON)": {
     "name": "OMEGA-3 ENRICHED 40 SOFTGELS (ADRIEN GAGNON)",
@@ -66089,7 +66089,7 @@
   },
   "OSTEOCARE ORIGINAL LIQUID SYRUP 150 ML": {
     "name": "OSTEOCARE ORIGINAL LIQUID SYRUP 150 ML",
-    "price": "120L.E"
+    "price": "150L.E"
   },
   "OSTEOCEREIN 50MG 20 CAPS.": {
     "name": "OSTEOCEREIN 50MG 20 CAPS.",
@@ -79553,7 +79553,7 @@
   },
   "SCALING VIT HAIR TONIC 5 VIALS": {
     "name": "SCALING VIT HAIR TONIC 5 VIALS",
-    "price": "450L.E"
+    "price": "490L.E"
   },
   "SCALOGEN HAIR LOTION 120 ML": {
     "name": "SCALOGEN HAIR LOTION 120 ML",
@@ -90357,7 +90357,7 @@
   },
   "TOUJEO SOLOSTAR 300 I.U./ML 1.5 ML 3 PENS": {
     "name": "TOUJEO SOLOSTAR 300 I.U./ML 1.5 ML 3 PENS",
-    "price": "1416L.E"
+    "price": "1658L.E"
   },
   "TOUJEO SOLOSTAR 300 I.U./ML 1.5 ML 5 PENS": {
     "name": "TOUJEO SOLOSTAR 300 I.U./ML 1.5 ML 5 PENS",
@@ -92085,7 +92085,7 @@
   },
   "ULTRA OMEGA-3 - 90 SOFTGELS (NOW)": {
     "name": "ULTRA OMEGA-3 - 90 SOFTGELS (NOW)",
-    "price": "2350L.E"
+    "price": "2600L.E"
   },
   "ULTRA PAN CREAM 50 GM": {
     "name": "ULTRA PAN CREAM 50 GM",
@@ -101269,22 +101269,46 @@
   },
   "CALMIPERASTINE 4.4MG 30 CH.TABS": {
     "name": "CALMIPERASTINE 4.4MG 30 CH.TABS",
-    "price": "48"
+    "price": "48L.E"
   },
   "MAKKAH 60ML HAIR LOTION": {
     "name": "MAKKAH 60ML HAIR LOTION",
-    "price": "79"
+    "price": "79L.E"
   },
   "REST PUNCH 30 CAPS": {
     "name": "REST PUNCH 30 CAPS",
-    "price": "147"
+    "price": "147L.E"
   },
   "SOLVACAL 30 TABS": {
     "name": "SOLVACAL 30 TABS",
-    "price": "190"
+    "price": "190L.E"
   },
   "VAXFERA 30 TABS": {
     "name": "VAXFERA 30 TABS",
-    "price": "195"
+    "price": "195L.E"
+  },
+  "DALAFUNGIL 100 MG 30 ML PWD FOR I.V. VIAL": {
+    "name": "DALAFUNGIL 100 MG 30 ML PWD FOR I.V. VIAL",
+    "price": "1346"
+  },
+  "MOIST-1 CICA CREAM 50 ML": {
+    "name": "MOIST-1 CICA CREAM 50 ML",
+    "price": "185"
+  },
+  "MOIST-1 CREAM GEL 100 ML": {
+    "name": "MOIST-1 CREAM GEL 100 ML",
+    "price": "240"
+  },
+  "MOIST-1 HAND CREAM 60 GM": {
+    "name": "MOIST-1 HAND CREAM 60 GM",
+    "price": "140"
+  },
+  "SANSO MAGNESIUM 250 MG (PER SERV.) 28 TABS.": {
+    "name": "SANSO MAGNESIUM 250 MG (PER SERV.) 28 TABS.",
+    "price": "200"
+  },
+  "SANSO MAGNESIUM TRIO 28 TABS.": {
+    "name": "SANSO MAGNESIUM TRIO 28 TABS.",
+    "price": "380"
   }
 }

@@ -70044,14 +70044,14 @@
   "HEALTHIFUSE 2% TOPICAL CREAM 15 GM": {
     "search_name": "HEALTHIFUSE 2% TOPICAL CREAM 15 GM",
     "name": "HEALTHIFUSE 2% TOPICAL CREAM 15 GM",
-    "price": "19L.E",
+    "price": "44L.E",
     "information": "about fusidic acid^a bacteriostatic steroid antibiotic systemic antibacterial anti-infective.^mechanism of action of fusidic acid^fusidic acid is a bactericidal or. bacteriostatic drug depending upon the concentration. it inhibits the transfer of aminoacid from aminoacyl srna to the protein. this will leads to inhibition of protein synthesis in the bacteria and prevent the growth of microbes.ssindications for fusidic acidsprimary and secondary skin infections s1. impetigo s2. erythrasma s3. folliculitis s4. sycosis barbae s5. hidradenitis",
     "category": "topical antibiotic"
   },
   "HEALTHIFUSE 2% TOPICAL CREAM 30 GM": {
     "search_name": "HEALTHIFUSE 2% TOPICAL CREAM 30 GM",
     "name": "HEALTHIFUSE 2% TOPICAL CREAM 30 GM",
-    "price": "33L.E",
+    "price": "79L.E",
     "information": "about fusidic acid^a bacteriostatic steroid antibiotic systemic antibacterial anti-infective.^mechanism of action of fusidic acid^fusidic acid is a bactericidal or. bacteriostatic drug depending upon the concentration. it inhibits the transfer of aminoacid from aminoacyl srna to the protein. this will leads to inhibition of protein synthesis in the bacteria and prevent the growth of microbes.ssindications for fusidic acidsprimary and secondary skin infections s1. impetigo s2. erythrasma s3. folliculitis s4. sycosis barbae s5. hidradenitis",
     "category": "topical antibiotic"
   },
@@ -177294,5 +177294,19 @@
     "price": "380L.E",
     "information": "Magnesium Glycinate is known for its high absorption and is gentle on the stomach, supporting sleep and relaxation to help you fall asleep faster. Magnesium Malate supports energy and muscle recovery, making it a great partner for active days. Magnesium Citrate offers fast and effective absorption. Together, they help support normal psychological function, energy production, and healthy bones and teeth, while reducing tiredness and fatigue. Active Ingredients of Immuno-Mash Magnesium: -Magnesium Glycinate 874 mg for high absorption, gentle on the stomach, and support for sleep and relaxation -Magnesium Malate 400 mg to support energy and muscle recovery -Magnesium Citrate 400 mg for fast, effective absorption *Key Benefits of Immuno-Mash Magnesium: Supports normal psychological function. Helps maintain normal bones and teeth. Supports energy production and reduces tiredness and fatigue. Helps you fall asleep faster and supports relaxation. Supports muscle recovery. Supports normal protein synthesis and plays a role in the process of cell division. Has antioxidant properties. Combines 3 forms of magnesium in one tablet.",
     "category": "magnesium supplement"
+  },
+  "JAXNOR ADVANCE 20 FILM COATED TABS": {
+    "search_name": "JAXNOR ADVANCE 20 FILM COATED TABS",
+    "name": "JAXNOR ADVANCE 20 FILM COATED TABS",
+    "price": "290L.E",
+    "information": "Antioxidant support and helps address oxidative stress associated with neuropathy Protects nerves by blocking the toxic sugar pathways that damage them Suuports neurotransmitter metabolism Repairs damaged nerves by rebuilding rheir myelin sheath and restoring nerve conduction Supports neuromuscular function and overall vitamin d sufficiency",
+    "category": "dietary supplement"
+  },
+  "PENTACLEAN INTIMA BALANCED 250 ML WASH": {
+    "search_name": "PENTACLEAN INTIMA BALANCED 250 ML WASH",
+    "name": "PENTACLEAN INTIMA BALANCED 250 ML WASH",
+    "price": "120L.E",
+    "information": "Indications: .Daily Intimate Hygiene. .Adjunct to Infection Therapy .Ideal after physical activity, Post-Partum & Menstrual Care .Gradual correction of dark spots in the bikini line and vulvar area",
+    "category": "a unique ph balanced formula of lactic acid enriched potent herbal extracts, sodium hyaluronate, niacinamide, aloe vera, and propolis designed to support a comfortable cleansing ritual."
   }
 }

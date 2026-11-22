@@ -40021,11 +40021,11 @@
   },
   "HEALTHIFUSE 2% TOPICAL CREAM 15 GM": {
     "name": "HEALTHIFUSE 2% TOPICAL CREAM 15 GM",
-    "price": "19L.E"
+    "price": "44L.E"
   },
   "HEALTHIFUSE 2% TOPICAL CREAM 30 GM": {
     "name": "HEALTHIFUSE 2% TOPICAL CREAM 30 GM",
-    "price": "33L.E"
+    "price": "79L.E"
   },
   "HEALTHIFUSE-H TOPICAL CREAM 30 GM (N/A)": {
     "name": "HEALTHIFUSE-H TOPICAL CREAM 30 GM (N/A)",
@@ -101289,26 +101289,34 @@
   },
   "DALAFUNGIL 100 MG 30 ML PWD FOR I.V. VIAL": {
     "name": "DALAFUNGIL 100 MG 30 ML PWD FOR I.V. VIAL",
-    "price": "1346"
+    "price": "1346L.E"
   },
   "MOIST-1 CICA CREAM 50 ML": {
     "name": "MOIST-1 CICA CREAM 50 ML",
-    "price": "185"
+    "price": "185L.E"
   },
   "MOIST-1 CREAM GEL 100 ML": {
     "name": "MOIST-1 CREAM GEL 100 ML",
-    "price": "240"
+    "price": "240L.E"
   },
   "MOIST-1 HAND CREAM 60 GM": {
     "name": "MOIST-1 HAND CREAM 60 GM",
-    "price": "140"
+    "price": "140L.E"
   },
   "SANSO MAGNESIUM 250 MG (PER SERV.) 28 TABS.": {
     "name": "SANSO MAGNESIUM 250 MG (PER SERV.) 28 TABS.",
-    "price": "200"
+    "price": "200L.E"
   },
   "SANSO MAGNESIUM TRIO 28 TABS.": {
     "name": "SANSO MAGNESIUM TRIO 28 TABS.",
-    "price": "380"
+    "price": "380L.E"
+  },
+  "JAXNOR ADVANCE 20 FILM COATED TABS": {
+    "name": "JAXNOR ADVANCE 20 FILM COATED TABS",
+    "price": "290"
+  },
+  "PENTACLEAN INTIMA BALANCED 250 ML WASH": {
+    "name": "PENTACLEAN INTIMA BALANCED 250 ML WASH",
+    "price": "120"
   }
 }

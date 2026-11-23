@@ -14751,7 +14751,7 @@
   "AZITHROMASH 500 MG 3 F.C. TABS.": {
     "search_name": "AZITHROMASH 500 MG 3 F.C. TABS.",
     "name": "AZITHROMASH 500 MG 3 F.C. TABS.",
-    "price": "48L.E",
+    "price": "54L.E",
     "information": "description:^azithromycin is a semi-synthetic macrolide antibiotic of the azalide class.^dose:^adult: po- respiratory tract skin and soft tissue infections- 500 mg once daily for 3 days. or. 500mg on day 1 followed by 250mg on days 2 to 5. ^typhoid- 500 mg once daily for 7 days. ^uncomplicated gonorrhoea- 2 g single dose. ^granuloma inguinale- initial: 1 g then 500 mg/day until all lesions has healed completely.^chancroid/chlamydial urethritis: 1 g single dose prophylaxis of disseminated mac infections 1.2 g once weekly. treatment or. secondary prophylaxis: administered along with other antimycobacterials: 500 mg once daily. mechanism of action azithromycin binds to the 50s subunit of the 70s bacterial ribosomes and therefore inhibits rna-dependent protein synthesis in bacterial cells.^half life : 68 hours",
     "category": "antibiotic.macrolide"
   },
@@ -91204,10 +91204,10 @@
   },
   "LUSTRAL 50 MG 10 F.C.TABS. (N/A)": {
     "search_name": "LUSTRAL 50 MG 10 F.C.TABS. (N/A)",
-    "name": "LUSTRAL 50 MG 10 F.C.TABS. (N/A)",
-    "price": "50.5L.E",
-    "information": "About Sertraline^Selective Serotonin Reuptake Inhibitor (SSRI) Antidepressant Antidepressant^Mechanism of Action of Sertraline^Sertraline blocks the re-uptake of neurotransmitter Serotonin from the synapse in to the presynaptic nerve terminal in the CNS. This will prolong the action of Serotonin (5HT) and it is useful in the treatment of depression.^Side Effects of Sertraline^1. Insomnia ^2. Nausea ^3. Diarrhoea ^4. Headache ^5. Fatigue ^6. Dizziness ^7. Tremor ^8. Somnolence ^9. Dry mouth ^10. Anorexia ^11. Impotence ^12. Increased sweating ^13. Constipation ^14. Dyspepsia ^15. Agitation ^16. Malaise ^17. Abdominal pain",
-    "category": "psychiatric.antidepressants"
+    "name": "",
+    "price": "",
+    "information": "",
+    "category": ""
   },
   "LUSTRAL 50 MG 20 F.C.TABS.": {
     "search_name": "LUSTRAL 50 MG 20 F.C.TABS.",
@@ -128935,7 +128935,7 @@
   "RAMPECARDIN 5 MG 7 TABS": {
     "search_name": "RAMPECARDIN 5 MG 7 TABS",
     "name": "RAMPECARDIN 5 MG 7 TABS",
-    "price": "10L.E",
+    "price": "19L.E",
     "information": "About Ramipril Angiotensin - converting enzyme inhibitor, Antihypertensive. Mechanism of Action of Ramipril It is a prodrug and converted in to active Ramiprilat; which is an angiotensin converting enzyme inhibitor prevents the conversion of angiotensin-1 to angiotensin-2 and abolishes the pressor actions of angiotensin. It decreases aldosterone secretion, sodium and water retention, and total peripheral resistance, leads to fall in BP. The arterioles dilate and the compliance of larger arteries is increased. Both systolic and diastolic BP is lowered. The drug does not compromise renal, cerebral, and coronary blood flow. The drug also increases plasma kinin levels and potentiate the hypotensive action of exogenously administered bradykinin. It is used for treatment of systolic heart failure, because it improves symptoms, decrease mortality and reduce ventricular hypertrophy. It reduces both preload and after load and thus increasing cardiac out put in patients with heart failure.",
     "category": "anti-hypertensive.ace"
   },
@@ -177308,5 +177308,75 @@
     "price": "120L.E",
     "information": "Indications: .Daily Intimate Hygiene. .Adjunct to Infection Therapy .Ideal after physical activity, Post-Partum & Menstrual Care .Gradual correction of dark spots in the bikini line and vulvar area",
     "category": "a unique ph balanced formula of lactic acid enriched potent herbal extracts, sodium hyaluronate, niacinamide, aloe vera, and propolis designed to support a comfortable cleansing ritual."
+  },
+  "COMBOPATHY 20 TABS": {
+    "search_name": "COMBOPATHY 20 TABS",
+    "name": "COMBOPATHY 20 TABS",
+    "price": "265L.E",
+    "information": "Dose: For adults only, one tablet daily.",
+    "category": "multivitamin"
+  },
+  "DELTAVIT PLUS 30 F.C. TABS.": {
+    "search_name": "DELTAVIT PLUS 30 F.C. TABS.",
+    "name": "DELTAVIT PLUS 30 F.C. TABS.",
+    "price": "150L.E",
+    "information": "Each tablet contains: -Vitamin B1 .... 200 mg -Vitamin B6 .... 50 mg -Vitamin B12 .... 1000 mcg",
+    "category": "multivitamin"
+  },
+  "FLAGOSHOWN 5 MG 30 F.C. TABS.": {
+    "search_name": "FLAGOSHOWN 5 MG 30 F.C. TABS.",
+    "name": "FLAGOSHOWN 5 MG 30 F.C. TABS.",
+    "price": "201L.E",
+    "information": "About Tadalafil^A Phosphodiesterase 5 enzyme inhibitor Treating erectile dysfunction (ED).^Mechanism of Action of Tadalafil^Tadalafil is a phosphodiesterase enzyme (PDE5) inhibitor. This enzyme is responsible for the degradation cyclic guanosine monophosphate (cGMP) produced in reaction to sexual stimulation. The more cGMP is available the more durable the erection. Tadalafil inhibits the PDE5 enzyme preserving cGMP levels therefore aiding erection viability and durability ^Erection of the penis is caused by the filling of the penis with blood. Filling occurs because the blood vessels that bring blood to the penis increase in size and deliver more blood to the penis and at the same time the blood vessels that take blood away from the penis decrease in size and remove less blood from the penis. ^Sexual stimulation that leads to an erection causes the production and release of nitric oxide in the penis. The nitric oxide causes an enzyme guanylate cyclase",
+    "category": "sexual tonic"
+  },
+  "LIMITLESS RENOX FAWAR 6 SACHETS": {
+    "search_name": "LIMITLESS RENOX FAWAR 6 SACHETS",
+    "name": "LIMITLESS RENOX FAWAR 6 SACHETS",
+    "price": "54L.E",
+    "information": "Experience fast and prolonged relief from heartburn and acidity with Limitless Renox Fawar. Its dual-action carbonate system combines sodium bicarbonate and potassium bicarbonate for a rapid antacid effect, while calcium carbonate and magnesium carbonate provide prolonged action to help maintain digestive comfort.",
+    "category": "antacid"
+  },
+  "LUSTRAL 100 MG 20 F.C.TABS.": {
+    "search_name": "LUSTRAL 100 MG 20 F.C.TABS.",
+    "name": "LUSTRAL 100 MG 20 F.C.TABS.",
+    "price": "220L.E",
+    "information": "About Sertraline^Selective Serotonin Reuptake Inhibitor (SSRI) Antidepressant Antidepressant^Mechanism of Action of Sertraline^Sertraline blocks the re-uptake of neurotransmitter Serotonin from the synapse in to the presynaptic nerve terminal in the CNS. This will prolong the action of Serotonin (5HT) and it is useful in the treatment of depression.^Side Effects of Sertraline^1. Insomnia ^2. Nausea ^3. Diarrhoea ^4. Headache ^5. Fatigue ^6. Dizziness ^7. Tremor ^8. Somnolence ^9. Dry mouth ^10. Anorexia ^11. Impotence ^12. Increased sweating ^13. Constipation ^14. Dyspepsia ^15. Agitation ^16. Malaise ^17. Abdominal pain",
+    "category": "psychiatric.antidepressants"
+  },
+  "STIVAGRA 40 MG 84 F.C. TABS.": {
+    "search_name": "STIVAGRA 40 MG 84 F.C. TABS.",
+    "name": "STIVAGRA 40 MG 84 F.C. TABS.",
+    "price": "26645L.E",
+    "information": "Regorafenib is approved to treat specific advanced cancers when prior therapies are no longer effective: *Metastatic colorectal cancer (mCRC): For patients previously treated with standard chemotherapies and other targeted agents (such as anti-VEGF or anti-EGFR therapies, when appropriate). *Gastrointestinal stromal tumors (GIST): For locally advanced, unresectable, or metastatic GIST after prior treatment with imatinib and sunitinib. *Hepatocellular carcinoma (HCC): For adults with liver cancer previously treated with sorafenib.",
+    "category": "antineoplastic"
+  },
+  "VASCULIT 500MG/5ML SYRUP 60 ML": {
+    "search_name": "VASCULIT 500MG/5ML SYRUP 60 ML",
+    "name": "VASCULIT 500MG/5ML SYRUP 60 ML",
+    "price": "350L.E",
+    "information": "Support normal brain functions",
+    "category": "support normal brain functions"
+  },
+  "VASQUINON 120 MCG 30 H.G. CAPS.": {
+    "search_name": "VASQUINON 120 MCG 30 H.G. CAPS.",
+    "name": "VASQUINON 120 MCG 30 H.G. CAPS.",
+    "price": "180L.E",
+    "information": "vitamin k2",
+    "category": ""
+  },
+  "VASQUINON 45 MCG 30 H.G. CAPS.": {
+    "search_name": "VASQUINON 45 MCG 30 H.G. CAPS.",
+    "name": "VASQUINON 45 MCG 30 H.G. CAPS.",
+    "price": "100L.E",
+    "information": "vitamin k2",
+    "category": ""
+  },
+  "VASQUINON 90 MCG 30 H.G. CAPS.": {
+    "search_name": "VASQUINON 90 MCG 30 H.G. CAPS.",
+    "name": "VASQUINON 90 MCG 30 H.G. CAPS.",
+    "price": "160L.E",
+    "information": "vitamin k2",
+    "category": ""
   }
 }

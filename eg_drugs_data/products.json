@@ -8413,7 +8413,7 @@
   },
   "AZITHROMASH 500 MG 3 F.C. TABS.": {
     "name": "AZITHROMASH 500 MG 3 F.C. TABS.",
-    "price": "48L.E"
+    "price": "54L.E"
   },
   "AZITHROMASH 500 MG 6 F.C. TABS. (N/A)": {
     "name": "AZITHROMASH 500 MG 6 F.C. TABS. (N/A)",
@@ -52109,7 +52109,7 @@
   },
   "LUSTRAL 50 MG 10 F.C.TABS. (N/A)": {
     "name": "LUSTRAL 50 MG 10 F.C.TABS. (N/A)",
-    "price": "50.5L.E"
+    "price": ""
   },
   "LUSTRAL 50 MG 20 F.C.TABS.": {
     "name": "LUSTRAL 50 MG 20 F.C.TABS.",
@@ -73665,7 +73665,7 @@
   },
   "RAMPECARDIN 5 MG 7 TABS": {
     "name": "RAMPECARDIN 5 MG 7 TABS",
-    "price": "10L.E"
+    "price": "19L.E"
   },
   "RAMPECARDIN CO 2.5/12.5MG 7 TAB.": {
     "name": "RAMPECARDIN CO 2.5/12.5MG 7 TAB.",
@@ -101313,10 +101313,50 @@
   },
   "JAXNOR ADVANCE 20 FILM COATED TABS": {
     "name": "JAXNOR ADVANCE 20 FILM COATED TABS",
-    "price": "290"
+    "price": "290L.E"
   },
   "PENTACLEAN INTIMA BALANCED 250 ML WASH": {
     "name": "PENTACLEAN INTIMA BALANCED 250 ML WASH",
-    "price": "120"
+    "price": "120L.E"
+  },
+  "COMBOPATHY 20 TABS": {
+    "name": "COMBOPATHY 20 TABS",
+    "price": "265"
+  },
+  "DELTAVIT PLUS 30 F.C. TABS.": {
+    "name": "DELTAVIT PLUS 30 F.C. TABS.",
+    "price": "150"
+  },
+  "FLAGOSHOWN 5 MG 30 F.C. TABS.": {
+    "name": "FLAGOSHOWN 5 MG 30 F.C. TABS.",
+    "price": "201"
+  },
+  "LIMITLESS RENOX FAWAR 6 SACHETS": {
+    "name": "LIMITLESS RENOX FAWAR 6 SACHETS",
+    "price": "54"
+  },
+  "LUSTRAL 100 MG 20 F.C.TABS.": {
+    "name": "LUSTRAL 100 MG 20 F.C.TABS.",
+    "price": "220"
+  },
+  "STIVAGRA 40 MG 84 F.C. TABS.": {
+    "name": "STIVAGRA 40 MG 84 F.C. TABS.",
+    "price": "26645"
+  },
+  "VASCULIT 500MG/5ML SYRUP 60 ML": {
+    "name": "VASCULIT 500MG/5ML SYRUP 60 ML",
+    "price": "350"
+  },
+  "VASQUINON 120 MCG 30 H.G. CAPS.": {
+    "name": "VASQUINON 120 MCG 30 H.G. CAPS.",
+    "price": "180"
+  },
+  "VASQUINON 45 MCG 30 H.G. CAPS.": {
+    "name": "VASQUINON 45 MCG 30 H.G. CAPS.",
+    "price": "100"
+  },
+  "VASQUINON 90 MCG 30 H.G. CAPS.": {
+    "name": "VASQUINON 90 MCG 30 H.G. CAPS.",
+    "price": "160"
   }
 }

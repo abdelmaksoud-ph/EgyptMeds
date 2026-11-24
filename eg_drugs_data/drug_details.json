@@ -155038,7 +155038,7 @@
   "TERBAFENOL 1% TOP. SPRAY 30 ML": {
     "search_name": "TERBAFENOL 1% TOP. SPRAY 30 ML",
     "name": "TERBAFENOL 1% TOP. SPRAY 30 ML",
-    "price": "20.5L.E",
+    "price": "30L.E",
     "information": "About Terbinafine^A synthetic allylamine derivative Antifungal.^Mechanism of Action of Terbinafine^Terbinafine is a fungicidal drug. It interfere the conversion of Squalene to Ergosterol by inhibiting the enzyme Squalene epoxidase.This results in accumulation of Squalene in the fungal cells and leads to membrane distortion and death of the Fungus.^Indications for Terbinafine^1. Tinea pedis ^2. Tinea corporis ^3. Tinea capitis ^4. Tinea cruris ^5. Onychomycosis ^Interactions for Terbinafine^Cimetidine: Terbinafine clearance is decreased 33%. ^Rifampicin: Terbinafine clearance is increased 100%. ^Terfenadine: Terbinafine clearance is decreased 16%. ^Cyclosprorin: Clearance of cyclospronine increased by 15%.",
     "category": "antifungals.allylamines"
   },
@@ -169591,42 +169591,42 @@
   "VLOOMDERMAROOT 120GM HAIR CREAM": {
     "search_name": "VLOOMDERMAROOT 120GM HAIR CREAM",
     "name": "VLOOMDERMAROOT 120GM HAIR CREAM",
-    "price": "199L.E",
+    "price": "230L.E",
     "information": "Hair cream",
     "category": "hair cream"
   },
   "VLOOMDERMAROOT 150ML FACIAL CLEANSING FOAMING": {
     "search_name": "VLOOMDERMAROOT 150ML FACIAL CLEANSING FOAMING",
     "name": "VLOOMDERMAROOT 150ML FACIAL CLEANSING FOAMING",
-    "price": "199L.E",
+    "price": "230L.E",
     "information": "Facial cleansing foaming",
     "category": "facial cleansing foaming"
   },
   "VLOOMDERMAROOT 250 ML SHAMPOO": {
     "search_name": "VLOOMDERMAROOT 250 ML SHAMPOO",
     "name": "VLOOMDERMAROOT 250 ML SHAMPOO",
-    "price": "220L.E",
+    "price": "240L.E",
     "information": "Shampoo",
     "category": "shampoo"
   },
   "VLOOMDERMAROOT 250ML ANTI DANDRUFF SHAMPOO": {
     "search_name": "VLOOMDERMAROOT 250ML ANTI DANDRUFF SHAMPOO",
     "name": "VLOOMDERMAROOT 250ML ANTI DANDRUFF SHAMPOO",
-    "price": "240L.E",
+    "price": "250L.E",
     "information": "Anti dandruff shampoo",
     "category": "anti dandruff shampoo"
   },
   "VLOOMDERMAROOT 50GM WHITENING CREAM": {
     "search_name": "VLOOMDERMAROOT 50GM WHITENING CREAM",
     "name": "VLOOMDERMAROOT 50GM WHITENING CREAM",
-    "price": "200L.E",
+    "price": "249L.E",
     "information": "Whitening cream",
     "category": "whitening cream"
   },
   "VLOOMDERMAROOT 75GM MASSAGE GEL": {
     "search_name": "VLOOMDERMAROOT 75GM MASSAGE GEL",
     "name": "VLOOMDERMAROOT 75GM MASSAGE GEL",
-    "price": "100L.E",
+    "price": "120L.E",
     "information": "Massage gel",
     "category": "massage gel"
   },
@@ -177378,5 +177378,19 @@
     "price": "160L.E",
     "information": "vitamin k2",
     "category": ""
+  },
+  "PHYSIOPLASM I.V. INF. 500 ML": {
+    "search_name": "PHYSIOPLASM I.V. INF. 500 ML",
+    "name": "PHYSIOPLASM I.V. INF. 500 ML",
+    "price": "60L.E",
+    "information": "INDICATIONS AND USAGE Physioplasm Injection pH 7.4 is indicated as a source of water and electrolytes or as an alkalinizing agent.",
+    "category": "ringer"
+  },
+  "PREMIUM 60GM EMULGEL": {
+    "search_name": "PREMIUM 60GM EMULGEL",
+    "name": "PREMIUM 60GM EMULGEL",
+    "price": "80L.E",
+    "information": "Analgesic & Anti-Edematous & Anti-Inflammatory & Moisturiser",
+    "category": "skin massage"
   }
 }

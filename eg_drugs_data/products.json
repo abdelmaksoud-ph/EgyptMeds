@@ -88573,7 +88573,7 @@
   },
   "TERBAFENOL 1% TOP. SPRAY 30 ML": {
     "name": "TERBAFENOL 1% TOP. SPRAY 30 ML",
-    "price": "20.5L.E"
+    "price": "30L.E"
   },
   "TERBECOMASIL 1% SPRAY 30 ML": {
     "name": "TERBECOMASIL 1% SPRAY 30 ML",
@@ -96889,27 +96889,27 @@
   },
   "VLOOMDERMAROOT 120GM HAIR CREAM": {
     "name": "VLOOMDERMAROOT 120GM HAIR CREAM",
-    "price": "199L.E"
+    "price": "230L.E"
   },
   "VLOOMDERMAROOT 150ML FACIAL CLEANSING FOAMING": {
     "name": "VLOOMDERMAROOT 150ML FACIAL CLEANSING FOAMING",
-    "price": "199L.E"
+    "price": "230L.E"
   },
   "VLOOMDERMAROOT 250 ML SHAMPOO": {
     "name": "VLOOMDERMAROOT 250 ML SHAMPOO",
-    "price": "220L.E"
+    "price": "240L.E"
   },
   "VLOOMDERMAROOT 250ML ANTI DANDRUFF SHAMPOO": {
     "name": "VLOOMDERMAROOT 250ML ANTI DANDRUFF SHAMPOO",
-    "price": "240L.E"
+    "price": "250L.E"
   },
   "VLOOMDERMAROOT 50GM WHITENING CREAM": {
     "name": "VLOOMDERMAROOT 50GM WHITENING CREAM",
-    "price": "200L.E"
+    "price": "249L.E"
   },
   "VLOOMDERMAROOT 75GM MASSAGE GEL": {
     "name": "VLOOMDERMAROOT 75GM MASSAGE GEL",
-    "price": "100L.E"
+    "price": "120L.E"
   },
   "VOCALEIVE 60 PASTILLES": {
     "name": "VOCALEIVE 60 PASTILLES",
@@ -101321,42 +101321,50 @@
   },
   "COMBOPATHY 20 TABS": {
     "name": "COMBOPATHY 20 TABS",
-    "price": "265"
+    "price": "265L.E"
   },
   "DELTAVIT PLUS 30 F.C. TABS.": {
     "name": "DELTAVIT PLUS 30 F.C. TABS.",
-    "price": "150"
+    "price": "150L.E"
   },
   "FLAGOSHOWN 5 MG 30 F.C. TABS.": {
     "name": "FLAGOSHOWN 5 MG 30 F.C. TABS.",
-    "price": "201"
+    "price": "201L.E"
   },
   "LIMITLESS RENOX FAWAR 6 SACHETS": {
     "name": "LIMITLESS RENOX FAWAR 6 SACHETS",
-    "price": "54"
+    "price": "54L.E"
   },
   "LUSTRAL 100 MG 20 F.C.TABS.": {
     "name": "LUSTRAL 100 MG 20 F.C.TABS.",
-    "price": "220"
+    "price": "220L.E"
   },
   "STIVAGRA 40 MG 84 F.C. TABS.": {
     "name": "STIVAGRA 40 MG 84 F.C. TABS.",
-    "price": "26645"
+    "price": "26645L.E"
   },
   "VASCULIT 500MG/5ML SYRUP 60 ML": {
     "name": "VASCULIT 500MG/5ML SYRUP 60 ML",
-    "price": "350"
+    "price": "350L.E"
   },
   "VASQUINON 120 MCG 30 H.G. CAPS.": {
     "name": "VASQUINON 120 MCG 30 H.G. CAPS.",
-    "price": "180"
+    "price": "180L.E"
   },
   "VASQUINON 45 MCG 30 H.G. CAPS.": {
     "name": "VASQUINON 45 MCG 30 H.G. CAPS.",
-    "price": "100"
+    "price": "100L.E"
   },
   "VASQUINON 90 MCG 30 H.G. CAPS.": {
     "name": "VASQUINON 90 MCG 30 H.G. CAPS.",
-    "price": "160"
+    "price": "160L.E"
+  },
+  "PHYSIOPLASM I.V. INF. 500 ML": {
+    "name": "PHYSIOPLASM I.V. INF. 500 ML",
+    "price": "60"
+  },
+  "PREMIUM 60GM EMULGEL": {
+    "name": "PREMIUM 60GM EMULGEL",
+    "price": "80"
   }
 }

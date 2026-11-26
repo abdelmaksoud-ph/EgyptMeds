@@ -22101,7 +22101,7 @@
   "BRONZE CALCIUM 100 ML SYRUP": {
     "search_name": "BRONZE CALCIUM 100 ML SYRUP",
     "name": "BRONZE CALCIUM 100 ML SYRUP",
-    "price": "59L.E",
+    "price": "145L.E",
     "information": "Calcium magnasium zinc with vitamin D3 and K2 oral syrup supports healthy bones and teeth",
     "category": "calcium magnasium zinc with vitamin d3 and k2 oral syrup"
   },
@@ -33861,7 +33861,7 @@
   "CONA-ADIONE 10MG 30 CHEWABLE TAB.": {
     "search_name": "CONA-ADIONE 10MG 30 CHEWABLE TAB.",
     "name": "CONA-ADIONE 10MG 30 CHEWABLE TAB.",
-    "price": "54L.E",
+    "price": "63L.E",
     "information": "About Vitamin K^Fat soluble vitamin Antihemorrhagic.^Mechanism of Action of Vitamin K^Phytonadione (Vitamin K1) is a synthetic form of vitamin K and is lipid soluble. Vitamin K acts as a cofactor in the synthesis of coagulation proteins prothrombin factors VII IX and X by liver. Vitamin K dependent changes in the final stage of synthesis of these coagulation proteins is gama-carboxylation of glutamate residues of these zymogen proteins and their descarboxy-forms converted in to active forms which confers on them the capacity to bind Ca2 + and to get bound to the phospholipid surfaces which are essential properties for participation in the coagulation cascade.",
     "category": "vitamin k"
   },
@@ -33987,14 +33987,14 @@
   "CONCERTA 18MG 30 EXTENDED RELEASE TAB.": {
     "search_name": "CONCERTA 18MG 30 EXTENDED RELEASE TAB.",
     "name": "CONCERTA 18MG 30 EXTENDED RELEASE TAB.",
-    "price": "257L.E",
+    "price": "537L.E",
     "information": "ABOUT METHYLPHENIDATE PSYCHOSTIMULANT, SYMPATHOMIMETIC ,PIPERIDINE CLASS. MECHANISM OF ACTION OF METHYLPHENIDATE METHYLPHENIDATE ACTIVATES THE BRAIN STEM AROUSAL SYSTEM AND CORTEX. BLOCKING THE REUPTAKE OF DOPAMINE INTO NERVE TERMINALS (AS WELL AS STIMULATING THE RELEASE OF DOPAMINE FROM DOPAMINE NERVE TERMINALS) RESULTING IN INCREASED DOPAMINE LEVELS IN THE SYNAPSE. INDICATIONS FOR METHYLPHENIDATE 1.ATTENTION-DEFICIT HYPERACTIVITY DISORDER ( ADHD ) 2.NARCOLEPSY INTERACTIONS FOR METHYLPHENIDATE 1) ADRENERGIC AGONIST DRUGS OR PEMOLINE WITH METHYLPHENIDATE INCREASES THE RISK OF LIVER TOXICITY 2) DRUGS THAT ELEVATE BP INCLUDING MAOIS, COUMARIN, ANTICOAGULANTS, ANTICONVULSANTS, TRICYCLIC ANTIDEPRESSANTS, DOPA, ANTIPSYCHOTICS, PHENYLBUTAZONE. ALCOHOL.",
     "category": "attention-deficit hyperactivity disorder"
   },
   "CONCERTA 36MG 30 EXTENDED RELEASE TAB.": {
     "search_name": "CONCERTA 36MG 30 EXTENDED RELEASE TAB.",
     "name": "CONCERTA 36MG 30 EXTENDED RELEASE TAB.",
-    "price": "428L.E",
+    "price": "726L.E",
     "information": "about methylphenidate^psychostimulant sympathomimetic piperidine class.^^mechanism of action of methylphenidate^methylphenidate activates the brain stem arousal system and cortex. blocking the reuptake of dopamine into nerve terminals (as well as stimulating the release of dopamine from dopamine nerve terminals) resulting in increased dopamine levels in the synapse.^indications for methylphenidate^1.attention-deficit hyperactivity disorder ( adhd ) ^2.narcolepsy ^interactions for methylphenidate^1) adrenergic agonist drugs or. pemoline with methylphenidate increases the risk of liver toxicity ^2) drugs that elevate bp including maois coumarin anticoagulants anticonvulsants tricyclic antidepressants dopa antipsychotics phenylbutazone. alcohol.",
     "category": "attention-deficit hyperactivity disorder"
   },
@@ -177392,5 +177392,33 @@
     "price": "80L.E",
     "information": "Analgesic & Anti-Edematous & Anti-Inflammatory & Moisturiser",
     "category": "skin massage"
+  },
+  "INUBELLY 120ML SYRUP": {
+    "search_name": "INUBELLY 120ML SYRUP",
+    "name": "INUBELLY 120ML SYRUP",
+    "price": "120L.E",
+    "information": "Laxative Therapy for Functional Constipation.",
+    "category": "laxative"
+  },
+  "VENTI LEAF 120ML SYRUP": {
+    "search_name": "VENTI LEAF 120ML SYRUP",
+    "name": "VENTI LEAF 120ML SYRUP",
+    "price": "85L.E",
+    "information": "Support Respiratory system health",
+    "category": "support respiratory system health"
+  },
+  "VITAMIN C AND ZINC 30 TABS": {
+    "search_name": "VITAMIN C AND ZINC 30 TABS",
+    "name": "VITAMIN C AND ZINC 30 TABS",
+    "price": "230L.E",
+    "information": "Vitamin C and zinc",
+    "category": "multi viramin"
+  },
+  "VITAMIN D3 30 TABS": {
+    "search_name": "VITAMIN D3 30 TABS",
+    "name": "VITAMIN D3 30 TABS",
+    "price": "220L.E",
+    "information": "MultiVitami tablets D3 4000 IU + Calcium",
+    "category": "multivitami tablets"
   }
 }

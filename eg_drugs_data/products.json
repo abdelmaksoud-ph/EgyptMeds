@@ -12593,7 +12593,7 @@
   },
   "BRONZE CALCIUM 100 ML SYRUP": {
     "name": "BRONZE CALCIUM 100 ML SYRUP",
-    "price": "59L.E"
+    "price": "145L.E"
   },
   "BRONZYLASE 1000 U.CEIP /5ML 100 ML SYRUP": {
     "name": "BRONZYLASE 1000 U.CEIP /5ML 100 ML SYRUP",
@@ -19341,7 +19341,7 @@
   },
   "CONA-ADIONE 10MG 30 CHEWABLE TAB.": {
     "name": "CONA-ADIONE 10MG 30 CHEWABLE TAB.",
-    "price": "54L.E"
+    "price": "63L.E"
   },
   "CONAFUTAL 500/600 MG 20 F.C.TABS.": {
     "name": "CONAFUTAL 500/600 MG 20 F.C.TABS.",
@@ -19413,11 +19413,11 @@
   },
   "CONCERTA 18MG 30 EXTENDED RELEASE TAB.": {
     "name": "CONCERTA 18MG 30 EXTENDED RELEASE TAB.",
-    "price": "257L.E"
+    "price": "537L.E"
   },
   "CONCERTA 36MG 30 EXTENDED RELEASE TAB.": {
     "name": "CONCERTA 36MG 30 EXTENDED RELEASE TAB.",
-    "price": "428L.E"
+    "price": "726L.E"
   },
   "CONCOR 10 MG 30 F.C. TABS.": {
     "name": "CONCOR 10 MG 30 F.C. TABS.",
@@ -101366,5 +101366,21 @@
   "PREMIUM 60GM EMULGEL": {
     "name": "PREMIUM 60GM EMULGEL",
     "price": "80L.E"
+  },
+  "INUBELLY 120ML SYRUP": {
+    "name": "INUBELLY 120ML SYRUP",
+    "price": "120"
+  },
+  "VENTI LEAF 120ML SYRUP": {
+    "name": "VENTI LEAF 120ML SYRUP",
+    "price": "85"
+  },
+  "VITAMIN C AND ZINC 30 TABS": {
+    "name": "VITAMIN C AND ZINC 30 TABS",
+    "price": "230"
+  },
+  "VITAMIN D3 30 TABS": {
+    "name": "VITAMIN D3 30 TABS",
+    "price": "220"
   }
 }
